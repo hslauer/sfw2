@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>writing_prompt</type>
+<title><![CDATA[Writing Prompts]]></title>
+<items>
+  <item>
+    <prompt><![CDATA[Write a letter about a game that you like to play.  Make sure to tell how the game uses numbers or counting, or teaches you to keep score.]]></prompt>
+    <mode><![CDATA[narrative]]></mode>
+    <contentArea><![CDATA[math]]></contentArea>
+    <sourcePage><![CDATA[101]]></sourcePage>
+  </item>
+  <item>
+    <prompt><![CDATA[Imagine that you are your favorite wild animal.  Write a story telling where you live, what you do, and what makes you special.]]></prompt>
+    <mode><![CDATA[narrative]]></mode>
+    <contentArea><![CDATA[science]]></contentArea>
+    <sourcePage><![CDATA[101]]></sourcePage>
+  </item>
+  <item>
+    <prompt><![CDATA[Read a fable or two from another country or culture.  Then write a fable that has the same kind of characters, plot, and setting.]]></prompt>
+    <mode><![CDATA[narrative]]></mode>
+    <contentArea><![CDATA[social_studies]]></contentArea>
+    <sourcePage><![CDATA[101]]></sourcePage>
+  </item>
+  <item>
+    <prompt><![CDATA[Write a descriptive paper about your favorite place in the United States.  Use your five senses to describe what you see, hear, taste, touch, and smell.]]></prompt>
+    <mode><![CDATA[descriptive]]></mode>
+    <contentArea><![CDATA[social_studies]]></contentArea>
+    <sourcePage><![CDATA[195]]></sourcePage>
+  </item>
+  <item>
+    <prompt><![CDATA[Write a compare-and-contrast paper about rain and snow.  How are they alike?  How are they different?]]></prompt>
+    <mode><![CDATA[descriptive]]></mode>
+    <contentArea><![CDATA[science]]></contentArea>
+    <sourcePage><![CDATA[195]]></sourcePage>
+  </item>
+  <item>
+    <prompt><![CDATA[Write a descriptive sketch about your favorite music.  Tell why it is your favorite and what it is like.]]></prompt>
+    <mode><![CDATA[descriptive]]></mode>
+    <contentArea><![CDATA[music]]></contentArea>
+    <sourcePage><![CDATA[195]]></sourcePage>
+  </item>
+  <item>
+    <prompt><![CDATA[Write a factual report about a mathematician and what he or she discovered.]]></prompt>
+    <mode><![CDATA[informative/explanatory]]></mode>
+    <contentArea><![CDATA[math]]></contentArea>
+    <sourcePage><![CDATA[291]]></sourcePage>
+  </item>
+  <item>
+    <prompt><![CDATA[Conduct an experiment. Write a how-to paper telling how you did it and what happened.]]></prompt>
+    <mode><![CDATA[informative/explanatory]]></mode>
+    <contentArea><![CDATA[science]]></contentArea>
+    <sourcePage><![CDATA[291]]></sourcePage>
+  </item>
+  <item>
+    <prompt><![CDATA[Write a personal essay telling about your community. Tell about how your family came to live there and how the community has changed over the years.]]></prompt>
+    <mode><![CDATA[informative/explanatory]]></mode>
+    <contentArea><![CDATA[social_studies]]></contentArea>
+    <sourcePage><![CDATA[291]]></sourcePage>
+  </item>
+  <item>
+    <prompt><![CDATA[Write an opinion letter that tries to convince a friend to read a book you like. Be sure to tell why the book is something that your friend would like, too. Does the book discuss your friend’s hobby or interest?]]></prompt>
+    <mode><![CDATA[opinion]]></mode>
+    <contentArea><![CDATA[language_arts]]></contentArea>
+    <sourcePage><![CDATA[385]]></sourcePage>
+  </item>
+  <item>
+    <prompt><![CDATA[Write an opinion speech about how your classmates can help protect an endangered animal. Do research to find facts that support your opinion.]]></prompt>
+    <mode><![CDATA[opinion]]></mode>
+    <contentArea><![CDATA[science]]></contentArea>
+    <sourcePage><![CDATA[385]]></sourcePage>
+  </item>
+  <item>
+    <prompt><![CDATA[Write an opinion paper about a mystery that happened in the past. Use facts to support your reasons. You might just help solve the mystery!]]></prompt>
+    <mode><![CDATA[opinion]]></mode>
+    <contentArea><![CDATA[social_studies]]></contentArea>
+    <sourcePage><![CDATA[385]]></sourcePage>
+  </item>
+</items>
+</content>

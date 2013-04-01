@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Comparing With Adjectives]]></title>
+<lesson>LEVEL B LESSON 40</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which word best completes each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[A horse is _____ than a donkey.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[taller]]></answer>
+      <answer><![CDATA[tallest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Is the giraffe the _____ of all the animals?]]></question>
+    <answers>
+      <answer><![CDATA[taller]]></answer>
+      <answer correct="true"><![CDATA[tallest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[An elephant is _____ than a rhinoceros.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[bigger]]></answer>
+      <answer><![CDATA[biggest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[But is the elephant the _____ of all the animals?]]></question>
+    <answers>
+      <answer><![CDATA[bigger]]></answer>
+      <answer correct="true"><![CDATA[biggest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Which animal is the _____ of them all?]]></question>
+    <answers>
+      <answer><![CDATA[faster]]></answer>
+      <answer correct="true"><![CDATA[fastest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Is a lion, a tiger, or a cheetah the _____ animal?]]></question>
+    <answers>
+      <answer><![CDATA[faster]]></answer>
+      <answer correct="true"><![CDATA[fastest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Is a turtle _____ than a snail?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[slower]]></answer>
+      <answer><![CDATA[slowest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Or are worms the _____ of all?]]></question>
+    <answers>
+      <answer><![CDATA[slower]]></answer>
+      <answer correct="true"><![CDATA[slowest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[In your opinion, what is the _____ creature alive?]]></question>
+    <answers>
+      <answer><![CDATA[scarier]]></answer>
+      <answer correct="true"><![CDATA[scariest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many people think that snakes are _____ than spiders are.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[scarier]]></answer>
+      <answer><![CDATA[scariest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[But I think that spiders are _____ than snakes are!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[scarier]]></answer>
+      <answer><![CDATA[scariest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The goliath bird-eating spider is the _____ spider in the world.]]></question>
+    <answers>
+      <answer><![CDATA[bigger]]></answer>
+      <answer correct="true"><![CDATA[biggest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[It can be _____ than a dinner plate!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[bigger]]></answer>
+      <answer><![CDATA[biggest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The _____ snake in the world is the anaconda.]]></question>
+    <answers>
+      <answer><![CDATA[bigger]]></answer>
+      <answer correct="true"><![CDATA[biggest]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[It is even _____ than the members of the python family!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[bigger]]></answer>
+      <answer><![CDATA[biggest]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

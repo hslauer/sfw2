@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Subject-Verb Agreement]]></title>
+<lesson>LEVEL B LESSON 31</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which verb agrees with the underlined subject of each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Many <u>animals</u> _____ together on a farm.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[live]]></answer>
+      <answer><![CDATA[lives]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Cows</u> _____ on grass all day long.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[munch]]></answer>
+      <answer><![CDATA[munches]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The best <u>cows</u> _____ a lot of milk.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[make]]></answer>
+      <answer><![CDATA[makes]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[A <u>pig</u> _____ different food than a cow does.]]></question>
+    <answers>
+      <answer><![CDATA[need]]></answer>
+      <answer correct="true"><![CDATA[needs]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many <u>pigs</u> _____ oats and corn.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[eat]]></answer>
+      <answer><![CDATA[eats]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Just like a cow, a <u>sheep</u> _____ to eat grass.]]></question>
+    <answers>
+      <answer><![CDATA[like]]></answer>
+      <answer correct="true"><![CDATA[likes]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[A sheep’s <u>wool</u> _____ very thick.]]></question>
+    <answers>
+      <answer><![CDATA[grow]]></answer>
+      <answer correct="true"><![CDATA[grows]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Farmers</u> _____ this wool every year to make cloth.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[cut]]></answer>
+      <answer><![CDATA[cuts]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Then <u>people</u> _____ wool to make clothes.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[use]]></answer>
+      <answer><![CDATA[uses]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Chickens</u> _____ eggs every day.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[lay]]></answer>
+      <answer><![CDATA[lays]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[A <u>chicken</u> _____ one egg each day.]]></question>
+    <answers>
+      <answer><![CDATA[lay]]></answer>
+      <answer correct="true"><![CDATA[lays]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Goats</u> _____ on some farms, too.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[stay]]></answer>
+      <answer><![CDATA[stays]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Goats</u> _____ milk, too, just like cows do.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[provide]]></answer>
+      <answer><![CDATA[provides]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some <u>farmers</u> _____ dogs to help them work.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[use]]></answer>
+      <answer><![CDATA[uses]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[A farm <u>dog</u> _____ keep the animals together.]]></question>
+    <answers>
+      <answer><![CDATA[help]]></answer>
+      <answer correct="true"><![CDATA[helps]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

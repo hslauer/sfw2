@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Verb <I>Eat</I>]]></title>
+<lesson>LEVEL B LESSON 28</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which word best completes each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[People around the world can _____ many different things.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[eat]]></answer>
+      <answer><![CDATA[ate]]></answer>
+      <answer><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[French people have _____ snails for years.]]></question>
+    <answers>
+      <answer><![CDATA[eat]]></answer>
+      <answer><![CDATA[ate]]></answer>
+      <answer correct="true"><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They will also _____ frog legs and animal brains!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[eat]]></answer>
+      <answer><![CDATA[ate]]></answer>
+      <answer><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I have never _____ frog legs!]]></question>
+    <answers>
+      <answer><![CDATA[eat]]></answer>
+      <answer><![CDATA[ate]]></answer>
+      <answer correct="true"><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[People in Asia can also _____ things that seem different to us.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[eat]]></answer>
+      <answer><![CDATA[ate]]></answer>
+      <answer><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Have you ever _____ a rat?]]></question>
+    <answers>
+      <answer><![CDATA[eat]]></answer>
+      <answer><![CDATA[ate]]></answer>
+      <answer correct="true"><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some people have _____ rats!]]></question>
+    <answers>
+      <answer><![CDATA[eat]]></answer>
+      <answer><![CDATA[ate]]></answer>
+      <answer correct="true"><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[When my dad was in Asia, he _____ a chocolate-covered grasshopper!]]></question>
+    <answers>
+      <answer><![CDATA[eat]]></answer>
+      <answer correct="true"><![CDATA[ate]]></answer>
+      <answer><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I asked him why he _____ it, and he said it was yummy!]]></question>
+    <answers>
+      <answer><![CDATA[eat]]></answer>
+      <answer correct="true"><![CDATA[ate]]></answer>
+      <answer><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[In the Netherlands, people like to _____ horsemeat sandwiches.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[eat]]></answer>
+      <answer><![CDATA[ate]]></answer>
+      <answer><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What’s the weirdest thing you have ever _____?]]></question>
+    <answers>
+      <answer><![CDATA[eat]]></answer>
+      <answer><![CDATA[ate]]></answer>
+      <answer correct="true"><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I once _____ a raw oyster.]]></question>
+    <answers>
+      <answer><![CDATA[eat]]></answer>
+      <answer correct="true"><![CDATA[ate]]></answer>
+      <answer><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[People in other countries think Americans like to _____ unusual foods.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[eat]]></answer>
+      <answer><![CDATA[ate]]></answer>
+      <answer><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Would you ever _____ a rattlesnake?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[eat]]></answer>
+      <answer><![CDATA[ate]]></answer>
+      <answer><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some people in the U.S. West have _____ rattlesnake.]]></question>
+    <answers>
+      <answer><![CDATA[eat]]></answer>
+      <answer><![CDATA[ate]]></answer>
+      <answer correct="true"><![CDATA[eaten]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

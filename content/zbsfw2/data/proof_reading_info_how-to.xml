@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+  <type>proof_reading</type>
+  <title>Informative/Explanatory | How-To Paper</title>
+  <instructions>Drag the proofreading marks to identify the errors. Type misspelled or missing words.</instructions>
+  <text><![CDATA[<p align="center"><b>How to Make a Peanut Butter and Jelly Sandwich</b></p>	You may think it is easy to make a peanut butter and jelly sandwich. I’m going to {-|to} tell you how to make a great one. 
+	Always use wheat bread. Use creamy peanut butter because the kind with nuts is hard to spread. I like to use {l}Strawberry jam. Grape jelly makes a good sandwich, too{.}
+	Use {+|a} table knife for spreading. Spread about two spoons of peanut butter on one slice of bread. Be sure to cover the whole slice{.} Cover the other slice with about two spoons of jam or jelly. {u}place the peanut butter side on the jelly side and enjoy!]]></text>
+
+  
+</content>

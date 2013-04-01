@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Telling or Asking Sentences]]></title>
+<lesson>LEVEL B LESSON 8</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Should each sentence end with a period (.) or with a question mark (?)? Choose your answer below.]]></instruction>
+    <question><![CDATA[What is your favorite song _____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I like many songs from Walt Disney movies _____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Do you like the song “Under the Sea” _____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[“Hakuna Matata” is my favorite song _____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Which famous people sang Disney songs _____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many famous people sang Disney songs _____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Phil Collins made many songs for <I>Tarzan</I> _____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Elton John sang for <I>The Lion King</I> _____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Who sang the song “Beauty and the Beast” _____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What was the first Walt Disney movie _____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[When was Mickey Mouse created _____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Mickey Mouse was “born” in 1928 _____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Have you ever watched <I>Pinocchio</I> _____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<I>Bambi</I> is my favorite Disney movie _____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<I>Bambi </I>almost won an Oscar _____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

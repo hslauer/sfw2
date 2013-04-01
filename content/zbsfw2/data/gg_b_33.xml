@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Verb <I>Be</I>]]></title>
+<lesson>LEVEL B LESSON 33</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which form of <I>be</I> best completes each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Today, sports _____ very popular.]]></question>
+    <answers>
+      <answer><![CDATA[is]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer correct="true"><![CDATA[are]]></answer>
+      <answer><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[In the past, women _____ not often involved in sports.]]></question>
+    <answers>
+      <answer><![CDATA[is]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer><![CDATA[are]]></answer>
+      <answer correct="true"><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Today, women _____ in a lot of different sports.]]></question>
+    <answers>
+      <answer><![CDATA[is]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer correct="true"><![CDATA[are]]></answer>
+      <answer><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sue Bird _____ one of today’s great female basketball players.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[is]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer><![CDATA[are]]></answer>
+      <answer><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Years ago, Babe Didrikson _____ a famous female athlete.]]></question>
+    <answers>
+      <answer><![CDATA[is]]></answer>
+      <answer correct="true"><![CDATA[was]]></answer>
+      <answer><![CDATA[are]]></answer>
+      <answer><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[These days, women _____ even professional boxers!]]></question>
+    <answers>
+      <answer><![CDATA[is]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer correct="true"><![CDATA[are]]></answer>
+      <answer><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Years ago, Muhammad Ali _____ a boxer.]]></question>
+    <answers>
+      <answer><![CDATA[is]]></answer>
+      <answer correct="true"><![CDATA[was]]></answer>
+      <answer><![CDATA[are]]></answer>
+      <answer><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Now, Laila Ali _____ a boxer.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[is]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer><![CDATA[are]]></answer>
+      <answer><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[In the past, some sports _____ only for men.]]></question>
+    <answers>
+      <answer><![CDATA[is]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer><![CDATA[are]]></answer>
+      <answer correct="true"><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Years ago, boxing _____ one of those sports.]]></question>
+    <answers>
+      <answer><![CDATA[is]]></answer>
+      <answer correct="true"><![CDATA[was]]></answer>
+      <answer><![CDATA[are]]></answer>
+      <answer><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Now, most sports _____ for males and females.]]></question>
+    <answers>
+      <answer><![CDATA[is]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer correct="true"><![CDATA[are]]></answer>
+      <answer><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Today, football _____ for boys and girls.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[is]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer><![CDATA[are]]></answer>
+      <answer><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[And now cheerleading _____ for girls and boys.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[is]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer><![CDATA[are]]></answer>
+      <answer><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Male cheerleaders today _____ very strong and athletic.]]></question>
+    <answers>
+      <answer><![CDATA[is]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer correct="true"><![CDATA[are]]></answer>
+      <answer><![CDATA[were]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Women _____ the main cheerleaders until several decades ago.]]></question>
+    <answers>
+      <answer><![CDATA[is]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer><![CDATA[are]]></answer>
+      <answer correct="true"><![CDATA[were]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

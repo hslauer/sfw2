@@ -1,0 +1,18 @@
+<root>
+	<graphicOrganizer name="Fact and Opinion Chart" type="block" variation="fact-opinion" id="6">
+		<entry>
+			<tf x="272" y="28" width = "480" height = "37" useTemp="0" ZB_Block = "1" bold ="1" useFrame="1" strokeW="4" fColor="0x4DC7C7" useFill="0">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="28" y="155" width = "400" height = "355" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="453" y="155" width = "400" height = "355" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xFF9301" useFill="1" fillColor="0xFFE6CC">
+				<text>Click to add text.</text>
+			</tf>
+		</entry>
+			
+</graphicOrganizer>
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+</root>

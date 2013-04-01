@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Simple Predicate]]></title>
+<lesson>LEVEL B LESSON 4</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which underlined word is the simple predicate of each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[<u>There</u> <u>are</u> many kinds of <u>stories</u>.]]></question>
+    <answers>
+      <answer><![CDATA[There]]></answer>
+      <answer correct="true"><![CDATA[are]]></answer>
+      <answer><![CDATA[stories]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many <u>different</u> <u>cultures</u> <u>have</u> their own folktales.]]></question>
+    <answers>
+      <answer><![CDATA[different]]></answer>
+      <answer><![CDATA[cultures]]></answer>
+      <answer correct="true"><![CDATA[have]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some folktales <u>explain</u> the <u>beginning</u> of <u>something</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[explain]]></answer>
+      <answer><![CDATA[something]]></answer>
+      <answer><![CDATA[beginning]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Other <u>folktales</u> <u>entertain</u> their <u>listeners</u>.]]></question>
+    <answers>
+      <answer><![CDATA[folktales]]></answer>
+      <answer correct="true"><![CDATA[entertain]]></answer>
+      <answer><![CDATA[listeners]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>You</u> <u>probably</u> <u>know</u> a few folktales.]]></question>
+    <answers>
+      <answer><![CDATA[You]]></answer>
+      <answer><![CDATA[probably]]></answer>
+      <answer correct="true"><![CDATA[know]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Fairy tales <u>often</u> <u>tell</u> <u>about</u> magical characters.]]></question>
+    <answers>
+      <answer><![CDATA[often]]></answer>
+      <answer correct="true"><![CDATA[tell]]></answer>
+      <answer><![CDATA[about]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The <u>story</u> <u>of</u> Cinderella <u>is</u> a fairy tale.]]></question>
+    <answers>
+      <answer><![CDATA[story]]></answer>
+      <answer><![CDATA[of]]></answer>
+      <answer correct="true"><![CDATA[is]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>A</u> fairy godmother <u>visits</u> <u>Cinderella</u>.]]></question>
+    <answers>
+      <answer><![CDATA[A]]></answer>
+      <answer><![CDATA[Cinderella]]></answer>
+      <answer correct="true"><![CDATA[visits]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[This character <u>uses</u> <u>magic</u> <u>in</u> the story.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[uses]]></answer>
+      <answer><![CDATA[magic]]></answer>
+      <answer><![CDATA[in]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many tall tales <u>tell</u> <u>about</u> <u>Pecos Bill</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[tell]]></answer>
+      <answer><![CDATA[about]]></answer>
+      <answer><![CDATA[Pecos Bill]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Other tall tales <u>share</u> <u>stories</u> about <u>Paul Bunyan</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[share]]></answer>
+      <answer><![CDATA[Paul Bunyan]]></answer>
+      <answer><![CDATA[stories]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Tall</u> tales <u>include</u> a <u>lot</u> of exaggeration.]]></question>
+    <answers>
+      <answer><![CDATA[Tall]]></answer>
+      <answer correct="true"><![CDATA[include]]></answer>
+      <answer><![CDATA[lot]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Exaggeration <u>means</u> <u>untrue</u> or “larger than life” <u>details</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[means]]></answer>
+      <answer><![CDATA[untrue]]></answer>
+      <answer><![CDATA[details]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Fables</u> <u>often</u> <u>teach</u> readers a lesson.]]></question>
+    <answers>
+      <answer><![CDATA[Fables]]></answer>
+      <answer><![CDATA[often]]></answer>
+      <answer correct="true"><![CDATA[teach]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The <u>author</u> <u>Aesop</u> <u>wrote</u> many famous fables.]]></question>
+    <answers>
+      <answer><![CDATA[author]]></answer>
+      <answer><![CDATA[Aesop]]></answer>
+      <answer correct="true"><![CDATA[wrote]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

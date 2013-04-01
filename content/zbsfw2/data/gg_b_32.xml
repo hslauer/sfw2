@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[More Practice in Subject-Verb Agreement]]></title>
+<lesson>LEVEL B LESSON 32</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which verb agrees with the subject of each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[The ocean _____ many interesting animals.]]></question>
+    <answers>
+      <answer><![CDATA[hold]]></answer>
+      <answer correct="true"><![CDATA[holds]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many people _____ to watch dolphins.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[love]]></answer>
+      <answer><![CDATA[loves]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sometimes, dolphins _____ together in a group.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[swim]]></answer>
+      <answer><![CDATA[swims]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[To find food, a dolphin _____ a strange noise.]]></question>
+    <answers>
+      <answer><![CDATA[make]]></answer>
+      <answer correct="true"><![CDATA[makes]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Then it _____ for the noise’s echo.]]></question>
+    <answers>
+      <answer><![CDATA[listen]]></answer>
+      <answer correct="true"><![CDATA[listens]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The echoes happen when sound _____ off an object.]]></question>
+    <answers>
+      <answer><![CDATA[bounce]]></answer>
+      <answer correct="true"><![CDATA[bounces]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[These echoes _____ the dolphin where things are.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[show]]></answer>
+      <answer><![CDATA[shows]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[On land, bats _____ their food in the same way.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[find]]></answer>
+      <answer><![CDATA[finds]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many people _____ sharks.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[fear]]></answer>
+      <answer><![CDATA[fears]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[But most sharks _____ people alone.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[leave]]></answer>
+      <answer><![CDATA[leaves]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[A jellyfish _____ more of a threat to humans!]]></question>
+    <answers>
+      <answer><![CDATA[offer]]></answer>
+      <answer correct="true"><![CDATA[offers]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Certain jellyfish _____whenever they are touched!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[sting]]></answer>
+      <answer><![CDATA[stings]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[A jellyfish _____ through the water.]]></question>
+    <answers>
+      <answer><![CDATA[float]]></answer>
+      <answer correct="true"><![CDATA[floats]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some jellyfish _____ nearly invisible!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[look]]></answer>
+      <answer><![CDATA[looks]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Experts _____ that vinegar helps heal jellyfish stings.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[say]]></answer>
+      <answer><![CDATA[says]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

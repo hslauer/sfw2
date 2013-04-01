@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Book Titles]]></title>
+<lesson>LEVEL B LESSON 50</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Find the book title in each sentence. Decide whether the book title is written correctly or incorrectly. Choose your answer below.]]></instruction>
+    <question><![CDATA[My favorite book is Calling Doctor Amelia Bedelia.]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The book <u>Can You Make a Piggy Giggle?</u> is very funny!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My mom reads my brother <u>Goodnight Moon</u> before bed.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sometimes they read <u>Guess how much I love you</u>.]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My mom read me Pat the Bunny when I was younger.]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We also read <u>The Very Hungry Caterpillar</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[In school we are reading <u>Daisy Comes Home</u> by Jan Brett.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Last week we read <u>Gooney Bird Greene</u> by Lois Lowry.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[In science class, we read <u>Are trees alive?</u> by Debbie S. Miller.]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Next week we will read <u>The Magic Hat</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I want to read Tatty Ratty, but I’ll have to read it at home.]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[At home I am reading <u>This little chick</u>.]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Did you like the book <u>Safari Park</u>?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My aunt bought me the book Fables from Aesop.]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I also have a book called <u>Skeleton Hiccups</u>!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Verb Tense]]></title>
+<lesson>LEVEL B LESSON 35</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Is the underlined verb in the present tense or the past tense? Choose your answer below.]]></instruction>
+    <question><![CDATA[My mom and I just <u>finished</u> our shopping list.]]></question>
+    <answers>
+      <answer><![CDATA[present]]></answer>
+      <answer correct="true"><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We <u>shop</u> at the grocery store every Saturday.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[present]]></answer>
+      <answer><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We <u>gather</u> food items for the entire week.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[present]]></answer>
+      <answer><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I <u>enjoy</u> grocery shopping with my mom.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[present]]></answer>
+      <answer><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sometimes I <u>pretend</u> that I am a chef!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[present]]></answer>
+      <answer><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My mom <u>acts</u> like my helper.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[present]]></answer>
+      <answer><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Together, we <u>plan</u> our family’s meals for the week.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[present]]></answer>
+      <answer><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Last week, we <u>created</u> a special salad.]]></question>
+    <answers>
+      <answer><![CDATA[present]]></answer>
+      <answer correct="true"><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[It <u>included</u> chicken, black beans, tomatoes, and corn.]]></question>
+    <answers>
+      <answer><![CDATA[present]]></answer>
+      <answer correct="true"><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Mom and I <u>called</u> it “salsa salad.”]]></question>
+    <answers>
+      <answer><![CDATA[present]]></answer>
+      <answer correct="true"><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We <u>try</u> one new recipe each week.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[present]]></answer>
+      <answer><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some <u>taste</u> very good.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[present]]></answer>
+      <answer><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Other experiments <u>tasted</u> yucky!]]></question>
+    <answers>
+      <answer><![CDATA[present]]></answer>
+      <answer correct="true"><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Yesterday, Mom and I <u>baked</u> a cake.]]></question>
+    <answers>
+      <answer><![CDATA[present]]></answer>
+      <answer correct="true"><![CDATA[past]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Everyone <u>enjoyed</u> it for dessert!]]></question>
+    <answers>
+      <answer><![CDATA[present]]></answer>
+      <answer correct="true"><![CDATA[past]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

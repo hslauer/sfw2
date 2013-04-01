@@ -1,0 +1,31 @@
+<root>
+<graphicOrganizer name="Venn Diagram 3" type="block" variation="none" id="20">
+	<entry>
+		<tf x="335" y="20" width = "202" height = "124" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x016A76" useFill="1" fillColor="0xFFFFFF">
+			<text>Click to add text.</text>
+		</tf>
+		<tf x="204" y="167" width = "138" height = "95" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x425C01" useFill="1" fillColor="0xFFFFFF">
+			<text>Click to add text.</text>
+		</tf>
+		<tf x="533" y="167" width = "138" height = "95" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x3A7612" useFill="1" fillColor="0xFFFFFF">
+			<text>Click to add text.</text>
+		</tf>
+		<tf x="368" y="237" width = "138" height = "95" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x024301" useFill="1" fillColor="0xFFFFFF">
+			<text>Click to add text.</text>
+		</tf>
+		<tf x="103" y="332" width = "201" height = "124" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xBF6002" useFill="1" fillColor="0xFFFFFF">
+			<text>Click to add text.</text>
+		</tf>
+		<tf x="368" y="350" width = "138" height = "95" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xC76727" useFill="1" fillColor="0xFFFFFF">
+			<text>Click to add text.</text>
+		</tf>
+		<tf x="568" y="332" width = "202" height = "124" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xBD9A2B" useFill="1" fillColor="0xFFFFFF">
+			<text>Click to add text.</text>
+		</tf>
+		
+	</entry>
+
+</graphicOrganizer>
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+</root>

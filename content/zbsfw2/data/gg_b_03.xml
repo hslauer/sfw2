@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Simple Subject]]></title>
+<lesson>LEVEL B LESSON 3</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which underlined word or words is the simple subject of each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[<u>Michael Jordan</u> <u>was</u> an incredible basketball <u>player</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Michael Jordan]]></answer>
+      <answer><![CDATA[was]]></answer>
+      <answer><![CDATA[player]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[His <u>basketball</u> <u>career</u> <u>was</u> very successful.]]></question>
+    <answers>
+      <answer><![CDATA[basketball]]></answer>
+      <answer correct="true"><![CDATA[career]]></answer>
+      <answer><![CDATA[was]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[This <u>great</u> <u>player</u> <u>set</u> many records.]]></question>
+    <answers>
+      <answer><![CDATA[great]]></answer>
+      <answer correct="true"><![CDATA[player]]></answer>
+      <answer><![CDATA[set]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many <u>fans</u> <u>enjoyed</u> his basketball <u>games</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[fans]]></answer>
+      <answer><![CDATA[enjoyed]]></answer>
+      <answer><![CDATA[games]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Other</u> <u>players</u> <u>admired</u> Michael.]]></question>
+    <answers>
+      <answer><![CDATA[Other]]></answer>
+      <answer correct="true"><![CDATA[players]]></answer>
+      <answer><![CDATA[admired]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many young <u>players</u> <u>also</u> <u>look</u> up to Michael Jordan.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[players]]></answer>
+      <answer><![CDATA[also]]></answer>
+      <answer><![CDATA[look]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[His <u>teammates</u> <u>always</u> said good <u>things</u> about him.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[teammates]]></answer>
+      <answer><![CDATA[always]]></answer>
+      <answer><![CDATA[things]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>This</u> <u>kind</u> <u>man</u> is more than a basketball player.]]></question>
+    <answers>
+      <answer><![CDATA[This]]></answer>
+      <answer><![CDATA[kind]]></answer>
+      <answer correct="true"><![CDATA[man]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many <u>different</u> <u>charities</u> get <u>help</u> from Michael Jordan.]]></question>
+    <answers>
+      <answer><![CDATA[different]]></answer>
+      <answer correct="true"><![CDATA[charities]]></answer>
+      <answer><![CDATA[help]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some <u>money</u> <u>goes</u> to the Boys and Girls <u>Clubs</u> of America.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[money]]></answer>
+      <answer><![CDATA[goes]]></answer>
+      <answer><![CDATA[Clubs]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>A</u> <u>golf</u> <u>tournament</u> happens every year.]]></question>
+    <answers>
+      <answer><![CDATA[A]]></answer>
+      <answer><![CDATA[golf]]></answer>
+      <answer correct="true"><![CDATA[tournament]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>This</u> <u>event</u> is <u>named</u> after Michael Jordan.]]></question>
+    <answers>
+      <answer><![CDATA[This]]></answer>
+      <answer correct="true"><![CDATA[event]]></answer>
+      <answer><![CDATA[named]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[A sports <u>superstar</u> <u>can</u> <u>be</u> more than an athlete.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[superstar]]></answer>
+      <answer><![CDATA[can]]></answer>
+      <answer><![CDATA[be]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Many</u> <u>athletes</u> <u>help</u> needy people.]]></question>
+    <answers>
+      <answer><![CDATA[Many]]></answer>
+      <answer correct="true"><![CDATA[athletes]]></answer>
+      <answer><![CDATA[help]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Michael Jordan</u> <u>is</u> <u>one</u> of these athletes.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Michael Jordan]]></answer>
+      <answer><![CDATA[is]]></answer>
+      <answer><![CDATA[one]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Capitalization]]></title>
+<lesson>LEVEL B LESSON 41</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which underlined word should begin with a capital letter? If both words should begin with a capital letter, choose <I>both</I>. Choose your answer below.]]></instruction>
+    <question><![CDATA[<u>what</u> is your favorite kind of <u>music</u>?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[What]]></answer>
+      <answer><![CDATA[Music]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>my</u> favorite music is pop music. <u>rock</u> and roll is good, too.]]></question>
+    <answers>
+      <answer><![CDATA[My]]></answer>
+      <answer><![CDATA[Rock]]></answer>
+      <answer correct="true"><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>there</u> are so many <u>different </u>kinds of music.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[There]]></answer>
+      <answer><![CDATA[Different]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>my</u> dad likes jazz, <u>and</u> my mom likes reggae.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[My]]></answer>
+      <answer><![CDATA[And]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>reggae</u> music comes from <u>islands</u> in the Caribbean Sea.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Reggae]]></answer>
+      <answer><![CDATA[Islands]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>blues </u>music began in America. <u>some</u> say it started in the southern states.]]></question>
+    <answers>
+      <answer><![CDATA[Blues]]></answer>
+      <answer><![CDATA[Some]]></answer>
+      <answer correct="true"><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>then</u> there’s country music. <u>country</u> music is my aunt’s favorite music.]]></question>
+    <answers>
+      <answer><![CDATA[Then]]></answer>
+      <answer><![CDATA[Country]]></answer>
+      <answer correct="true"><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I also like hip <u>hop</u>. <u>it</u> is related to rhythm and blues music.]]></question>
+    <answers>
+      <answer><![CDATA[Hop]]></answer>
+      <answer correct="true"><![CDATA[It]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>rap</u> music is also related to <u>rhythm</u> and blues music.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Rap]]></answer>
+      <answer><![CDATA[Rhythm]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>some</u> people enjoy classical music. <u>it</u> is often played by orchestras.]]></question>
+    <answers>
+      <answer><![CDATA[Some]]></answer>
+      <answer><![CDATA[It]]></answer>
+      <answer correct="true"><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>have</u> you ever heard mariachi music? <u>it</u> comes from Mexico.]]></question>
+    <answers>
+      <answer><![CDATA[Have]]></answer>
+      <answer><![CDATA[It]]></answer>
+      <answer correct="true"><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>when</u> <u>you</u> go to a powwow, you can hear traditional Native American music.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[When]]></answer>
+      <answer><![CDATA[You]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>my</u> grandfather loves Italian opera music, <u>but</u> I don’t like it very much.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[My]]></answer>
+      <answer><![CDATA[But]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I might like <u>opera</u> someday. <u>but</u> I do not like it today!]]></question>
+    <answers>
+      <answer><![CDATA[Opera]]></answer>
+      <answer correct="true"><![CDATA[But]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>you</u> like bluegrass music. <u>what</u> is bluegrass music?]]></question>
+    <answers>
+      <answer><![CDATA[You]]></answer>
+      <answer><![CDATA[What]]></answer>
+      <answer correct="true"><![CDATA[<I>both</I>]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

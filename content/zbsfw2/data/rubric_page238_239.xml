@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title><![CDATA[Response to Literature Rubric]]></title>
+<instructionsInteractive><![CDATA[Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.]]></instructionsInteractive>
+<instructionsStatic><![CDATA[Use this 6-point rubric to plan and score a response to literature.]]></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td><![CDATA[The opinion is clearly stated and well supported by reasons.]]></td>
+    <td><![CDATA[The opinion is clearly stated and supported by reasons.]]></td>
+    <td><![CDATA[The opinion is stated. A couple of reasons are given.]]></td>
+    <td><![CDATA[The opinion is unclear. The reasons do not support a single opinion.]]></td>
+    <td><![CDATA[No opinion is stated.]]></td>
+    <td><![CDATA[It is not clear what the response is about.]]></td>
+  </tr>
+  <tr> <!--Organization-->
+    <td><![CDATA[The writer presents details in perfect order. The conclusion wraps up the writing.]]></td>
+    <td><![CDATA[One detail is out of order. There is a conclusion.]]></td>
+    <td><![CDATA[Most details are in order. There is a conclusion.]]></td>
+    <td><![CDATA[The details are confusing. There is no conclusion.]]></td>
+    <td><![CDATA[The details are incomplete. Some may be missing.]]></td>
+    <td><![CDATA[The details do not help explain a topic.]]></td>
+  </tr>
+  <tr> <!--Voice-->
+    <td><![CDATA[The writer uses a personal “I” voice and clearly speaks to the reader.]]></td>
+    <td><![CDATA[The writer generally uses a personal “I” voice and speaks to the reader.]]></td>
+    <td><![CDATA[The writer speaks to the reader some of the time.]]></td>
+    <td><![CDATA[The writer’s voice speaks to the reader and then fades.]]></td>
+    <td><![CDATA[The writer does not speak directly to the reader. The writer’s voice is faint.]]></td>
+    <td><![CDATA[The writing lacks voice.]]></td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td><![CDATA[Excellent word choice allows the reader to understand the writer’s reasons.]]></td>
+    <td><![CDATA[Specific words help the reader understand all the reasons.]]></td>
+    <td><![CDATA[Most of the words help the reader understand the reasons.]]></td>
+    <td><![CDATA[Many words are repeated or vague. The writer’s meaning is not clear.]]></td>
+    <td><![CDATA[The word choice is too general to be meaningful. The writer’s meaning is not clear.]]></td>
+    <td><![CDATA[The words do not express an opinion.]]></td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td><![CDATA[Sentences of different lengths make the writing easy and fun to read.]]></td>
+    <td><![CDATA[Most of the sentences are varied and the writing is easy to read.]]></td>
+    <td><![CDATA[Some sentences are the same length. The writing is choppy.]]></td>
+    <td><![CDATA[Many sentences are the same length and make the writing choppy to read.]]></td>
+    <td><![CDATA[Sentences are usually the same length and the reader must work to read them.]]></td>
+    <td><![CDATA[Sentences are too long, lack variety, or are incomplete and the writing is hard to follow.]]></td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td><![CDATA[Conjunctions and compound sentences are used correctly.]]></td>
+    <td><![CDATA[A few errors with conjunctions and compound sentences can be easily corrected.]]></td>
+    <td><![CDATA[Some errors with conjunctions and compound sentences confuse the reader.]]></td>
+    <td><![CDATA[Many errors with conjunctions and compound sentences make the reader struggle to understand.]]></td>
+    <td><![CDATA[Numerous errors with conjunctions and compound sentences confuse the reader.]]></td>
+    <td><![CDATA[Serious, frequent errors make the writing hard to understand.]]></td>
+  </tr>
+</table>
+</content>

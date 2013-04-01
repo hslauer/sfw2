@@ -1,0 +1,19 @@
+<root>
+	<graphicOrganizer name="K-W-S Chart" type="block" variation="none" id="10">
+			
+		<entry>
+			<tf x="12" y="124" width = "275" height = "386" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x026FD8" useFill="1" fillColor="0xCDEBFE">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="307" y="124" width = "275" height = "386" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x00C7EC" useFill="1" fillColor="0xDEFCFE">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="597" y="124" width = "275" height = "386" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+		</entry>
+	
+</graphicOrganizer>
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+</root>

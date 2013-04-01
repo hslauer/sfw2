@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+  <type>proof_reading</type>
+  <title>Opinion | Test Writing</title>
+  <instructions>Drag the proofreading marks to identify the errors. Type misspelled or missing words.</instructions>
+  <text><![CDATA[<p align="center"><b>Bed Times</b></p>	My {l}Parents are {-|is} strict about bedtime. I go to bed at nine o’clock every night. I don’t think this is fair. I should be allowed to stay up later on Fridays and {u}saturdays. 
+	My mom says I need ten hours of sleep. I have to get up early on school days, so nine o’clock is a good bedtime{.} But on Saturday and Sunday, I don’t have to catch the school bus. I can get up later. So, I should be allowed to go to bed later{.}
+	If I stayed up later on weekends, I could watch more shows. I could play checkers with my dad. I’d even have more time for {-|four} my homework.]]></text>
+
+  
+</content>

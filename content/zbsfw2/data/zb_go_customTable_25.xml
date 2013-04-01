@@ -1,0 +1,27 @@
+<root>
+	<graphicOrganizer name="Custom Table" type="table" variation="none" id="25" width="860" height="505" headerGraphicWidth="96" headerGraphicHeight="36">
+		<entry>
+	</entry>
+</graphicOrganizer>
+<help title="Graphic Organizer Help">Click in a box and use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+	/*<table width="200" height="300" headerHeight="100" x="100" y="50">
+			<row>
+				<entry ZB_Block="1" isTemp="1" bold="1">Name of Character
+				</entry>
+				<entry ZB_Block="1" isTemp="1" bold="1">Name of Character
+				</entry>
+				<entry ZB_Block="1" isTemp="1" bold="1">Name of Character
+				</entry>
+			</row>
+			<row>
+
+				<entry ZB_Block="1" isTemp="0" bold="0">click to add text
+				</entry>
+				<entry ZB_Block="1" isTemp="0" bold="0">Click to add text
+				</entry>
+				<entry ZB_Block="1" isTemp="0" bold="0">Click to add text
+				</entry>
+			</row>
+		</table>*/
+</root>

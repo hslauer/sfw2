@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Punctuation: Commas in a Series]]></title>
+<lesson>LEVEL B LESSON 48</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which word should be followed by a comma? If a comma should come after both words, choose <I>both</I>. If the sentence is correct, choose <I>correct</I>. Choose your answer below.]]></instruction>
+    <question><![CDATA[My mother, my <u>brother</u> and <u>I</u> are in the kitchen.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[brother]]></answer>
+      <answer><![CDATA[I]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+      <answer><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We want to make something <u>easy</u> yummy, and <u>good</u> for us.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[easy]]></answer>
+      <answer><![CDATA[good]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+      <answer><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I am here to <u>watch</u> <u>help</u> and eat!]]></question>
+    <answers>
+      <answer><![CDATA[watch]]></answer>
+      <answer><![CDATA[help]]></answer>
+      <answer correct="true"><![CDATA[<I>both</I>]]></answer>
+      <answer><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Should we make <u>cookies</u> brownies, <u>or</u> muffins?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[cookies]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+      <answer><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We could <u>also</u> make donuts, <u>cakes</u> or fruit bars.]]></question>
+    <answers>
+      <answer><![CDATA[also]]></answer>
+      <answer correct="true"><![CDATA[cakes]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+      <answer><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You can call <u>them</u> treats, snacks, <u>or</u> goodies.]]></question>
+    <answers>
+      <answer><![CDATA[them]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+      <answer correct="true"><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Grab a <u>bowl</u> a <u>spoon</u> and a baking sheet.]]></question>
+    <answers>
+      <answer><![CDATA[bowl]]></answer>
+      <answer><![CDATA[spoon]]></answer>
+      <answer correct="true"><![CDATA[<I>both</I>]]></answer>
+      <answer><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We <u>need</u> eggs, <u>flour</u> and sugar.]]></question>
+    <answers>
+      <answer><![CDATA[need]]></answer>
+      <answer correct="true"><![CDATA[flour]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+      <answer><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We <u>also</u> need milk, <u>butter</u> and baking soda.]]></question>
+    <answers>
+      <answer><![CDATA[also]]></answer>
+      <answer correct="true"><![CDATA[butter]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+      <answer><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What is the best <u>way</u> to stir, mix, or <u>blend</u> the ingredients?]]></question>
+    <answers>
+      <answer><![CDATA[way]]></answer>
+      <answer><![CDATA[blend]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+      <answer correct="true"><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Use a <u>spoon</u> a fork, <u>or</u> hands.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[spoon]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+      <answer><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Let’s <u>include</u> oatmeal, raisins, and <u>chocolate</u> chips!]]></question>
+    <answers>
+      <answer><![CDATA[include]]></answer>
+      <answer><![CDATA[chocolate]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+      <answer correct="true"><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Also use <u>nuts</u> seeds, <u>or</u> fruit.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[nuts]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+      <answer><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Do you <u>bake</u> <u>cook</u> or fry them?]]></question>
+    <answers>
+      <answer><![CDATA[bake]]></answer>
+      <answer><![CDATA[cook]]></answer>
+      <answer correct="true"><![CDATA[<I>both</I>]]></answer>
+      <answer><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Cookies, <u>cakes</u> and <u>muffins</u> are baked.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[cakes]]></answer>
+      <answer><![CDATA[muffins]]></answer>
+      <answer><![CDATA[<I>both</I>]]></answer>
+      <answer><![CDATA[<I>correct</I>]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

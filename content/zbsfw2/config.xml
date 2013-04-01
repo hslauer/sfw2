@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<styles>
+		<![CDATA[
+			ColorScheme {
+				black: #000000;
+				white: #FFFFFF;
+				neutral: #7F7F7F;
+				navlight: #EAEAEA;
+				navdark: #666666;
+				highlight: #4AB9E8;
+			}
+
+			
+			/*
+			BaseTextFormat : all other text styles inherit from this one; the property values may be changed, but the number and names of the properties must not be.
+			*/
+			BaseTextFormat {
+				font-family: Myriad Pro SemiCond;
+				font-size: 14;
+				font-weight: bold;
+				font-style: normal;
+				text-align: left;
+				text-decoration: none;
+				color: black;
+				leading: 0;
+			}
+
+			
+			LessonTitle {
+				color: navdark;
+			}
+			MainMenuTitle {}
+			TocMenuItem {
+				color: navdark;
+			}
+			TocMenuItemSelected {
+				color: white;
+			}
+			TocMenuItemDeleteBtn {
+				background-color: #cccccc;
+				highlight-color: #dd0000;
+			}
+			PrepareScreenNavCounter {
+				text-align: center;
+			}
+			TimelineThumbLabel {
+				font-size: 9;
+				text-align: center;
+				color: navdark;
+			}
+			ScreenMenuTitle, PrintDialogTitle {
+				font-size: 16;
+			}
+			ScreenMenuItem {
+				color: navdark;
+				text-align: center;
+			}
+			PresentScreenNavCounter {
+				color: white;
+				text-align: center;
+			}
+			TextToolLayer {
+				background: false;
+				background-color: white;
+				color: #000000;
+				size: 24;
+			}
+
+			
+			Application {
+				background-color: white;
+			}
+			NavBars {
+				background-color: navlight;
+			}
+			LessonMenu {
+				background-color: white;
+				border-color: #cccccc;
+			}
+			PrepareLayerPanel {
+				background-color: white;
+			}
+			PresentLayer {
+				background-color: neutral;
+			}
+
+			
+			/*
+			NB: Printing styles should use embedded fonts,
+			    otherwise Flash Player's text metrics become
+			    inaccurate, royally discombobulating pagination.
+			*/
+			LessonPrintPageTitle {
+				text-align: center;
+			}
+			LessonPrintScreenNotes {}
+
+			
+			TextInput {
+				font-family: Arial;
+				size: 12;
+			}
+			CancelBtn {
+				background-color: navlight;
+				color: navdark;
+			}
+			SubmitBtn {
+				background-color: highlight;
+				color: white;
+			}
+			FormErrorText {
+				color: #ff0000;
+				size: 11;
+			}
+			AlertTitle {
+				background-color: highlight;
+				color: white;
+			}
+			AlertMessage {
+				background-color: navlight;
+				font-family: _sans;
+				font-size: 12;
+			}
+			AlertBtn {
+				background-color: navlight;
+				color: navdark;
+			}
+
+			
+			BaseBtn {
+				background-color: navlight;
+				color: navdark;
+				highlight-color: highlight;
+			}
+			PresentBtn, OpenLessonBtn, CloseMenuBtn, 
+			PrepareScreenNavBtn, TimelineSelection,
+			ScreenMenuBtn, PresentNavBtn, 
+			PrepareEditSaveBtn {
+				background-color: highlight;
+				color: white;
+			}
+			ScreenMenuCancelBtn, PrepareEditRevertBtn {
+				background-color: navlight;
+				color: navdark;
+			}
+			PrepareNotesPanel {
+				font-family: Arial;
+			}
+			PrepareToolParamsPanel {
+				color: navdark;
+			}
+			PrepareToolBtn {
+				background-color: white;
+				color: navdark;
+			}
+			PrepareToolParamBlock {
+				even-background-color: #bae5f7;
+				odd-background-color: white;
+				font-family: Arial;
+				font-size: 12;
+			}
+			ToolsLayerBtn {
+				background-color: highlight;
+				color: white;
+			}
+			PrepareEditPanel {
+				color: navdark;
+			}
+			PresentLayerBtn {
+				background-color: neutral;
+				color: white;
+			}
+			PresentLayerPalette {
+				background-color: neutral;
+				color: white;
+			}
+			TocMenuScreenGalleryTitle {
+				font-size: 18;
+				color: navdark;
+				text-align: center;
+			}
+			TocMenuScreenGalleryItem {
+				color: navdark;
+				text-align: center;
+				small-cell-width: 150;
+				small-cell-height: 145;
+				big-cell-width: 210;
+				big-cell-height: 200;
+			}
+			TocMenuScreenGalleryItemSelected {
+				background-color: navdark;
+				corner-radius: 10;
+				color: white;
+				text-align: center;
+			}
+
+			
+			YouTubeQueryField {
+				font-family: Arial;
+			}
+			YouTubeQueryPrompt {
+				color: neutral;
+			}
+			YouTubeResultsList {
+				odd-row-background-color: white;
+				even-row-background-color: white;
+				selected-row-color: #a4dcf3;
+				font-size: 12;
+			}
+
+			
+			/* FLOE Content Editor Styles */
+
+			
+			CeDivLabel { text-align:right; font-weight:bold; }
+			CeDivLabelB { text-align:right; }
+			CeListBullet { text-align:right; }
+			CeBtn { font-family:_sans; font-size:11; font-weight:bold; }
+			CeBtnDisabled { font-family:_sans; font-size:11; font-weight:bold; color:#999999; }
+			CeCb { font-family:_sans; font-size: 12; }
+			CeRte, CeTa, CeTi { font-family:_sans; font-size: 12; }
+
+			
+			a { text-decoration:underline; color:blue; }
+
+			
+		]]>
+	</styles>
+	<mainmenu>
+		<toc src="[CONTENT]zbsfw2/toc.xml"/>
+		<splash src="[CONTENT]zbsfw2/splash.swf"/>
+	</mainmenu>
+	<help src="[CONTENT]zbsfw/help/index.html"/>
+	<prepare>
+		<lesson titleMaxChars="32"/>
+		<screen titleMaxChars="32"/>
+		<notes maxChars="256"/>
+		<preview defaultAspectRatio="4:3"/>
+		<tabs list="notes tools edit" default="notes"/>
+		<preptools list="windowshade hyperlink zoomspot text draw showhidelayer"/>
+		<viewtools list="zoomin zoom100 zoomout"/>
+		<screenmenu>
+			<category label="Select an activity type"/>
+			<category label="Anchor Papers">
+				<screen type="anchorpapers" src="[CONTENT]zbsfw/engines/anchor_papers.swf" thumb="[CONTENT]zbsfw/thumbs/anchor_papers.png" menuPreview="[CONTENT]zbsfw/previews/anchor_papers.png">
+					<title>Narrative</title>
+					<data src="[CONTENT]zbsfw2/data/anchor_papers_narrative.xml"/>
+				</screen>
+				<screen type="anchorpapers" src="[CONTENT]zbsfw/engines/anchor_papers.swf" thumb="[CONTENT]zbsfw/thumbs/anchor_papers.png" menuPreview="[CONTENT]zbsfw/previews/anchor_papers.png">
+					<title>Informative/Explanatory</title>
+					<data src="[CONTENT]zbsfw2/data/anchor_papers_informative.xml"/>
+				</screen>
+				<screen type="anchorpapers" src="[CONTENT]zbsfw/engines/anchor_papers.swf" thumb="[CONTENT]zbsfw/thumbs/anchor_papers.png" menuPreview="[CONTENT]zbsfw/previews/anchor_papers.png">
+					<title>Opinion</title>
+					<data src="[CONTENT]zbsfw2/data/anchor_papers_opinion.xml"/>
+				</screen>
+				<screen type="anchorpapers" src="[CONTENT]zbsfw/engines/anchor_papers.swf" thumb="[CONTENT]zbsfw/thumbs/anchor_papers.png" menuPreview="[CONTENT]zbsfw/previews/anchor_papers.png">
+					<title>Descriptive</title>
+					<data src="[CONTENT]zbsfw2/data/anchor_papers_descriptive.xml"/>
+				</screen>
+			</category>
+			<category label="Grammar Games">
+				<category label="Abbreviations">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Abbreviations</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_45.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Abbreviations</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_45.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Abbreviations</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_45.xml"/>
+					</screen>
+				</category>
+				<category label="Adjectives That Tell How Many">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Adjectives That Tell How Many</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_18.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Adjectives That Tell How Many</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_18.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Adjectives That Tell How Many</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_18.xml"/>
+					</screen>
+				</category>
+				<category label="Adjectives, Comparing With">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Adjectives, Comparing With</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_40.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Adjectives, Comparing With</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_40.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Adjectives, Comparing With</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_40.xml"/>
+					</screen>
+				</category>
+				<category label="Adjectives, Other">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Adjectives, Other</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_19.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Adjectives, Other</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_19.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Adjectives, Other</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_19.xml"/>
+					</screen>
+				</category>
+				<category label="Articles: &lt;i&gt;A&lt;/i&gt; and &lt;i&gt;An&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Articles: &lt;i&gt;A&lt;/i&gt; and &lt;i&gt;An&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_23.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Articles: &lt;i&gt;A&lt;/i&gt; and &lt;i&gt;An&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_23.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Articles: &lt;i&gt;A&lt;/i&gt; and &lt;i&gt;An&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_23.xml"/>
+					</screen>
+				</category>
+				<category label="Capitalization">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Capitalization</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_41.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Capitalization</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_41.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Capitalization</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_41.xml"/>
+					</screen>
+				</category>
+				<category label="Capitalization and Punctuation">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Capitalization and Punctuation</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_47.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Capitalization and Punctuation</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_47.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Capitalization and Punctuation</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_47.xml"/>
+					</screen>
+				</category>
+				<category label="Conjunctions: &lt;i&gt;And&lt;/i&gt;, &lt;i&gt;Or&lt;/i&gt;, &lt;i&gt;But&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Conjunctions: &lt;i&gt;And&lt;/i&gt;, &lt;i&gt;Or&lt;/i&gt;, &lt;i&gt;But&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_20.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Conjunctions: &lt;i&gt;And&lt;/i&gt;, &lt;i&gt;Or&lt;/i&gt;, &lt;i&gt;But&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_20.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Conjunctions: &lt;i&gt;And&lt;/i&gt;, &lt;i&gt;Or&lt;/i&gt;, &lt;i&gt;But&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_20.xml"/>
+					</screen>
+				</category>
+				<category label="Contractions">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Contractions</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_46.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Contractions</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_46.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Contractions</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_46.xml"/>
+					</screen>
+				</category>
+				<category label="Frequently Confused Words: &lt;i&gt;Its&lt;/i&gt; and &lt;i&gt;It's&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Frequently Confused Words: &lt;i&gt;Its&lt;/i&gt; and &lt;i&gt;It's&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_21.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Frequently Confused Words: &lt;i&gt;Its&lt;/i&gt; and &lt;i&gt;It's&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_21.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Frequently Confused Words: &lt;i&gt;Its&lt;/i&gt; and &lt;i&gt;It's&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_21.xml"/>
+					</screen>
+				</category>
+				<category label="Frequently Confused Words: More Practice in &lt;i&gt;Its&lt;/i&gt; and &lt;i&gt;It's&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Frequently Confused Words: More Practice in &lt;i&gt;Its&lt;/i&gt; and &lt;i&gt;It's&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_22.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Frequently Confused Words: More Practice in &lt;i&gt;Its&lt;/i&gt; and &lt;i&gt;It's&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_22.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Frequently Confused Words: More Practice in &lt;i&gt;Its&lt;/i&gt; and &lt;i&gt;It's&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_22.xml"/>
+					</screen>
+				</category>
+				<category label="Frequently Confused Words: &lt;i&gt;Their&lt;/i&gt; and &lt;i&gt;They're&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Frequently Confused Words: &lt;i&gt;Their&lt;/i&gt; and &lt;i&gt;They're&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_24.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Frequently Confused Words: &lt;i&gt;Their&lt;/i&gt; and &lt;i&gt;They're&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_24.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Frequently Confused Words: &lt;i&gt;Their&lt;/i&gt; and &lt;i&gt;They're&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_24.xml"/>
+					</screen>
+				</category>
+				<category label="Frequently Confused Words: &lt;i&gt;Their&lt;/i&gt;, &lt;i&gt;There&lt;/i&gt;, and &lt;i&gt;They're&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Frequently Confused Words: &lt;i&gt;Their&lt;/i&gt;, &lt;i&gt;There&lt;/i&gt;, and &lt;i&gt;They're&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_26.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Frequently Confused Words: &lt;i&gt;Their&lt;/i&gt;, &lt;i&gt;There&lt;/i&gt;, and &lt;i&gt;They're&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_26.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Frequently Confused Words: &lt;i&gt;Their&lt;/i&gt;, &lt;i&gt;There&lt;/i&gt;, and &lt;i&gt;They're&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_26.xml"/>
+					</screen>
+				</category>
+				<category label="Frequently Confused Words: &lt;i&gt;They're&lt;/i&gt; and &lt;i&gt;There&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Frequently Confused Words: &lt;i&gt;They're&lt;/i&gt; and &lt;i&gt;There&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_25.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Frequently Confused Words: &lt;i&gt;They're&lt;/i&gt; and &lt;i&gt;There&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_25.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Frequently Confused Words: &lt;i&gt;They're&lt;/i&gt; and &lt;i&gt;There&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_25.xml"/>
+					</screen>
+				</category>
+				<category label="Noun or Verb">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Noun or Verb</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_17.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Noun or Verb</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_17.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Noun or Verb</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_17.xml"/>
+					</screen>
+				</category>
+				<category label="Nouns">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Nouns</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_11.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Nouns</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_11.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Nouns</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_11.xml"/>
+					</screen>
+				</category>
+				<category label="Nouns, Common and Proper">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Nouns, Common and Proper</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_13.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Nouns, Common and Proper</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_13.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Nouns, Common and Proper</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_13.xml"/>
+					</screen>
+				</category>
+				<category label="Nouns, More Practice in Proper">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Nouns, More Practice in Proper</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_44.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Nouns, More Practice in Proper</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_44.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Nouns, More Practice in Proper</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_44.xml"/>
+					</screen>
+				</category>
+				<category label="Nouns, Proper">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Nouns, Proper</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_12.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Nouns, Proper</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_12.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Nouns, Proper</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_12.xml"/>
+					</screen>
+				</category>
+				<category label="Nouns, Singular and Plural">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Nouns, Singular and Plural</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_14.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Nouns, Singular and Plural</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_14.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Nouns, Singular and Plural</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_14.xml"/>
+					</screen>
+				</category>
+				<category label="Predicate, Simple">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Predicate, Simple</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_04.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Predicate, Simple</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_04.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Predicate, Simple</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_04.xml"/>
+					</screen>
+				</category>
+				<category label="Pronoun, Choosing the Correct">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Pronoun, Choosing the Correct</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_38.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Pronoun, Choosing the Correct</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_38.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Pronoun, Choosing the Correct</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_38.xml"/>
+					</screen>
+				</category>
+				<category label="Pronouns, Object">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Pronouns, Object</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_37.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Pronouns, Object</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_37.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Pronouns, Object</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_37.xml"/>
+					</screen>
+				</category>
+				<category label="Pronouns, Personal: &lt;i&gt;I&lt;/i&gt; and &lt;i&gt;Me&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Pronouns, Personal: &lt;i&gt;I&lt;/i&gt; and &lt;i&gt;Me&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_39.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Pronouns, Personal: &lt;i&gt;I&lt;/i&gt; and &lt;i&gt;Me&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_39.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Pronouns, Personal: &lt;i&gt;I&lt;/i&gt; and &lt;i&gt;Me&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_39.xml"/>
+					</screen>
+				</category>
+				<category label="Pronouns, Subject">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Pronouns, Subject</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_36.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Pronouns, Subject</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_36.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Pronouns, Subject</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_36.xml"/>
+					</screen>
+				</category>
+				<category label="Punctuation: Commas in a Series">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Punctuation: Commas in a Series</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_48.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Punctuation: Commas in a Series</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_48.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Punctuation: Commas in a Series</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_48.xml"/>
+					</screen>
+				</category>
+				<category label="Punctuation: Periods and Exclamation Points">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Punctuation: Periods and Exclamation Points</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_43.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Punctuation: Periods and Exclamation Points</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_43.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Punctuation: Periods and Exclamation Points</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_43.xml"/>
+					</screen>
+				</category>
+				<category label="Punctuation: Periods and Question Marks">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Punctuation: Periods and Question Marks</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_42.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Punctuation: Periods and Question Marks</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_42.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Punctuation: Periods and Question Marks</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_42.xml"/>
+					</screen>
+				</category>
+				<category label="Punctuation: Quotation Marks">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Punctuation: Quotation Marks</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_49.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Punctuation: Quotation Marks</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_49.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Punctuation: Quotation Marks</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_49.xml"/>
+					</screen>
+				</category>
+				<category label="Sentence Fragments">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Sentence Fragments</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_05.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Sentence Fragments</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_05.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Sentence Fragments</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_05.xml"/>
+					</screen>
+				</category>
+				<category label="Sentence, What Is a">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Sentence, What Is a</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_01.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Sentence, What Is a</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_01.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Sentence, What Is a</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_01.xml"/>
+					</screen>
+				</category>
+				<category label="Sentences That Ask">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Sentences That Ask</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_07.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Sentences That Ask</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_07.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Sentences That Ask</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_07.xml"/>
+					</screen>
+				</category>
+				<category label="Sentences That Command">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Sentences That Command</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_09.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Sentences That Command</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_09.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Sentences That Command</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_09.xml"/>
+					</screen>
+				</category>
+				<category label="Sentences That Show Strong Feelings">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Sentences That Show Strong Feelings</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_10.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Sentences That Show Strong Feelings</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_10.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Sentences That Show Strong Feelings</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_10.xml"/>
+					</screen>
+				</category>
+				<category label="Sentences That Tell">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Sentences That Tell</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_06.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Sentences That Tell</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_06.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Sentences That Tell</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_06.xml"/>
+					</screen>
+				</category>
+				<category label="Sentences, Telling or Asking">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Sentences, Telling or Asking</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_08.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Sentences, Telling or Asking</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_08.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Sentences, Telling or Asking</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_08.xml"/>
+					</screen>
+				</category>
+				<category label="Subject and Predicate, Complete">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Subject and Predicate, Complete</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_02.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Subject and Predicate, Complete</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_02.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Subject and Predicate, Complete</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_02.xml"/>
+					</screen>
+				</category>
+				<category label="Subject, Simple">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Subject, Simple</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_03.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Subject, Simple</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_03.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Subject, Simple</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_03.xml"/>
+					</screen>
+				</category>
+				<category label="Subject-Verb Agreement">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Subject-Verb Agreement</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_31.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Subject-Verb Agreement</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_31.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Subject-Verb Agreement</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_31.xml"/>
+					</screen>
+				</category>
+				<category label="Subject-Verb Agreement, More Practice in">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Subject-Verb Agreement, More Practice in</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_32.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Subject-Verb Agreement, More Practice in</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_32.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Subject-Verb Agreement, More Practice in</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_32.xml"/>
+					</screen>
+				</category>
+				<category label="Titles, Book">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Basktetball</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_50.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Titles, Book</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_50.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Titles, Book</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_50.xml"/>
+					</screen>
+				</category>
+				<category label="Verb &lt;i&gt;Be&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Verb &lt;i&gt;Be&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_33.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Verb &lt;i&gt;Be&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_33.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Verb &lt;i&gt;Be&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_33.xml"/>
+					</screen>
+				</category>
+				<category label="Verb &lt;i&gt;Come&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Verb &lt;i&gt;Come&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_29.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Verb &lt;i&gt;Come&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_29.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Verb &lt;i&gt;Come&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_29.xml"/>
+					</screen>
+				</category>
+				<category label="Verb &lt;i&gt;Eat&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Verb &lt;i&gt;Eat&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_28.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Verb &lt;i&gt;Eat&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_28.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Verb &lt;i&gt;Eat&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_28.xml"/>
+					</screen>
+				</category>
+				<category label="Verb &lt;i&gt;Give&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Verb &lt;i&gt;Give&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_30.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Verb &lt;i&gt;Give&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_30.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Verb &lt;i&gt;Give&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_30.xml"/>
+					</screen>
+				</category>
+				<category label="Verb &lt;i&gt;Go&lt;/i&gt;">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Verb &lt;i&gt;Go&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_27.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Verb &lt;i&gt;Go&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_27.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Verb &lt;i&gt;Go&lt;/i&gt;</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_27.xml"/>
+					</screen>
+				</category>
+				<category label="Verb Tense">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Verb Tense</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_35.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Verb Tense</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_35.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Verb Tense</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_35.xml"/>
+					</screen>
+				</category>
+				<category label="Verbs That Tell About the Past">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Verbs That Tell About the Past</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_16.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Verbs That Tell About the Past</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_16.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Verbs That Tell About the Past</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_16.xml"/>
+					</screen>
+				</category>
+				<category label="Verbs, Action">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Verbs, Action</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_15.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Verbs, Action</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_15.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Verbs, Action</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_15.xml"/>
+					</screen>
+				</category>
+				<category label="Verbs, Past and Present">
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_basket.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_basket.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_basket.png" menuLabel="Basketball">
+						<title>Verbs, Past and Present</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_34.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_fishing.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_fishing.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_fishing.png" menuLabel="Fishing">
+						<title>Verbs, Past and Present</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_34.xml"/>
+					</screen>
+					<screen type="grammargames" src="[CONTENT]zbsfw/engines/multiple_choice_icecream.swf" thumb="[CONTENT]zbsfw/thumbs/multiple_choice_icecream.png" menuPreview="[CONTENT]zbsfw/previews/grammar_games_icecream.png" menuLabel="Frozen Yogurt Shop">
+						<title>Verbs, Past and Present</title>
+						<data src="[CONTENT]zbsfw2/data/gg_b_34.xml"/>
+					</screen>
+				</category>
+
+			</category>
+
+			<category label="Graphic Organizers">						
+				<screen type="go" src="[CONTENT]zbsfw2/media/go/3column.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_3column.png">		
+					<title>3-Column Chart</title>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw2/media/go/4column.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_4column.png">		
+					<title>4-Column Chart</title>	
+				</screen>	
+				<screen type="go" src="[CONTENT]zbsfw2/media/go/5column.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_5column.png">		
+					<title>5-Column Chart</title>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_cause_effect_I_0.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_cause_effect_I_0.png">		
+					<title>Cause and Effect 1</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_cause_effect_I_0.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_cause_effect_II_1.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_cause_effect_II_1.png">		
+					<title>Cause and Effect 2</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_cause_effect_II_1.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_cause_effect_III_2.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_cause_effect_III_2.png">		
+					<title>Cause and Effect 3</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_cause_effect_III_2.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_char_descr_3.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_char_descr_3.png">		
+					<title>Character Comparison Chart</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_char_descr_3.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_char_traits_4.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_char_traits_4.png">		
+					<title>Character Traits Chart</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_char_traits_4.xml"/>	
+				</screen>				
+
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_fact_opin_6.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_fact_opin_6.png">		
+					<title>Fact and Opinion Chart</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_fact_opin_6.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_5ws_7.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_5ws_7.png">		
+					<title>Five Ws Chart</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_5ws_7.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_flow_chart_8.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_flow_chart_8.png">		
+					<title>Flow Chart</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_flow_chart_8.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_kwlh_chart_9.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_kwlh_chart_9.png">		
+					<title>K-W-L-H Chart</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_kwlh_chart_9.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_kws_chart_10.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_kws_chart_10.png">		
+					<title>K-W-S Chart</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_kws_chart_10.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_main_idea_11.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_main_idea_11.png">		
+					<title>Main Idea Chart</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_main_idea_11.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_observation_12.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_observation_12.png">		
+					<title>Observation Chart</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_observation_12.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_opinion_13.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_opinion_13.png">		
+					<title>Opinion Chart</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_opinion_13.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_persuasion_14.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_persuasion_14.png">		
+					<title>Persuasion Map</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_persuasion_14.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_problem_solution_15.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_problem_solution_15.png">		
+					<title>Problem-Solution Frame</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_problem_solution_15.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_story_map_16.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_story_map_16.png">		
+					<title>Story Map</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_story_map_16.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_storyboard_17.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_storyboard_17.png">		
+					<title>Storyboard</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_storyboard_17.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_venn_I_18.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_venn_I_18.png">		
+					<title>Venn Diagram 1</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_venn_I_18.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_venn_II_19.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_venn_II_19.png">		
+					<title>Venn Diagram 2</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_venn_II_19.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_venn_III_20.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_venn_III_20.png">		
+					<title>Venn Diagram 3</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_venn_III_20.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_web_I_21.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_web_I_21.png">		
+					<title>Web 1: 3 Spokes</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_web_I_21.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_web_II_22.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_web_II_22.png">		
+					<title>Web 2: 5 Spokes</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_web_II_22.xml"/>	
+				</screen>		
+				<screen type="go" src="[CONTENT]zbsfw/engines/ZB_GraphicOrganizers.swf" thumb="[CONTENT]zbsfw/thumbs/zb_go_web_III_23.png" menuPreview="[CONTENT]zbsfw/previews/zb_go_web_III_23.png">		
+					<title>Web 3: 8 Spokes</title>	
+					<data xmlpath="[CONTENT]zbsfw2/data/zb_go_web_III_23.xml"/>	
+				</screen>		
+			</category>			
+			<category label="Mini-Lessons (Presentations)">
+				<category label="Grammar">
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/parts_of_speech.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Parts of Speech</title>
+					</screen>
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/proofreading_marks.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Proofreading Marks</title>
+					</screen>
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/punctuation_marks.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Punctuation Marks</title>
+					</screen>
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/sentence_types.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Sentence Types</title>
+					</screen>
+				</category>
+				<category label="Introduce the Six Traits">
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/trait_introduction_ideas.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Ideas</title>
+					</screen>
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/trait_introduction_organization.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Organization</title>
+					</screen>
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/trait_introduction_voice.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Voice</title>
+					</screen>
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/trait_introduction_word_choice.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Word Choice</title>
+					</screen>
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/trait_introduction_sentence_fluency.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Sentence Fluency</title>
+					</screen>
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/trait_introduction_conventions.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Conventions</title>
+					</screen>
+				</category>
+				<category label="Introduce the Writing Modes">
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/writing_mode_narrative.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Narrative</title>
+					</screen>
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/writing_mode_informative_explanatory.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Informative/Explanatory</title>
+					</screen>
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/writing_mode_opinion.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Opinion</title>
+					</screen>
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/writing_mode_descriptive.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Descriptive</title>
+					</screen>
+				</category>
+				<category label="Introduce the Writing Process">
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/process_intro.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Introduce the Writing Process</title>
+					</screen>
+				</category>
+				<category label="Peer Conferencing">
+					<screen type="ppt" src="[CONTENT]zbsfw2/media/animated_presentations/peer_conferencing.swf" thumb="[CONTENT]zbsfw/thumbs/ppt.png">
+						<title>Peer Conferencing</title>
+					</screen>
+				</category>
+			</category>
+
+
+
+
+			<category label="Proofreading Activities">
+				<category label="Narrative">
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Personal Narrative</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_narr_personal.xml"/>
+					</screen>
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Friendly Letter</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_narr_friendly.xml"/>
+					</screen>
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Fable</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_narr_fable.xml"/>
+					</screen>
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Narrative Test Writing</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_narr_test.xml"/>
+					</screen>
+				</category>
+				<category label="Informative/Explanatory">
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>How-To Paper</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_info_how-to.xml"/>
+					</screen>
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Compare-and-Contrast Essay</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_info_comp.xml"/>
+					</screen>
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Research Report</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_info_research.xml"/>
+					</screen>
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Informative/Explanatory Test Writing</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_info_test.xml"/>
+					</screen>
+				</category>
+				<category label="Opinion">
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Opinion Paper</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_opin_paper.xml"/>
+					</screen>
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Response to Literature</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_opin_book.xml"/>
+					</screen>
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Opinion Speech</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_opin_speech.xml"/>
+					</screen>
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Opinion Test Writing</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_opin_test.xml"/>
+					</screen>
+				</category>
+				<category label="Descriptive">
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Descriptive Paper</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_desc_paper.xml"/>
+					</screen>
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Descriptive Sketch</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_desc_sketch.xml"/>
+					</screen>
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Poem</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_desc_poem.xml"/>
+					</screen>
+					<screen type="proofreading" src="[CONTENT]zbsfw/engines/proof_reading_barnyard.swf" thumb="[CONTENT]zbsfw/thumbs/proof_reading_barnyard.png"  menuPreview="[CONTENT]zbsfw/previews/proofreading.png">
+						<title>Descriptive Test Writing</title>
+						<data src="[CONTENT]zbsfw2/data/proof_reading_desc_test.xml"/>
+					</screen>
+				</category>
+
+			</category>
+			<category label="Rubrics">
+				<category label="Narrative">
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Personal Narrative</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page8_9.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Friendly Letter</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page34_35.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Fable</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page60_61.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Narrative 4-Point Rubric</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page512.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Narrative 5-Point Rubric</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page516.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Narrative 6-Point Rubric</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page520.xml"/>
+					</screen>
+				</category>
+				<category label="Informative/Explanatory">
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>How-To Paper</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page110_111.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Compare-and-Contrast Paper</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page136_137.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Research Report</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page162_163.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Informative/Explanatory 4-Point Rubric</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page513.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Informative/Explanatory 5-Point Rubric</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page517.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Informative/Explanatory 6-Point Rubric</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page521.xml"/>
+					</screen>
+				</category>
+				<category label="Opinion">
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Opinion Paper</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page212_213.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Response to Literature</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page238_239.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Opinion Speech</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page264_265.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Opinion 4-Point Rubric</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page514.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Opinion 5-Point Rubric</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page518.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Opinion 6-Point Rubric</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page522.xml"/>
+					</screen>
+				</category>
+				<category label="Descriptive">
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Descriptive Paper</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page314_315.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Descriptive Sketch</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page340_341.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Poem</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page366_367.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Descriptive 4-Point Rubric</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page515.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Descriptive 5-Point Rubric</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page519.xml"/>
+					</screen>
+					<screen type="rubrics" src="[CONTENT]zbsfw/engines/rubric.swf" thumb="[CONTENT]zbsfw/thumbs/rubric.png" menuPreview="[CONTENT]zbsfw/previews/rubric.png">
+						<title>Descriptive 6-Point Rubric</title>
+						<data src="[CONTENT]zbsfw2/data/rubric_page523.xml"/>
+					</screen>
+				</category>
+
+			</category>
+			<category label="Songs">
+				<screen type="songs" src="[CONTENT]zbsfw/engines/video.swf" thumb="[CONTENT]zbsfw/thumbs/song.png" menuPreview="[CONTENT]zbsfw/previews/songs.png">
+					<title>The Lefty Song</title>
+					<data src="[CONTENT]zbsfw2/data/song_lefty.xml"/>
+				</screen>
+				<screen type="songs" src="[CONTENT]zbsfw/engines/video.swf" thumb="[CONTENT]zbsfw/thumbs/song.png" menuPreview="[CONTENT]zbsfw/previews/songs.png">
+					<title>The Writing Song</title>
+					<data src="[CONTENT]zbsfw2/data/song_writing.xml"/>
+				</screen>
+				<screen type="songs" src="[CONTENT]zbsfw/engines/video.swf" thumb="[CONTENT]zbsfw/thumbs/song.png" menuPreview="[CONTENT]zbsfw/previews/songs.png">
+					<title>Writer, Writer, You're a Star</title>
+					<data src="[CONTENT]zbsfw2/data/song_writer.xml"/>
+				</screen>
+				<screen type="songs" src="[CONTENT]zbsfw/engines/video.swf" thumb="[CONTENT]zbsfw/thumbs/song.png" menuPreview="[CONTENT]zbsfw/previews/songs.png">
+					<title>Mary Had a Writing Journal</title>
+					<data src="[CONTENT]zbsfw2/data/song_mary.xml"/>
+				</screen>
+				<screen type="songs" src="[CONTENT]zbsfw/engines/video.swf" thumb="[CONTENT]zbsfw/thumbs/song.png" menuPreview="[CONTENT]zbsfw/previews/songs.png">
+					<title>The Editing Song</title>
+					<data src="[CONTENT]zbsfw2/data/song_editing.xml"/>
+				</screen>
+				<screen type="songs" src="[CONTENT]zbsfw/engines/video.swf" thumb="[CONTENT]zbsfw/thumbs/song.png" menuPreview="[CONTENT]zbsfw/previews/songs.png">
+					<title>I'm A Writer Now</title>
+					<data src="[CONTENT]zbsfw2/data/song_writer_now.xml"/>
+				</screen>
+			</category>
+			<category label="Writing Process Videos">
+				<screen type="videos" src="[CONTENT]zbsfw/engines/video.swf" thumb="[CONTENT]zbsfw/thumbs/video.png" menuPreview="[CONTENT]zbsfw/previews/video.png">
+					<title>The Writing Process: Prewrite</title>
+					<data src="[CONTENT]zbsfw2/data/video_prewriting.xml"/>
+				</screen>
+				<screen type="videos" src="[CONTENT]zbsfw/engines/video.swf" thumb="[CONTENT]zbsfw/thumbs/video.png" menuPreview="[CONTENT]zbsfw/previews/video.png">
+					<title>The Writing Process: Draft</title>
+					<data src="[CONTENT]zbsfw2/data/video_drafting.xml"/>
+				</screen>
+				<screen type="videos" src="[CONTENT]zbsfw/engines/video.swf" thumb="[CONTENT]zbsfw/thumbs/video.png" menuPreview="[CONTENT]zbsfw/previews/video.png">
+					<title>The Writing Process: Revise</title>
+					<data src="[CONTENT]zbsfw2/data/video_revising.xml"/>
+				</screen>
+				<screen type="videos" src="[CONTENT]zbsfw/engines/video.swf" thumb="[CONTENT]zbsfw/thumbs/video.png" menuPreview="[CONTENT]zbsfw/previews/video.png">
+					<title>The Writing Process: Edit</title>
+					<data src="[CONTENT]zbsfw2/data/video_editing.xml"/>
+				</screen>		
+				<screen type="videos" src="[CONTENT]zbsfw/engines/video.swf" thumb="[CONTENT]zbsfw/thumbs/video.png" menuPreview="[CONTENT]zbsfw/previews/video.png">
+					<title>The Writing Process: Publish</title>
+					<data src="[CONTENT]zbsfw2/data/video_publishing.xml"/>
+				</screen>
+
+			</category>
+			<category label="Writing Prompts">
+				<screen type="writingprompts" src="[CONTENT]zbsfw/engines/writing_prompt.swf" thumb="[CONTENT]zbsfw/thumbs/writing_prompt.png" menuPreview="[CONTENT]zbsfw/previews/writing_prompts.png">
+					<title>Writing Prompts</title>
+					<data src="[CONTENT]zbsfw2/data/writing_prompt.xml"/>
+				</screen>
+			</category>
+		</screenmenu>
+	</prepare>
+	<present>
+		<screennavigation list="togglelessonmenu prepare savenotations print help"/>
+		<tools list="draw text mute zoomtorect"/>
+	</present>
+	<screencats>
+		<screencat name="graphicOrganizer"
+			disabledTabs="edit"
+			disabledPrepareTools=""
+			disabledPresentTools=""
+		/>
+		<screencat name="noEditScreen"
+			disabledTabs="edit"
+			disabledPrepareTools=""
+			disabledPresentTools="text"
+		/>
+		<screencat name="noToolsOrEditEngine"
+			disabledTabs="tools edit"
+			disabledPrepareTools=""
+			disabledPresentTools="draw text zoomtorect zoomin zoom100 zoomout"
+		/>
+		<screencat name="noToolsEngine"
+			disabledTabs="tools"
+			disabledPrepareTools=""
+			disabledPresentTools="draw text zoomtorect zoomin zoom100 zoomout"
+		/>
+	</screencats>
+	<screentypes>
+		<screentype name="bookpage" screenCat="noEditScreen"/>
+		<screentype name="activity" screenCat="noToolsOrEditEngine"/>
+		<screentype name="simple" screenCat="noEditScreen"/>
+		<screentype name="blank" screenCat="noEditScreen"/>
+		<screentype name="floeslide" screenCat="noToolsEngine"/>
+		<screentype name="mc" screenCat="noToolsEngine"/>
+		<screentype name="quizshow" screenCat="noToolsOrEditEngine"/>
+		<screentype name="sentence" screenCat="noToolsOrEditEngine"/>
+		<screentype name="engine" screenCat="noToolsOrEditEngine"/>
+		<screentype name="animation" screenCat="noToolsOrEditEngine"/>
+		<screentype name="textandimage" screenCat="noEditScreen"/>
+		<screentype name="multiplechoice" screenCat="noEditScreen"/>
+		<screentype name="draganddrop" screenCat="noEditScreen"/>
+		<screentype name="youtubevideo" screenCat="noToolsEngine"/>
+		<screentype name="anchorpapers" screenCat="noToolsOrEditEngine" helpUrl="[CONTENT]zbsfw/help/index.html#anchorpapers"/>
+		<screentype name="grammargames" screenCat="noToolsOrEditEngine" helpUrl="[CONTENT]zbsfw/help/index.html#grammargames"/>
+		<screentype name="go" screenCat="graphicOrganizer" helpUrl="[CONTENT]zbsfw/help/index.html#go"/>
+		<screentype name="ppt" screenCat="noToolsOrEditEngine" helpUrl="[CONTENT]zbsfw/help/index.html#minilessons"/>
+		<screentype name="proofreading" screenCat="noToolsOrEditEngine" helpUrl="[CONTENT]zbsfw/help/index.html#proofreading"/>
+		<screentype name="videos" screenCat="noToolsOrEditEngine" helpUrl="[CONTENT]zbsfw/help/index.html#videos"/>
+		<screentype name="songs" screenCat="noToolsOrEditEngine" helpUrl="[CONTENT]zbsfw/help/index.html#songs"/>
+		<screentype name="rubrics" screenCat="noEditScreen" helpUrl="[CONTENT]zbsfw/help/index.html#rubrics"/>
+		<screentype name="writingprompts" screenCat="noToolsOrEditEngine" helpUrl="[CONTENT]zbsfw/help/index.html#writingprompts"/>
+	</screentypes>
+	<localization>
+		<languages default="en">
+			<language langId="en" label="English"/>
+		</languages>
+		<strings lang="en">
+			<string id="menubar.lessonmenu">
+				<![CDATA[Lessons]]>
+			</string>
+			<string id="menubar.print">
+				<![CDATA[Print]]>
+			</string>
+			<string id="menubar.save">
+				<![CDATA[Save]]>
+			</string>
+			<string id="menubar.save.saved">
+				<![CDATA[Saved]]>
+			</string>
+			<string id="menubar.save.saveacopy">
+				<![CDATA[Save a copy...]]>
+			</string>
+			<string id="menubar.save.rename">
+				<![CDATA[Rename...]]>
+			</string>
+			<string id="menubar.help">
+				<![CDATA[Help]]>
+			</string>
+			<string id="menubar.present">
+				<![CDATA[Present]]>
+			</string>
+			<string id="mainmenu.title">
+				<![CDATA[Lessons]]>
+			</string>
+			<string id="mainmenu.tab.hide">
+				<![CDATA[Hide]]>
+			</string>
+			<string id="mainmenu.tab.show">
+				<![CDATA[Show]]>
+			</string>
+			<string id="mainmenu.opensavedlesson">
+				<![CDATA[Open Saved Lesson]]>
+			</string>
+			<string id="mylessons.savelocationprompt.title">
+				<![CDATA[Save Location Required]]>
+			</string>
+			<string id="mylessons.savelocationprompt.text">
+				<![CDATA[Your "My Lessons" folder is not yet configured. In order to present or edit custom lessons, you must first designate a file on your system where they can be stored. If you have already done so in a previous session, click "Open My Lessons" below to locate the file. Otherwise, click "Create My Lessons" to select a file location, or "Cancel" to simply close this dialog.]]>
+			</string>
+			<string id="mylessons.savelocationinvalidprompt.text">
+				<![CDATA[The "My Lessons" data file could not be written to the location you selected. Click "Create My Lessons" below to try again, "Open My Lessons" to open a saved data file, or "Cancel" to close this dialog.]]>
+			</string>
+			<string id="mylessons.savefileinvalidprompt.text">
+				<![CDATA[The file you selected is not a valid "My Lessons" data file. Click "Open My Lessons" below to try again, "Create My Lessons" to make a new data file, or "Cancel" to close this dialog.]]>
+			</string>
+			<string id="mylessons.savelocationprompt.open">
+				<![CDATA[Open My Lessons]]>
+			</string>
+			<string id="mylessons.savelocationprompt.create">
+				<![CDATA[Create My Lessons]]>
+			</string>
+			<string id="mylessons.savelocationprompt.cancel">
+				<![CDATA[Cancel]]>
+			</string>
+			<string id="mylessons.savelessondialog.create.title">
+				<![CDATA[Create Lesson]]>
+			</string>
+			<string id="mylessons.savelessondialog.create.instructions">
+				<![CDATA[Enter a unique lesson title. Your lesson will be saved to the Lesson Menu under 'My Lessons'.]]>
+			</string>
+			<string id="mylessons.savelessondialog.save.title">
+				<![CDATA[Save Lesson]]>
+			</string>
+			<string id="mylessons.savelessondialog.save.instructions">
+				<![CDATA[Enter a unique title for this lesson. Your lesson will be saved to the Lesson Menu under 'My Lessons'.]]>
+			</string>
+			<string id="mylessons.savelessondialog.saveacopy.title">
+				<![CDATA[Save a Copy]]>
+			</string>
+			<string id="mylessons.savelessondialog.saveacopy.instructions">
+				<![CDATA[To save a new copy of your lesson, enter a unique title for the copy and click 'Save'. The new copy of your lesson will be saved to the Lesson Menu under 'My Lessons']]>
+			</string>
+			<string id="mylessons.savelessondialog.rename.title">
+				<![CDATA[Rename Lesson]]>
+			</string>
+			<string id="mylessons.savelessondialog.rename.instructions">
+				<![CDATA[Enter a new, unique title for this lesson.]]>
+			</string>
+			<string id="mylessons.savelessondialog.titleconflict">
+				<![CDATA[Lesson title must be unique.]]>
+			</string>
+			<string id="mylessons.savelessondialog.cancel">
+				<![CDATA[Cancel]]>
+			</string>
+			<string id="mylessons.savelessondialog.save">
+				<![CDATA[Save]]>
+			</string>
+			<string id="mylessons.savefileexists.title">
+				<![CDATA[Warning]]>
+			</string>
+			<string id="mylessons.savefileexists.text">
+				<![CDATA[A "My Lessons" file already exists at this location. Are you sure you want to overwrite it?]]>
+			</string>
+			<string id="mylessons.savefileexists.cancel">
+				<![CDATA[No]]>
+			</string>
+			<string id="mylessons.savefileexists.replace">
+				<![CDATA[Yes]]>
+			</string>
+			<string id="mylessons.confirmdeletelessondialog.title">
+				<![CDATA[Confirm Lesson Deletion]]>
+			</string>
+			<string id="mylessons.confirmdeletelessondialog.text">
+				<![CDATA[Are you sure you want to delete the lesson "${lesson.title}"?\n(This change cannot be undone.)]]>
+			</string>
+			<string id="mylessons.confirmdeletelessondialog.cancel">
+				<![CDATA[Cancel]]>
+			</string>
+			<string id="mylessons.confirmdeletelessondialog.submit">
+				<![CDATA[Delete Lesson]]>
+			</string>
+			<string id="mylessons.unsavedlessonprompt.title">
+				<![CDATA[Unsaved Changes]]>
+			</string>
+			<string id="mylessons.unsavedlessonprompt.text">
+				<![CDATA[You've made unsaved changes to this lesson. What would you like to do?]]>
+			</string>
+			<string id="mylessons.unsavedlessonprompt.save">
+				<![CDATA[Save and Exit]]>
+			</string>
+			<string id="mylessons.unsavedlessonprompt.discard">
+				<![CDATA[Discard Changes]]>
+			</string>
+			<string id="mylessons.unsavedlessonprompt.cancel">
+				<![CDATA[Continue Editing]]>
+			</string>
+			<string id="mylessons.exitwithunsavedchangesdialog.title">
+				<![CDATA[Unsaved Changes]]>
+			</string>
+			<string id="mylessons.exitwithunsavedchangesdialog.text">
+				<![CDATA[There are unsaved changes in this lesson. Are you sure you want to exit the application without saving?]]>
+			</string>
+			<string id="mylessons.exitwithunsavedchangesdialog.yes">
+				<![CDATA[Discard Changes]]>
+			</string>
+			<string id="mylessons.exitwithunsavedchangesdialog.no">
+				<![CDATA[Cancel]]>
+			</string>
+			<string id="mylessons.emptyalert.text">
+				<![CDATA[You haven't created any custom lessons yet.]]>
+			</string>
+			<string id="mylessons.emptyalert.title">
+				<![CDATA[My Lessons Alert]]>
+			</string>
+			<string id="mylessons.emptyalert.ok">
+				<![CDATA[OK]]>
+			</string>
+			<string id="printdialog.printpreview">
+				<![CDATA[Print Preview]]>
+			</string>
+			<string id="printdialog.printoptions">
+				<![CDATA[Print Options]]>
+			</string>
+			<string id="printdialog.printoptions.printscreen">
+				<![CDATA[Print Screen]]>
+			</string>
+			<string id="printdialog.printoptions.printlesson">
+				<![CDATA[Print Lesson]]>
+			</string>
+			<string id="printdialog.cancel">
+				<![CDATA[Cancel]]>
+			</string>
+			<string id="printdialog.print">
+				<![CDATA[Print...]]>
+			</string>
+			<string id="mylessons.savenotations.title">
+				<![CDATA[Save As]]>
+			</string>
+			<string id="mylessons.savenotations.text">
+				<![CDATA[This action will save your annotations into a new custom lesson. How would you like to proceed?]]>
+			</string>
+			<string id="mylessons.savenotations.cancel">
+				<![CDATA[Cancel]]>
+			</string>
+			<string id="mylessons.savenotations.saveas">
+				<![CDATA[Save markup to custom lesson]]>
+			</string>
+			<string id="mylessons.savenotationscustom.title">
+				<![CDATA[Save As]]>
+			</string>
+			<string id="mylessons.savenotationscustom.text">
+				<![CDATA[This action will save your annotations into the current lesson or into a new custom lesson. How would you like to proceed?]]>
+			</string>
+			<string id="mylessons.savenotationscustom.cancel">
+				<![CDATA[Cancel]]>
+			</string>
+			<string id="mylessons.savenotationscustom.save">
+				<![CDATA[Save markup to current lesson]]>
+			</string>
+			<string id="mylessons.savenotationscustom.saveas">
+				<![CDATA[Save markup to new custom lesson]]>
+			</string>
+			<string id="prepare.tab.notes">
+				<![CDATA[Notes]]>
+			</string>
+			<string id="prepare.tab.tools">
+				<![CDATA[Tools]]>
+			</string>
+			<string id="prepare.tab.edit">
+				<![CDATA[Edit]]>
+			</string>
+			<string id="prepare.slidenumber">
+				<![CDATA[Slide {NUMBER} of {TOTAL}]]>
+			</string>
+			<string id="prepare.notes.default">
+				<![CDATA[Enter notes here...]]>
+			</string>
+			<string id="prepare.tools.windowshade">
+				<![CDATA[Window Shade]]>
+			</string>
+			<string id="prepare.tools.hyperlink">
+				<![CDATA[Hyperlink]]>
+			</string>
+			<string id="prepare.tools.hyperlink.url">
+				<![CDATA[URL]]>
+			</string>
+			<string id="prepare.tools.zoomtorect">
+				<![CDATA[Zoom Tool]]>
+			</string>
+			<string id="prepare.tools.text">
+				<![CDATA[Text Tool]]>
+			</string>
+			<string id="prepare.tools.text.text">
+				<![CDATA[Text]]>
+			</string>
+			<string id="prepare.tools.text.size">
+				<![CDATA[Text Size]]>
+			</string>
+			<string id="prepare.tools.text.bgnd">
+				<![CDATA[Background?]]>
+			</string>
+			<string id="prepare.tools.text.bgcolor">
+				<![CDATA[Background Color]]>
+			</string>
+			<string id="prepare.tools.text.color">
+				<![CDATA[Text Color]]>
+			</string>
+			<string id="prepare.tools.shape">
+				<![CDATA[Shape Tool]]>
+			</string>
+			<string id="prepare.tools.shape.type">
+				<![CDATA[Shape]]>
+			</string>
+			<string id="prepare.tools.shape.rectangle">
+				<![CDATA[Rectangle]]>
+			</string>
+			<string id="prepare.tools.shape.oval">
+				<![CDATA[Oval]]>
+			</string>
+			<string id="prepare.tools.shape.line">
+				<![CDATA[Line]]>
+			</string>
+			<string id="prepare.tools.shape.arrow">
+				<![CDATA[Arrow]]>
+			</string>
+			<string id="prepare.tools.draw">
+				<![CDATA[Draw Tool]]>
+			</string>
+			<string id="prepare.tools.draw.type">
+				<![CDATA[Style]]>
+			</string>
+			<string id="prepare.tools.draw.rectangle">
+				<![CDATA[Rectangle]]>
+			</string>
+			<string id="prepare.tools.draw.oval">
+				<![CDATA[Oval]]>
+			</string>
+			<string id="prepare.tools.draw.line">
+				<![CDATA[Line]]>
+			</string>
+			<string id="prepare.tools.draw.arrow">
+				<![CDATA[Arrow]]>
+			</string>
+			<string id="prepare.tools.draw.pen">
+				<![CDATA[Pen]]>
+			</string>
+			<string id="prepare.tools.draw.sharppen">
+				<![CDATA[Sharp Pen]]>
+			</string>
+			<string id="prepare.tools.draw.smoothpen">
+				<![CDATA[Smooth Pen]]>
+			</string>
+			<string id="prepare.tools.draw.eraser">
+				<![CDATA[Eraser]]>
+			</string>
+			<string id="prepare.tools.draw.linesize">
+				<![CDATA[Line Size]]>
+			</string>
+			<string id="prepare.tools.draw.linecolor">
+				<![CDATA[Line Color]]>
+			</string>
+			<string id="prepare.tools.draw.undo">
+				<![CDATA[Undo]]>
+			</string>
+			<string id="prepare.tools.draw.clear">
+				<![CDATA[Clear]]>
+			</string>
+			<string id="prepare.tools.showhidelayer">
+				<![CDATA[Show/Hide Tools Toggle]]>
+			</string>
+			<string id="prepare.tools.remove">
+				<![CDATA[Remove]]>
+			</string>
+			<string id="prepare.tools.done">
+				<![CDATA[Done]]>
+			</string>
+			<string id="prepare.edit.youtubequerylabel">
+				<![CDATA[Search]]>
+			</string>
+			<string id="prepare.edit.revert">
+				<![CDATA[Revert]]>
+			</string>
+			<string id="prepare.edit.save">
+				<![CDATA[Save Changes]]>
+			</string>
+			<string id="prepare.timeline.menu.removescreen">
+				<![CDATA[Remove Screen]]>
+			</string>
+			<string id="prepare.timeline.menu.duplicatescreen">
+				<![CDATA[Duplicate Screen]]>
+			</string>
+			<string id="prepare.timeline.menu.renamescreen">
+				<![CDATA[Rename Screen...]]>
+			</string>
+			<string id="prepare.timeline.menu.addscreen">
+				<![CDATA[Browse Resources...]]>
+			</string>
+			<string id="prepare.timeline.menu.removescreens">
+				<![CDATA[Remove Screens]]>
+			</string>
+			<string id="present.close">
+				<![CDATA[Edit]]>
+			</string>
+			<string id="present.togglelessonmenu">
+				<![CDATA[Resources]]>
+			</string>
+			<string id="present.savenotations">
+				<![CDATA[Save As]]>
+			</string>
+			<string id="present.print">
+				<![CDATA[Print]]>
+			</string>
+			<string id="present.help">
+				<![CDATA[Help]]>
+			</string>
+			<string id="screenmenu.title">
+				<![CDATA[Resource Options]]>
+			</string>
+			<string id="screenmenu.cancel">
+				<![CDATA[Cancel]]>
+			</string>
+			<string id="screenmenu.insertscreen">
+				<![CDATA[Insert Screen]]>
+			</string>
+			<string id="screenmenu.types.blank.label">
+				<![CDATA[Blank Screen]]>
+			</string>
+			<string id="screenmenu.types.blank.description">
+				<![CDATA[Use this screen for freestyle drawing and writing exercises, or just to clear the whiteboard while focused on something else.]]>
+			</string>
+			<string id="screenmenu.types.youtubevideo.label">
+				<![CDATA[YouTube Video]]>
+			</string>
+			<string id="screenmenu.types.youtubevideo.description">
+				<![CDATA[Adding a YouTube video is easy! Just add this screen to your lesson, and open the Edit tab to search all of YouTube.]]>
+			</string>
+			<string id="screenmenu.types.sentence.label">
+				<![CDATA[Sentence Completion]]>
+			</string>
+			<string id="screenmenu.types.sentence.description">
+				<![CDATA[Build a jazz band one instrument at a time by completing each sentence in this game!]]>
+			</string>
+			<string id="screenmenu.types.animation.label">
+				<![CDATA[Animation Screen]]>
+			</string>
+			<string id="screenmenu.types.animation.description">
+				<![CDATA[The purpose of this screen is to help learn through the magic of moving pictures. In this mode, you can place uploaded animations into the screen content and then use as a visual while teaching a class. How fun!]]>
+			</string>
+			<string id="screenmenu.types.ti.label">
+				<![CDATA[Text and Image Screen]]>
+			</string>
+			<string id="screenmenu.types.ti.description">
+				<![CDATA[Use this screen to compose and present text and/or an image chosen from the media library.]]>
+			</string>
+			<string id="screenmenu.types.mc.label">
+				<![CDATA[Multiple Choice Screen]]>
+			</string>
+			<string id="screenmenu.types.mc.description">
+				<![CDATA[Use this screen to build and present a multiple choice quiz.]]>
+			</string>
+			<string id="screenmenu.types.dd.label">
+				<![CDATA[Drag and Drop Screen]]>
+			</string>
+			<string id="screenmenu.types.dd.description">
+				<![CDATA[Use this screen to build and present an activity whose completion requires students to drag and drop items into their correct places.]]>
+			</string>
+			<string id="myscreens.confirmdeletescreendialog.title">
+				<![CDATA[Confirm Screen Deletion]]>
+			</string>
+			<string id="myscreens.confirmdeletescreendialog.text">
+				<![CDATA[Are you sure you want to delete this screen?\n(This change cannot be undone.)]]>
+			</string>
+			<string id="myscreens.confirmdeletescreendialog.cancel">
+				<![CDATA[Cancel]]>
+			</string>
+			<string id="myscreens.confirmdeletescreendialog.submit">
+				<![CDATA[Delete Screen]]>
+			</string>
+		</strings>
+	</localization>
+</config>

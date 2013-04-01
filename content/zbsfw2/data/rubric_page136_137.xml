@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title><![CDATA[Compare-and-Contrast Paper Rubric]]></title>
+<instructionsInteractive><![CDATA[Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.]]></instructionsInteractive>
+<instructionsStatic><![CDATA[Use this 6-point rubric to plan and score a compare-and-contrast paper.]]></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td><![CDATA[The writer stays focused on comparing two topics. Accurate facts develop the topics.]]></td>
+    <td><![CDATA[The writer compares two topics. Facts are clear]]></td>
+    <td><![CDATA[The writer compares two topics. Many facts are clear.]]></td>
+    <td><![CDATA[The writer compares two topics. More facts are needed to be clear.]]></td>
+    <td><![CDATA[The writer tells only how the topics are alike. Many facts are not accurate.]]></td>
+    <td><![CDATA[Facts are missing or incomplete.]]></td>
+  </tr>
+  <tr> <!--Organization-->
+    <td><![CDATA[Topics are clearly introduced at the beginning, facts are well organized, and the conclusion is satisfying.]]></td>
+    <td><![CDATA[Topics are clearly introduced at the beginning, facts are organized, and there is a conclusion.]]></td>
+    <td><![CDATA[There is a beginning, a middle with facts, and a conclusion.]]></td>
+    <td><![CDATA[Either the beginning or the conclusion is missing. The facts are not well organized.]]></td>
+    <td><![CDATA[There is no clear beginning or conclusion. The piece just begins and ends.]]></td>
+    <td><![CDATA[The writing is not organized at all.]]></td>
+  </tr>
+  <tr> <!--Voice-->
+    <td><![CDATA[The writer’s voice is perfect for the audience and purpose.]]></td>
+    <td><![CDATA[The writer’s voice is formal most of the time.]]></td>
+    <td><![CDATA[The writer’s voice starts out formal but fades in the middle.]]></td>
+    <td><![CDATA[The writer’s voice comes and goes.]]></td>
+    <td><![CDATA[The writer’s voice is not appropriate for the audience and purpose.]]></td>
+    <td><![CDATA[There is no voice in the writing.]]></td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td><![CDATA[The writer uses descriptive words that clearly show the comparison or contrast.]]></td>
+    <td><![CDATA[The writer uses words that compare and contrast.]]></td>
+    <td><![CDATA[The writer uses some words that compare and contrast.]]></td>
+    <td><![CDATA[More words that compare and contrast are needed.]]></td>
+    <td><![CDATA[Words that make comparisons are not used.]]></td>
+    <td><![CDATA[It is hard to picture what the writer is comparing as the words are vague and unrelated.]]></td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td><![CDATA[The writer uses a perfect combination of long and short sentences to make the writing smooth.]]></td>
+    <td><![CDATA[Short sentences are combined to make the writing smooth.]]></td>
+    <td><![CDATA[More short sentences could be combined to make smooth sentences.]]></td>
+    <td><![CDATA[Short sentences have not been combined. The writing is choppy.]]></td>
+    <td><![CDATA[The writing is hard to follow and read because the sentences are all the same length.]]></td>
+    <td><![CDATA[Many sentences are incomplete.]]></td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td><![CDATA[The writer forms plural and proper nouns correctly.]]></td>
+    <td><![CDATA[The writing contains minimal errors with plural and proper nouns.]]></td>
+    <td><![CDATA[A few errors with plural and proper nouns can be corrected easily.]]></td>
+    <td><![CDATA[Many errors with plural and proper nouns make the reader struggle to understand.]]></td>
+    <td><![CDATA[Many serious errors with plural and proper nouns leave the reader confused.]]></td>
+    <td><![CDATA[The paper has not been edited.]]></td>
+  </tr>
+</table>
+</content>

@@ -1,0 +1,26 @@
+<root>
+	<graphicOrganizer  name="Five Ws Chart" type="block" variation="none" id="7">
+		<entry>
+			<tf x="229" y="14" width = "573" height = "95" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x026FD8" useFill="1" fillColor="0xCDEBFE">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="229" y="116" width = "573" height = "95" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x00C7EC" useFill="1" fillColor="0xDEFCFE">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="229" y="219" width = "573" height = "95" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xFF9301" useFill="1" fillColor="0xFFE6CC">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="229" y="323" width = "573" height = "95" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="229" y="426" width = "573" height = "95" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xFCCC1E" useFill="1" fillColor="0xFEEFCD">
+				<text>Click to add text.</text>
+			</tf>
+		</entry>
+			
+</graphicOrganizer>
+
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+</help>
+
+</root>

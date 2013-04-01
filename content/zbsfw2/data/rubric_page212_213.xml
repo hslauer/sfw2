@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title><![CDATA[Opinion Paper Rubric]]></title>
+<instructionsInteractive><![CDATA[Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.]]></instructionsInteractive>
+<instructionsStatic><![CDATA[Use this 6-point rubric to plan and score an opinion paper.]]></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td><![CDATA[The writer’s opinion is strong and clear. Specific details explain the reasons well.]]></td>
+    <td><![CDATA[The writer’s opinion is clear. The reasons make sense.]]></td>
+    <td><![CDATA[The writer states an opinion. Most reasons make sense.]]></td>
+    <td><![CDATA[The writer’s opinion is unclear. The reasons are vague.]]></td>
+    <td><![CDATA[The writer’s opinion is not clear. Reasons are too general or weak.]]></td>
+    <td><![CDATA[The paper does not give an opinion.]]></td>
+  </tr>
+  <tr> <!--Organization-->
+    <td><![CDATA[The writer uses a new paragraph for each idea.]]></td>
+    <td><![CDATA[Most of the writer’s ideas are easy to follow.]]></td>
+    <td><![CDATA[Many of the writer’s ideas are easy to follow.]]></td>
+    <td><![CDATA[Many of the writer’s ideas are hard to follow.]]></td>
+    <td><![CDATA[Most of the writer’s ideas are hard to follow.]]></td>
+    <td><![CDATA[The writing is not organized.]]></td>
+  </tr>
+  <tr> <!--Voice-->
+    <td><![CDATA[The writer uses a personal “you” voice. The voice clearly speaks to the reader]]></td>
+    <td><![CDATA[The writer generally uses a personal “you” voice and speaks to the reader.]]></td>
+    <td><![CDATA[The writer speaks to the reader some of the time.]]></td>
+    <td><![CDATA[The writer’s voice speaks to the reader and then fades.]]></td>
+    <td><![CDATA[The writer does not speak directly to the reader. The writer’s voice is faint.]]></td>
+    <td><![CDATA[The writing lacks voice.]]></td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td><![CDATA[Well-chosen adjectives describe the topic perfectly.]]></td>
+    <td><![CDATA[Adjectives describe the topic well.]]></td>
+    <td><![CDATA[Adjectives are used, but several could be more specific.]]></td>
+    <td><![CDATA[Too few or too many adjectives are used.]]></td>
+    <td><![CDATA[Many adjectives are repeated or vague. The writer’s meaning is not clear.]]></td>
+    <td><![CDATA[The word choice is too general to be meaningful. The writer’s meaning is not clear.]]></td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td><![CDATA[Well-chosen transitions make the writing smooth and easy to follow.]]></td>
+    <td><![CDATA[Transitions are used to connect short sentences and ideas.]]></td>
+    <td><![CDATA[The same transitions are always used to connect short sentences.]]></td>
+    <td><![CDATA[Transitions are not used or are used the wrong way.]]></td>
+    <td><![CDATA[Many choppy sentences make the writing hard to understand.]]></td>
+    <td><![CDATA[Sentences are incomplete.]]></td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td><![CDATA[Sentences are complete. All nouns and verbs agree.]]></td>
+    <td><![CDATA[A few errors with noun and verb agreement can be fixed easily.]]></td>
+    <td><![CDATA[Several errors with noun and verb agreement confuse the reader.]]></td>
+    <td><![CDATA[Many errors with noun and verb agreement make the writing hard to understand.]]></td>
+    <td><![CDATA[Serious, frequent errors with noun and verb agreement make the writing hard to understand.]]></td>
+    <td><![CDATA[Many sentences are incomplete and incorrect.]]></td>
+  </tr>
+</table>
+</content>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+  <type>proof_reading</type>
+  <title>Descriptive | Descriptive Paper</title>
+  <instructions>Drag the proofreading marks to identify the errors. Type misspelled or missing words.</instructions>
+  <text><![CDATA[<p align="center"><b>Snow</b></p>	It’s going to snow, and the sky is gray. The temperature is below freezing. The {l}Weather report says the barometer is falling.
+	A few flakes drift from the sky. They don’t melt because {+|the} ground is cold. More flakes fall, faster and faster. The sky is filled with flakes{.} They come so fast the air looks white.  
+	The ground is quickly covered. Grass, sidewalks, and streets disappear. Everywhere there is a cold blanket of white. The snow piles higher and higher. Cars leave tracks in {-|in} the street. People make footprints, but they soon disappear under more snow{.} Birds hide in bushes. People hurry home. 
+	Then the snow stops. {u}big trucks begin to scrape the streets, and people shovel sidewalks. The children get out their sleds.]]></text>
+
+  
+</content>

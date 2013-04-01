@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Articles: <I>A</I> and <I>An</I>]]></title>
+<lesson>LEVEL B LESSON 23</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Does <I>a</I> or <I>an</I> best complete each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Fruit is part of _____ good breakfast.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[a]]></answer>
+      <answer><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You might eat _____ apple and peanut butter.]]></question>
+    <answers>
+      <answer><![CDATA[a]]></answer>
+      <answer correct="true"><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Or you might have _____ orange with some toast.]]></question>
+    <answers>
+      <answer><![CDATA[a]]></answer>
+      <answer correct="true"><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some people cut up _____ banana on their cereal.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[a]]></answer>
+      <answer><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Others mix _____ peach with their oatmeal.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[a]]></answer>
+      <answer><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Did you know a tomato is _____ fruit?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[a]]></answer>
+      <answer><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You can add tomatoes to _____ omelet.]]></question>
+    <answers>
+      <answer><![CDATA[a]]></answer>
+      <answer correct="true"><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Or you can eat _____ egg over easy!]]></question>
+    <answers>
+      <answer><![CDATA[a]]></answer>
+      <answer correct="true"><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[But try to have _____ piece of fruit for dessert.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[a]]></answer>
+      <answer><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Spread berries on top of _____ pancake.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[a]]></answer>
+      <answer><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Or smear strawberry jam on _____ slice of bread.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[a]]></answer>
+      <answer><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Jam and jelly are also good on _____ English muffin.]]></question>
+    <answers>
+      <answer><![CDATA[a]]></answer>
+      <answer correct="true"><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Cream cheese is _____ interesting topping, too.]]></question>
+    <answers>
+      <answer><![CDATA[a]]></answer>
+      <answer correct="true"><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[But cream cheese is best on _____ bagel.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[a]]></answer>
+      <answer><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I like to eat _____ egg sandwich with cheese.]]></question>
+    <answers>
+      <answer><![CDATA[a]]></answer>
+      <answer correct="true"><![CDATA[an]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

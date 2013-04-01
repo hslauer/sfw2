@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+  <type>proof_reading</type>
+  <title>Narrative | Test Writing</title>
+  <instructions>Drag the proofreading marks to identify the errors. Type misspelled or missing words.</instructions>
+  <text><![CDATA[<p align="center"><b>Backyard Camping</b></p>	Last {u}friday night, Matt and I decided to camp out in the backyard. Dad helped us set up our tent, and Matt and I put our sleeping bags in it{.} Then we put in two flashlights and our food and water.
+	We played a board game until 8:00 P.M., and then we went out back. It wasn’t dark yet, so we played catch for a while{.} Then a big orange ball rose up over the trees. It was the {l}Moon. As it got higher in the sky, it turned white.
+	We went to the tent and crawled into our sleeping bags. We {+|ate} our snacks and talked for a while. I don’t remember falling asleep. Suddenly, the sun was shining into the {-|the} tent, and it was morning.]]></text>
+
+  
+</content>

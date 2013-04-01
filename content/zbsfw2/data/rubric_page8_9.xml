@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title><![CDATA[Personal Narrative Rubric]]></title>
+<instructionsInteractive><![CDATA[Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.]]></instructionsInteractive>
+<instructionsStatic><![CDATA[Use this 6-point rubric to plan and score a personal narrative.]]></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td><![CDATA[The topic is clear. Details describe actions, thoughts, and feelings well.]]></td>
+    <td><![CDATA[The topic is clear. Most details describe actions, thoughts, or feelings.]]></td>
+    <td><![CDATA[The topic is somewhat clear. Some details describe actions, thoughts, or feelings.]]></td>
+    <td><![CDATA[The topic is clear only in parts of the story. The story needs more details.]]></td>
+    <td><![CDATA[The topic is not clear. The details do not describe anything well.]]></td>
+    <td><![CDATA[The topic is not clear. There are not enough details.]]></td>
+  </tr>
+  <tr> <!--Organization-->
+    <td><![CDATA[The events are in order. Time-order words show the order of events.]]></td>
+    <td><![CDATA[Most of the events are in order. Some time-order words are used.]]></td>
+    <td><![CDATA[The order of events is confusing. More time-order words are needed for the order to be clear.]]></td>
+    <td><![CDATA[The events may not be in order. Time-order words are not used correctly.]]></td>
+    <td><![CDATA[The events are not in order. The writing is hard to follow.]]></td>
+    <td><![CDATA[Understanding the writing is difficult because the writing lacks any organization.]]></td>
+  </tr>
+  <tr> <!--Voice-->
+    <td><![CDATA[The writer’s personality comes through strongly in the writing.]]></td>
+    <td><![CDATA[The writer’s personality comes through in the writing.]]></td>
+    <td><![CDATA[The writer’s personality comes through most of the time.]]></td>
+    <td><![CDATA[The writer’s personality comes through occasionally but is not consistent.]]></td>
+    <td><![CDATA[The writer’s personality is inconsistent or lacking in the piece.]]></td>
+    <td><![CDATA[The writer’s personality is missing in the piece.]]></td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td><![CDATA[The words used are exact and create a strong picture of the writer.]]></td>
+    <td><![CDATA[The words used create a strong picture of the writer.]]></td>
+    <td><![CDATA[Most of the words help the reader picture the writer.]]></td>
+    <td><![CDATA[Some of the words help the reader form a picture of the writer.]]></td>
+    <td><![CDATA[Words used are wrong. They do not create a clear picture of the writer.]]></td>
+    <td><![CDATA[The words do not help the reader picture the writer.]]></td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td><![CDATA[Sentences of different lengths make the story easy and fun to read.]]></td>
+    <td><![CDATA[Most of the sentences are varied and the piece is easy to read.]]></td>
+    <td><![CDATA[Some sentences are varied in length. The writing is a little bit choppy.]]></td>
+    <td><![CDATA[Many sentences are the same length and make the story choppy to read.]]></td>
+    <td><![CDATA[Sentences are usually the same length, and the reader must work to read the piece.]]></td>
+    <td><![CDATA[Sentences are too long, lack variety, or are incomplete. The writing is hard to follow.]]></td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td><![CDATA[All sentences are capitalized and punctuated correctly.]]></td>
+    <td><![CDATA[The meaning is clear, even with one or two errors in capitalization and punctuation.]]></td>
+    <td><![CDATA[A few errors in capitalization and punctuation do not interfere with meaning.]]></td>
+    <td><![CDATA[Some errors in capitalization and punctuation can confuse the reader.]]></td>
+    <td><![CDATA[Many errors stop the reader and interfere with understanding.]]></td>
+    <td><![CDATA[Serious, frequent errors make the writing hard to read.]]></td>
+  </tr>
+</table>
+</content>

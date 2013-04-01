@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Verb <I>Come</I>]]></title>
+<lesson>LEVEL B LESSON 29</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Does <I>come</I> or <I>came</I> best complete each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Amrita _____ to the movies with us yesterday.]]></question>
+    <answers>
+      <answer><![CDATA[come]]></answer>
+      <answer correct="true"><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Maybe you can _____ with us next time.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[come]]></answer>
+      <answer><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[If you _____, we will have so much fun!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[come]]></answer>
+      <answer><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Have you ever _____ over to my house?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[come]]></answer>
+      <answer><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ over to my house right now!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Come]]></answer>
+      <answer><![CDATA[Came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[James _____ over an hour ago, and he is still here.]]></question>
+    <answers>
+      <answer><![CDATA[come]]></answer>
+      <answer correct="true"><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Most of my friends have _____ over to my house before.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[come]]></answer>
+      <answer><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Jared _____ over last weekend.]]></question>
+    <answers>
+      <answer><![CDATA[come]]></answer>
+      <answer correct="true"><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sarah has _____ over many times.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[come]]></answer>
+      <answer><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Her family just _____ back from a vacation.]]></question>
+    <answers>
+      <answer><![CDATA[come]]></answer>
+      <answer correct="true"><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[She will not _____ over today.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[come]]></answer>
+      <answer><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[If you _____, we can play Monopoly.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[come]]></answer>
+      <answer><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My dad _____ home from work early.]]></question>
+    <answers>
+      <answer><![CDATA[come]]></answer>
+      <answer correct="true"><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He just _____ in the back door.]]></question>
+    <answers>
+      <answer><![CDATA[come]]></answer>
+      <answer correct="true"><![CDATA[came]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[If you _____ over, he will drive you back home.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[come]]></answer>
+      <answer><![CDATA[came]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

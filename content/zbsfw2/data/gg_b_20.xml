@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Conjunctions: <I>And, Or, But</I>]]></title>
+<lesson>LEVEL B LESSON 20</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Does <I>and</I>, <I>or</I>, or <I>but</I> best complete each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Dogs _____ cats are the two most popular pets.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[and]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Do you like dogs _____ cats better?]]></question>
+    <answers>
+      <answer><![CDATA[and]]></answer>
+      <answer correct="true"><![CDATA[or]]></answer>
+      <answer><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I prefer dogs, _____ I like cats, too.]]></question>
+    <answers>
+      <answer><![CDATA[and]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer correct="true"><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Are fish _____ birds more popular as pets?]]></question>
+    <answers>
+      <answer><![CDATA[and]]></answer>
+      <answer correct="true"><![CDATA[or]]></answer>
+      <answer><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many people own birds, _____ more own dogs.]]></question>
+    <answers>
+      <answer><![CDATA[and]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer correct="true"><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Both dogs _____ cats have four legs.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[and]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I once had some fish, _____ I never had a bird.]]></question>
+    <answers>
+      <answer><![CDATA[and]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer correct="true"><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My family has three pets: two dogs _____ one cat.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[and]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The dogs’ names are Tucker _____ Annie.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[and]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I wanted a different name for Annie, _____ my sister chose her name.]]></question>
+    <answers>
+      <answer><![CDATA[and]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer correct="true"><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I wanted the name Scout _____ Sadie.]]></question>
+    <answers>
+      <answer><![CDATA[and]]></answer>
+      <answer correct="true"><![CDATA[or]]></answer>
+      <answer><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Do you own a dog _____ a cat or both?]]></question>
+    <answers>
+      <answer><![CDATA[and]]></answer>
+      <answer correct="true"><![CDATA[or]]></answer>
+      <answer><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[One time our family went camping, _____ we took our dogs with us.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[and]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I wanted to take them to the beach, _____ my dad said no.]]></question>
+    <answers>
+      <answer><![CDATA[and]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer correct="true"><![CDATA[but]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many dogs like water, _____ most cats hate it!]]></question>
+    <answers>
+      <answer><![CDATA[and]]></answer>
+      <answer><![CDATA[or]]></answer>
+      <answer correct="true"><![CDATA[but]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

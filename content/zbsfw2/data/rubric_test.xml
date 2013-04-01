@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title>Narrative Rubric</title>
+<instructionsInteractive>Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.</instructionsInteractive>
+<instructionsStatic></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td>The topic is just the right size—not too big or too small. Descriptive details introduce and develop the setting, narrator, characters, and plot. Carefully selected ideas completely satisfy the needs of the reader.</td>
+    <td>The topic is the right size. Most details introduce and develop the setting, narrator, characters, and plot. Carefully selected ideas satisfy most of the reader’s needs.</td>
+    <td>The topic is the right size. Some details introduce and develop the setting, narrator, characters, and plot. The ideas selected by the author frequently meet the needs of the reader.</td>
+    <td>The topic is too big or too small. Some details develop the setting, narrator, characters, and plot. The ideas selected by the author sometimes meet the needs of the reader.</td>
+    <td>The topic is undeveloped. Too few details develop the narrative. Some details are unrelated. The author did not consider the needs of the reader.</td>
+    <td>The writing is not a narrative. Details are not included.</td>
+  </tr>
+  <tr> <!--Organization-->
+    <td>The narrative unfolds logically and naturally. Transition words and phrases help sequence the events. A strong beginning leads to a satisfying conclusion.</td>
+    <td>One or two events in the middle are not connected or are out of order. Transition words and phrases help sequence most of the events. The beginning or the conclusion is strong.</td>
+    <td>Some events are not connected or are out of order. Transition words and phrases are needed to help sequence the events. The beginning and the conclusion work, but may not be strong.</td>
+    <td>The narrative does not unfold logically and naturally. Events are out of order. Transition words and phrases are confusing or missing. The beginning or the conclusion is weak.</td>
+    <td>The narrative does not unfold logically. Events are out of order. Transition words and phrases are not used. The beginning or the conclusion is missing or problematic.</td>
+    <td>The writing is disorganized and very difficult to follow. No beginning or conclusion is evident.</td>
+  </tr>
+  <tr> <!--Voice-->
+    <td>The voice, mood, and tone are just right for the purpose. Dialogue, if used, reveals each character’s voice clearly.</td>
+    <td>The voice, mood, and tone are just right most of the time. Dialogue, if used, reveals the characters’ voices.</td>
+    <td>The voice, mood, and tone are just right in places, but inconsistent. Dialogue, if used, somewhat reveals the characters’ voices.</td>
+    <td>The voice sounds disinterested. Mood and tone are weak. Dialogue, if used, does not uniquely distinguish the characters’ voices.</td>
+    <td>The voice, mood, and tone are not consistent. Dialogue, if used, does not sound right for some of the characters.</td>
+    <td>Voice is flat. Mood and tone are absent. Dialogue is not used.</td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td>Words and phrases consistently help the reader “see” the characters and “experience” the events. Nouns and verbs are clear and precise, supported by a few carefully selected modifiers.
+</td>
+    <td>Words and phrases frequently help the reader “see” most of the characters and “experience” most of the events. Nouns and verbs are mostly clear and precise. Most modifiers are carefully selected.</td>
+    <td>Some words and phrases help the reader picture characters and events, but some are too general. Certain nouns and verbs are weak, requiring too much help from modifiers. Modifiers are satisfactory.</td>
+    <td>Many words and phrases are too general. They keep the reader from picturing the characters and events clearly. Nouns and verbs lack clarity or precision. Too many or too few modifiers are used, and many of them are weak.</td>
+    <td>Most words do not help the characters and events come alive for the reader. Nouns and verbs are vague, unclear, or confusing. Modifiers may be missing entirely.</td>
+    <td>Many words are not used correctly. They distract the reader.</td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td>Varied sentence beginnings, lengths, and patterns make the writing flow smoothly. Several particularly well-crafted sentences add style and interest. The paper is effortlessly read aloud with inflection or feeling.</td>
+    <td>Most sentence beginnings, lengths, and patterns are varied. One or two sentences add style. The paper is easily read aloud with inflection or feeling.</td>
+    <td>There is some variation in sentence beginnings, lengths, and patterns. The sentences are correct but ordinary. The paper can be read aloud with inflection or feeling.</td>
+    <td>Many sentences have the same beginnings, lengths, and patterns. This interrupts the flow of the writing. The sentences are mostly correct but ordinary. It is difficult to read the paper with inflection.</td>
+    <td>All or almost all the sentences follow the same pattern. Lengths and beginnings do not vary, making the writing robotic or rambling.</td>
+    <td>Sentences are poorly written or incorrect. The writing does not flow.</td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td>Spelling, grammar, punctuation, and capitalization are correct. The narrative contains no errors.</td>
+    <td>There are a few minor errors, but they do not make the narrative difficult to read.</td>
+    <td>There are a few grammatical errors that may cause the reader to pause momentarily, but meaning is clear.</td>
+    <td>Many errors are present, and some confuse the reader.</td>
+    <td>Several serious errors make the narrative hard to understand.</td>
+    <td>The writing has not been edited.</td>
+  </tr>
+</table>
+</content>

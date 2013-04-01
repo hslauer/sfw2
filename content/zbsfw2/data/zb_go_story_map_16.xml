@@ -1,0 +1,43 @@
+<root>
+	<graphicOrganizer name="Story Map" type="block" variation="none" id="16">
+		<entry>
+			<tf x="195" y="30" width = "660" height = "37" useTemp="0" ZB_Block = "1" bold ="1" useFrame="1" strokeW="4" fColor="0x4DC7C7" useFill="0">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="195" y="92" width = "660" height = "37" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xFF9301" useFill="1" fillColor="0xFFE6CC">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="195" y="168" width = "660" height = "37" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x026FD8" useFill="1" fillColor="0xCDEBFE">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="195" y="242" width = "660" height = "37" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x00C7EC" useFill="1" fillColor="0xDEFCFE">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="195" y="315" width = "118" height = "42" useTemp="0" ZB_Block = "0" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Event 1</text>
+			</tf>
+			<tf x="310" y="315" width = "544" height = "42" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="195" y="356" width = "118" height = "42" useTemp="0" ZB_Block = "0" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Event 2</text>
+			</tf>
+			<tf x="310" y="356" width = "544" height = "42" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="195" y="397" width = "118" height = "42" useTemp="0" ZB_Block = "0" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Event 3</text>
+			</tf>
+			<tf x="310" y="397" width = "544" height = "42" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="195" y="461" width = "660" height = "37" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xFCCC1E" useFill="1" fillColor="0xFEEFCD">
+				<text>Click to add text.</text>
+			</tf>
+			
+		</entry>
+	
+</graphicOrganizer>
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+</root>

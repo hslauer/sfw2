@@ -1,0 +1,23 @@
+<root>
+	<graphicOrganizer name="Character Traits Chart" type="block" variation="3-traits" id="4">
+		
+		<entry>
+			<tf x="245" y="23" width = "539" height = "37" useTemp="0" ZB_Block = "1" bold ="1"  useFrame="1" strokeW="4" fColor="0x4DC7C7" useFill="0">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="20" y="148" width = "264" height = "365" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x026FD8" useFill="1" fillColor="0xCDEBFE">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="309" y="148" width = "264" height = "365" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="599" y="148" width = "264" height = "365" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xFCCC1E" useFill="1" fillColor="0xFEEFCD">
+				<text>Click to add text.</text>
+			</tf>
+			
+		</entry>
+	
+</graphicOrganizer>
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+</root>

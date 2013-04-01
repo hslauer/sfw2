@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Noun or Verb]]></title>
+<lesson>LEVEL B LESSON 17</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Is the underlined word a noun or a verb? Choose your answer below.]]></instruction>
+    <question><![CDATA[At <u>recess</u>, we play kickball almost every day.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I <u>kick</u> the ball hard on my turn.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Other <u>students</u> jump rope during recess.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[A few teachers <u>watch</u> us during recess.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Instead of playing, some students sit and <u>talk</u>.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[If we do not have a <u>ball</u>, we play tag.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Jacob <u>runs</u> the fastest of all of us.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I only <u>catch</u> him once in a while!]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Alyssa likes to shoot the <u>basketball</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sometimes I <u>join</u> her under the basket.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[When it rains, we <u>stay</u> indoors.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We draw <u>pictures</u> at our desks.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sometimes we play <u>games</u> with our teacher.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Inside or outside, recess is a fun time of the <u>day</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[But I <u>enjoy</u> playing outside much better!]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[verb]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

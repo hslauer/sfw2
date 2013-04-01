@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Complete Subject and Complete Predicate]]></title>
+<lesson>LEVEL B LESSON 2</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Decide whether the underlined group of words is a complete subject or a complete predicate. Choose your answer below.]]></instruction>
+    <question><![CDATA[Maria Mitchell <u>was born in 1818</u>.]]></question>
+    <answers>
+      <answer><![CDATA[complete subject]]></answer>
+      <answer correct="true"><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Ten children</u> were in the Mitchell family.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[complete subject]]></answer>
+      <answer><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>William Mitchell, Maria’s father</u>, schooled the children.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[complete subject]]></answer>
+      <answer><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He <u>taught them about the stars</u>.]]></question>
+    <answers>
+      <answer><![CDATA[complete subject]]></answer>
+      <answer correct="true"><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Maria <u>got a job as a librarian</u>.]]></question>
+    <answers>
+      <answer><![CDATA[complete subject]]></answer>
+      <answer correct="true"><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[She <u>learned more about the stars at the library</u>.]]></question>
+    <answers>
+      <answer><![CDATA[complete subject]]></answer>
+      <answer correct="true"><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Maria</u> studied the night sky.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[complete subject]]></answer>
+      <answer><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[In 1847, she <u>discovered a comet</u>.]]></question>
+    <answers>
+      <answer><![CDATA[complete subject]]></answer>
+      <answer correct="true"><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[She <u>saw it through a telescope</u>.]]></question>
+    <answers>
+      <answer><![CDATA[complete subject]]></answer>
+      <answer correct="true"><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>The comet</u> was named after Maria Mitchell.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[complete subject]]></answer>
+      <answer><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Maria <u>got a gold medal from the king of Denmark</u>.]]></question>
+    <answers>
+      <answer><![CDATA[complete subject]]></answer>
+      <answer correct="true"><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>She</u> became a professor.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[complete subject]]></answer>
+      <answer><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Maria</u> was the first woman to do many of these things.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[complete subject]]></answer>
+      <answer><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[She <u>spoke for women’s rights</u>.]]></question>
+    <answers>
+      <answer><![CDATA[complete subject]]></answer>
+      <answer correct="true"><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Today there <u>is an organization named for her</u>.]]></question>
+    <answers>
+      <answer><![CDATA[complete subject]]></answer>
+      <answer correct="true"><![CDATA[complete predicate]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

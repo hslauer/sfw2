@@ -1,0 +1,28 @@
+<root>
+	<graphicOrganizer name="Cause and Effect 2" type="block" variation="2-row" id="1">
+			<entry  x="10" y ="80" width ="250" height ="150" title="Cause" imgId="cause">
+			<tf x="19" y="120" width = "367" height = "119" useTemp="0" ZB_Block = "1" bold ="0" useFrame="0">
+				<text>Click to add text.</text>
+			</tf>
+		</entry>
+		<others x="420" y="159" type="blue_green"></others>
+		<entry x="470" y ="80" width ="250" height ="150" title="Cause" imgId="effect">
+			<tf x="480" y="119" width = "367" height = "119" useTemp="0" ZB_Block = "1" bold ="0" useFrame="0">
+				<text>Click to add text.</text>
+			</tf>
+		</entry>
+		<entry x="10" y ="255" width ="250" height ="150" title="Cause" imgId="cause">
+			<tf x="19" y="295" width = "367" height = "119" useTemp="0" ZB_Block = "1" bold ="0" useFrame="0">
+				<text>Click to add text.</text>
+			</tf>
+		</entry>
+		<others x="420" y= "334" type="blue_green"></others>
+		<entry x="470" y ="255" width ="250" height ="150" title="Cause" imgId="effect">
+			<tf x="480" y="294" width = "367" height = "119" useTemp="0" ZB_Block = "1" bold ="0" useFrame="0">
+				<text>Click to add text.</text>
+			</tf>
+		</entry>
+	</graphicOrganizer>
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+</root>

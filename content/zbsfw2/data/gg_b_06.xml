@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Sentences That Tell]]></title>
+<lesson>LEVEL B LESSON 6</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Is each sentence a telling sentence or an asking sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Do you know who Benjamin Banneker is?]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He was an American inventor.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He was also an African American.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[When did he live?]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Banneker lived in the 1700s.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He helped plan an important city.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What city did he plan?]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He helped plan Washington, D.C.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Washington, D.C., is our nation’s capital.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What else did Banneker do?]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He wrote an almanac.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What is an almanac?]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[An almanac is a special kind of book.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[It might tell about the stars or the weather.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Did you know Banneker was on a U.S. postage stamp?]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Sentences That Ask]]></title>
+<lesson>LEVEL B LESSON 7</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Is each sentence a telling sentence or an asking sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Can you ride a bicycle?]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I love to ride my bike.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[When were bicycles invented?]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[People tried to invent bicycles for centuries.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[One early bicycle was made in the 1600s.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Was this bicycle like ours today?]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Early bicycles did not have pedals.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[How did the bikes move forward?]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You moved the bikes with your feet on the ground.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[In 1855, the first pedal bike was made.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Was this bike made in the United States?]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[This bike was made in France.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[When did bikes become really popular?]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Bikes were very popular around 1900.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[And they are still popular today.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[asking]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

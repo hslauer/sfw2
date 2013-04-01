@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>mulitple_choice</type>
+<title>Grammar Games</title>
+<instructions><![CDATA[Decide whether the underlined words should be joined with <b><i>and</i></b>, <b><i>or</i></b>, or <b><i>but</i></b>. If a conjunction is not needed, choose none.]]></instructions>
+<items>
+  <item>
+    <question><![CDATA[My three favorite animals are dogs, cats, _____ rabbits]]></question>
+    <answers>
+		<answer correct="true"><![CDATA[and]]></answer>
+		<answer><![CDATA[or]]></answer>
+		<answer><![CDATA[but]]></answer>		
+		<answer><![CDATA[none]]></answer>				
+	</answers>
+  </item>
+  <item>
+    <question><![CDATA[Do you prefer dogs _____ cats?]]></question>
+    <answers>
+		<answer><![CDATA[and]]></answer>
+		<answer correct="true"><![CDATA[or]]></answer>
+		<answer><![CDATA[but]]></answer>		
+		<answer><![CDATA[none]]></answer>				
+	</answers>
+  </item>
+  <item>
+    <question><![CDATA[Actually, my favorite pets are both gerbils _____ ferrets.]]></question>
+    <answers>
+		<answer correct="true"><![CDATA[and]]></answer>
+		<answer><![CDATA[or]]></answer>
+		<answer><![CDATA[but]]></answer>		
+		<answer><![CDATA[none]]></answer>				
+	</answers>
+  </item>  
+  <item>
+    <question><![CDATA[I wanted to get a ferret, _____ my mom wouldn’t let me.]]></question>
+    <answers>
+		<answer><![CDATA[and]]></answer>
+		<answer><![CDATA[or]]></answer>
+		<answer correct="true"><![CDATA[but]]></answer>		
+		<answer><![CDATA[none]]></answer>				
+	</answers>
+  </item>  
+  <item>
+    <question><![CDATA[When we went to the pet store, _____ I got a fish instead.]]></question>
+    <answers>
+		<answer><![CDATA[and]]></answer>
+		<answer><![CDATA[or]]></answer>
+		<answer><![CDATA[but]]></answer>		
+		<answer correct="true"><![CDATA[none]]></answer>				
+	</answers>
+  </item>  
+  <item>
+    <question><![CDATA[I got a goldfish, _____ I named him Blue.]]></question>
+    <answers>
+		<answer correct="true"><![CDATA[and]]></answer>
+		<answer><![CDATA[or]]></answer>
+		<answer><![CDATA[but]]></answer>		
+		<answer><![CDATA[none]]></answer>				
+	</answers>
+  </item>  
+  <item>
+    <question><![CDATA[I thought it was a funny name, _____ my sister didn’t like it.]]></question>
+    <answers>
+		<answer><![CDATA[and]]></answer>
+		<answer><![CDATA[or]]></answer>
+		<answer correct="true"><![CDATA[but]]></answer>		
+		<answer><![CDATA[none]]></answer>				
+	</answers>
+  </item>  
+  <item>
+    <question><![CDATA[She wanted the name Bubbles _____ Sunshine.]]></question>
+    <answers>
+		<answer><![CDATA[and]]></answer>
+		<answer correct="true"><![CDATA[or]]></answer>
+		<answer><![CDATA[but]]></answer>		
+		<answer><![CDATA[none]]></answer>				
+	</answers>
+  </item>  
+  <item>
+    <question><![CDATA[My mom said that Blue was my fish, _____ I could choose whatever name I wanted.]]></question>
+    <answers>
+		<answer correct="true"><![CDATA[and]]></answer>
+		<answer><![CDATA[or]]></answer>
+		<answer><![CDATA[but]]></answer>		
+		<answer><![CDATA[none]]></answer>				
+	</answers>
+  </item>  
+  <item>
+    <question><![CDATA[My sister, Dionne, was jealous of my fish _____ Blue.]]></question>
+    <answers>
+		<answer><![CDATA[and]]></answer>
+		<answer><![CDATA[or]]></answer>
+		<answer><![CDATA[but]]></answer>		
+		<answer correct="true"><![CDATA[none]]></answer>				
+	</answers>
+  </item>  
+  <item>
+    <question><![CDATA[Mom took Dionne to the store, _____ she bought Dionne a goldfish, too.]]></question>
+    <answers>
+		<answer correct="true"><![CDATA[and]]></answer>
+		<answer><![CDATA[or]]></answer>
+		<answer><![CDATA[but]]></answer>		
+		<answer><![CDATA[none]]></answer>				
+	</answers>
+  </item>
+  <item>
+    <question><![CDATA[Dionne was happy, _____ she still couldn’t pick a name.]]></question>
+    <answers>
+		<answer><![CDATA[and]]></answer>
+		<answer><![CDATA[or]]></answer>
+		<answer correct="true"><![CDATA[but]]></answer>		
+		<answer><![CDATA[none]]></answer>				
+	</answers>
+  </item>
+  <item>
+    <question><![CDATA[When Mom flipped a coin, _____ the winning name was Bubbles.]]></question>
+    <answers>
+		<answer><![CDATA[and]]></answer>
+		<answer><![CDATA[or]]></answer>
+		<answer><![CDATA[but]]></answer>		
+		<answer correct="true"><![CDATA[none]]></answer>				
+	</answers>
+  </item>
+  <item>
+    <question><![CDATA[Bubbles _____ Blue each had its own tank.]]></question>
+    <answers>
+		<answer correct="true"><![CDATA[and]]></answer>
+		<answer><![CDATA[or]]></answer>
+		<answer><![CDATA[but]]></answer>		
+		<answer><![CDATA[none]]></answer>				
+	</answers>
+  </item> 
+  <item>
+    <question><![CDATA[Either Dionne _____ I feed the fish every day.]]></question>
+    <answers>
+		<answer><![CDATA[and]]></answer>
+		<answer correct="true"><![CDATA[or]]></answer>
+		<answer><![CDATA[but]]></answer>		
+		<answer><![CDATA[none]]></answer>				
+	</answers>
+  </item>  
+ </items>
+</content>

@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- Firefox needs this for rendering object@height="100%" -->
+<style type="text/css">
+
+	/* hide from ie on mac \*/
+	html {
+		height: 100%;
+		overflow: hidden;
+	}
+
+	#flashcontent {
+		height: 100%;
+	}
+	/* end hide */
+
+	body {
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		background-color: #FFFFFF;
+	}
+
+</style>
+<script type="text/javascript" src="swfobject.js"></script>
+<script type="text/javascript" src="shell_popup.js"></script>
+<title>vLesson</title>
+</head>
+
+<body>
+
+<div id="flashcontent">
+	<table border="0" cellpadding="10" cellspacing="0">
+		<tr><td align="center">This content requires Flash Player 10.1 or higher.</td></tr>
+			<tr><td align="left">(If Flash Player 10.1 or higher is installed, please check to ensure that your browser's security settings allow Flash content to be displayed.)</td></tr>
+		<tr><td align="center"><a href="http://get.adobe.com/flashplayer/"><img src="get_flash_player.png" alt="Get Flash Player" width="158" height="39" border="0" longdesc="http://get.adobe.com/flashplayer/" /></a></td>
+		</tr>
+	</table>
+	<div align="center"></div>
+</div>
+
+<script>
+
+var flashvars = {};
+flashvars.goto = swfobject.getQueryParamValue("goto");
+
+var params = {};
+params.bgcolor = "#FFFFFF";
+params.allowscriptaccess = "always";
+
+var attributes = {};
+
+swfobject.embedSWF("shell.swf", "flashcontent", "100%", "100%", "10.1", "expressInstall.swf", flashvars, params, attributes);
+
+</script>
+
+</body>
+</html>

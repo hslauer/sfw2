@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Common Nouns and Proper Nouns]]></title>
+<lesson>LEVEL B LESSON 13</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Is the underlined word a common noun or a proper noun? Choose your answer below.]]></instruction>
+    <question><![CDATA[My favorite stories are from <u>mythology</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[common]]></answer>
+      <answer><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I especially like stories from the <u>Greeks</u>.]]></question>
+    <answers>
+      <answer><![CDATA[common]]></answer>
+      <answer correct="true"><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many <u>names</u> today come from mythology.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[common]]></answer>
+      <answer><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some names come from the stories of the <u>Romans</u>.]]></question>
+    <answers>
+      <answer><![CDATA[common]]></answer>
+      <answer correct="true"><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Think about tennis shoes from <u>Nike</u>.]]></question>
+    <answers>
+      <answer><![CDATA[common]]></answer>
+      <answer correct="true"><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[That name comes from a <u>myth</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[common]]></answer>
+      <answer><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Nike was a Greek <u>goddess</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[common]]></answer>
+      <answer><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[She had <u>wings</u> and could run very fast.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[common]]></answer>
+      <answer><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[To the <u>Greeks</u>, she meant victory.]]></question>
+    <answers>
+      <answer><![CDATA[common]]></answer>
+      <answer correct="true"><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[That is a great <u>name</u> for a running shoe!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[common]]></answer>
+      <answer><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Paris is a city in <u>France</u>.]]></question>
+    <answers>
+      <answer><![CDATA[common]]></answer>
+      <answer correct="true"><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[But <u>Paris</u> was also a character in a Greek myth.]]></question>
+    <answers>
+      <answer><![CDATA[common]]></answer>
+      <answer correct="true"><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many of the <u>planets</u> get their names from myths.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[common]]></answer>
+      <answer><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Venus</u> is a goddess in Roman myths.]]></question>
+    <answers>
+      <answer><![CDATA[common]]></answer>
+      <answer correct="true"><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[She was the goddess of <u>love</u> and beauty.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[common]]></answer>
+      <answer><![CDATA[proper]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

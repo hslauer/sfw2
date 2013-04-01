@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Sentences That Show Strong Feelings]]></title>
+<lesson>LEVEL B LESSON 10</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Decide whether each sentence tells something, asks something, commands something, or shows strong feeling. Choose your answer below.]]></instruction>
+    <question><![CDATA[I like to watch gymnastics.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[tells]]></answer>
+      <answer><![CDATA[commands]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The gymnasts are amazing!]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer><![CDATA[commands]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer correct="true"><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Watch it on television sometime.]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer correct="true"><![CDATA[commands]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many gymnasts fly through the air.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[tells]]></answer>
+      <answer><![CDATA[commands]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Wow, he is up so high!]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer><![CDATA[commands]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer correct="true"><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Have you ever tried a somersault?]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer><![CDATA[commands]]></answer>
+      <answer correct="true"><![CDATA[asks]]></answer>
+      <answer><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[That is one gymnastics trick.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[tells]]></answer>
+      <answer><![CDATA[commands]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Show me how to do a somersault.]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer correct="true"><![CDATA[commands]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I love doing somersaults!]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer><![CDATA[commands]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer correct="true"><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Gymnasts can also do flips.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[tells]]></answer>
+      <answer><![CDATA[commands]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What do they do on the hanging rings?]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer><![CDATA[commands]]></answer>
+      <answer correct="true"><![CDATA[asks]]></answer>
+      <answer><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[On the rings, they twirl themselves around.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[tells]]></answer>
+      <answer><![CDATA[commands]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Be careful if you try it.]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer correct="true"><![CDATA[commands]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Can you teach me how to do it?]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer><![CDATA[commands]]></answer>
+      <answer correct="true"><![CDATA[asks]]></answer>
+      <answer><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I’m too scared to try!]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer><![CDATA[commands]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer correct="true"><![CDATA[strong feeling]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

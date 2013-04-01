@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title>Descriptive Writing Rubric</title>
+<instructionsInteractive>Click on the plus sign in each cell to display the rubric text. Use the
+directional arrows to navigate through the rubric.</instructionsInteractive>
+<instructionsStatic>Use this 4-point rubric to plan and score descriptive writing.</instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td>The topic is clear, focused, and complete. Sensory details and examples are related to and develop the main ideas. The description helps the reader experience what is being described very clearly.</td>
+    <td>The topic is clear but may not be focused or complete. Sensory details and examples develop most of the main ideas. The description sometimes helps the reader experience what is being described.</td>
+    <td>The topic is not clear or focused. Details and examples develop some of the main ideas. The reader cannot always experience what is being described.</td>
+    <td>The topic is not clear. Details and examples are unrelated or missing. The reader cannot experience what is being described.</td>
+  </tr>
+  <tr> <!--Organization-->
+    <td>The description is well organized into a strong introduction, body, and conclusion. Details support the topic. Appropriate transitions connect the ideas and guide the reader.</td>
+    <td>Most of the description is organized. The introduction, body, and conclusion are functional. Most of the details support the topic. More or better transitions are needed to connect the ideas and guide the reader.</td>
+    <td>Some of the description is organized. The introduction, body, or conclusion may be weak. Few of the details support the topic. More and better transitions are needed to connect the ideas and guide the reader.</td>
+    <td>The description is not organized and does not have an introduction or conclusion. Details are missing. Transitions are not used.</td>
+  </tr>
+  <tr> <!--Voice-->
+    <td>The writer’s voice connects strongly with the audience. The mood and tone match the purpose perfectly.</td>
+    <td>The writer’s voice connects with the audience in places. The mood and tone match the purpose, but are inconsistent.</td>
+    <td>The writer’s voice does not fit the purpose or the audience well. The mood and tone are inappropriate or inconsistent.</td>
+    <td>The writer’s voice is weak or absent. It does not connect with the audience.</td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td>Precise, descriptive language and creative comparisons create a clear picture of the subject. Nouns and verbs carry the descriptive load with help from a few carefully chosen modifiers.</td>
+    <td>Some of the language is precise, but some is vague. Some of the comparisons create a clear picture of the subject. Many nouns and verbs depend upon modifiers for specificity. Modifiers are satisfactory.</td>
+    <td>Most of the language is not descriptive. Comparisons are ineffective. Nouns and verbs lack clarity or precision. Too many or too few modifiers are used, and many of them are weak.</td>
+    <td>The language is very basic and limited. Comparisons are not used.</td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td>A variety of sentence beginnings, lengths, and patterns keeps the description interesting. It is effortless to read aloud with inflection or feeling. The writing flows very smoothly.</td>
+    <td>Some sentences share the same beginnings, lengths, or patterns. Some of the writing flows smoothly. The paper can be read aloud with inflection or feeling.</td>
+    <td>Several sentences in a row have the same beginnings, lengths, or patterns. The flow of the writing may slow or stall in parts. The paper is difficult to read aloud with inflection or feeling.</td>
+    <td>Sentences are not varied or interesting. The writing does not flow. The description is very difficult to read.</td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td>The description contains no errors. Spelling, grammar, punctuation, and capitalization are correct.</td>
+    <td>The description contains some errors in spelling, grammar, punctuation, and capitalization. One or two of these errors may cause the reader to pause momentarily, but meaning remains clear.</td>
+    <td>Many errors are present. Some errors are basic or repeated. The errors interfere with meaning in places.</td>
+    <td>The writing has not been edited. Serious errors make the writing hard to understand.</td>
+  </tr>
+</table>
+</content>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Adjectives That Tell How Many]]></title>
+<lesson>LEVEL B LESSON 18</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Is the underlined word a noun or an adjective? Choose your answer below.]]></instruction>
+    <question><![CDATA[Our class is doing reports on <u>animals</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Three</u> students will work in a group.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We will research <u>two</u> kinds of sloths.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Both kinds of sloths have similar <u>names</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The <u>two</u>-toed sloth is bigger than the other.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[It weighs about <u>twenty</u> pounds.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They live in Central and <u>South</u> <u>America</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The other kind is the <u>three</u>-toed sloth.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[It weighs about <u>nine</u> pounds.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[All sloths have <u>three</u> back toes.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The <u>difference</u> is in their front toes.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The three-toed <u>sloth</u> also lives in Central and South America.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[These <u>animals</u> live their lives upside down!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[noun]]></answer>
+      <answer><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They hang from trees with their <u>three</u> back toes.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Most</u> sloths rarely leave the trees.]]></question>
+    <answers>
+      <answer><![CDATA[noun]]></answer>
+      <answer correct="true"><![CDATA[adjective]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

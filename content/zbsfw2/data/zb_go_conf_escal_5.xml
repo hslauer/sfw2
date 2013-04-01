@@ -1,0 +1,18 @@
+<root>
+	<graphicOrganizer name="Conflict Escalator" type="block" variation="3-steps" id="5">
+		<entry>
+			<tf x="35" y="375" width = "266" height = "134" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x00C7EC" useFill="1" fillColor="0xDEFDFE">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="315" y="210" width = "266" height = "134" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x00C7EC" useFill="1" fillColor="0xDEFDFE">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="594" y="39" width = "266" height = "134" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x00C7EC" useFill="1" fillColor="0xDEFDFE">
+				<text>Click to add text.</text>
+			</tf>
+		</entry>
+			
+</graphicOrganizer>
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+</root>

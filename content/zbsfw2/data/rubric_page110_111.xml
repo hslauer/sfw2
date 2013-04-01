@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title><![CDATA[How-To Paper Rubric]]></title>
+<instructionsInteractive><![CDATA[Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.]]></instructionsInteractive>
+<instructionsStatic><![CDATA[Use this 6-point rubric to plan and score a how-to paper.]]></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td><![CDATA[The topic is clear and detailed. The steps of the process are perfectly outlined.]]></td>
+    <td><![CDATA[The topic is interesting. The steps in the process are clear.]]></td>
+    <td><![CDATA[The topic is interesting. One or two steps are not clear.]]></td>
+    <td><![CDATA[The topic is interesting. Many of the steps are not clear.]]></td>
+    <td><![CDATA[The topic is not clear. The steps may not  belong together.]]></td>
+    <td><![CDATA[The process is not addressed in a way the  reader can follow at all.]]></td>
+  </tr>
+  <tr> <!--Organization-->
+    <td><![CDATA[The organization and time-order words perfectly describe the order of the steps.]]></td>
+    <td><![CDATA[All of the steps are in the right order. Time-order words connect the steps.]]></td>
+    <td><![CDATA[Most of the steps are in the right order. One or two time-order words are needed]]></td>
+    <td><![CDATA[The steps may be out of order. Time-order words may be confusing.]]></td>
+    <td><![CDATA[The steps are not in any order. The reader has trouble following the steps.]]></td>
+    <td><![CDATA[The piece has no logical order and the reader is confused.]]></td>
+  </tr>
+  <tr> <!--Voice-->
+    <td><![CDATA[The writer speaks directly to the reader with confidence.]]></td>
+    <td><![CDATA[The writer speaks directly to the reader.]]></td>
+    <td><![CDATA[The writer speaks directly to the reader most of the time.]]></td>
+    <td><![CDATA[The writer speaks to the reader only in the beginning.]]></td>
+    <td><![CDATA[The writer does not speak directly to the reader.]]></td>
+    <td><![CDATA[The writing lacks voice. The writer is not present.]]></td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td><![CDATA[The writing uses active, strong verbs. The words are carefully chosen.]]></td>
+    <td><![CDATA[Strong verbs explain what to do.]]></td>
+    <td><![CDATA[Some verbs could be more exact.]]></td>
+    <td><![CDATA[Some verbs are used incorrectly.]]></td>
+    <td><![CDATA[Many verbs are used incorrectly or are weak and not active.]]></td>
+    <td><![CDATA[Words chosen do not explain a process.]]></td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td><![CDATA[Sentences are easy to follow because they begin in varied and helpful ways.]]></td>
+    <td><![CDATA[All sentences are easy to follow]]></td>
+    <td><![CDATA[Most of the sentences are easy to follow.]]></td>
+    <td><![CDATA[Many sentences are difficult to follow.]]></td>
+    <td><![CDATA[Some sentences begin the same way. The reader could be confused.]]></td>
+    <td><![CDATA[Many sentences are incomplete.]]></td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td><![CDATA[Sentences are clear and punctuation is correct. Prepositions are used correctly.]]></td>
+    <td><![CDATA[A few errors with punctuation and prepositions can be easily corrected.]]></td>
+    <td><![CDATA[Some errors with punctuation and prepositions confuse the reader.]]></td>
+    <td><![CDATA[Many errors with punctuation and prepositions make the reader struggle to  understand.]]></td>
+    <td><![CDATA[Many errors with punctuation and prepositions leave the reader confused.]]></td>
+    <td><![CDATA[The paper has not been edited.]]></td>
+  </tr>
+</table>
+</content>

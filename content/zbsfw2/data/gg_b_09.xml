@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Sentences That Command]]></title>
+<lesson>LEVEL B LESSON 9</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Decide whether each sentence tells something, asks something, or commands something. Choose your answer below.]]></instruction>
+    <question><![CDATA[Do you like poetry?]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer correct="true"><![CDATA[asks]]></answer>
+      <answer><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I think poetry is fun.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[tells]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What is your favorite poem?]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer correct="true"><![CDATA[asks]]></answer>
+      <answer><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I like the poem “Whatif.”]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[tells]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Listen to me read it.]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer correct="true"><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The poem is by Shel Silverstein.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[tells]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Tell me more about him.]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer correct="true"><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Please read another poem to me.]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer correct="true"><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Shel Silverstein also wrote “A Giraffe and a Half.”]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[tells]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Is that a good poem, too?]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer correct="true"><![CDATA[asks]]></answer>
+      <answer><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Shel Silverstein is my favorite writer.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[tells]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Look him up at the library.]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer correct="true"><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He wrote some books, too.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[tells]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Ask the librarian to help you.]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer><![CDATA[asks]]></answer>
+      <answer correct="true"><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Do you like Shel Silverstein, too?]]></question>
+    <answers>
+      <answer><![CDATA[tells]]></answer>
+      <answer correct="true"><![CDATA[asks]]></answer>
+      <answer><![CDATA[commands]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

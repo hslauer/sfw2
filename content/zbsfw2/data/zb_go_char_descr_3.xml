@@ -1,0 +1,27 @@
+<root>
+	<graphicOrganizer name="Character Comparison Chart" type="block" variation="3-col" id="3">
+		
+		<entry>
+			<tf x="20" y="88" width = "265" height = "36" useTemp="0" ZB_Block = "1" bold ="1" useFrame="1" strokeW="4" fColor="0x026FD8" useFill="1" fillColor="0xCDEBFE">
+				<text>Click to type.</text>
+			</tf>
+			<tf x="19" y="132" width = "265" height = "387" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x026FD8" useFill="1" fillColor="0xCDEBFE">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="309" y="88" width = "265" height = "36" useTemp="0" ZB_Block = "1" bold ="1" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to type.</text>
+			</tf>
+			<tf x="308" y="132" width = "265" height = "387" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="598" y="88" width = "265" height = "36" useTemp="0" ZB_Block = "1" bold ="1" useFrame="1" strokeW="4" fColor="0xFCCC1E" useFill="1" fillColor="0xFEEFCD">
+				<text>Click to type.</text>
+			</tf>
+			<tf x="597" y="132" width = "265" height = "387" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xFCCC1E" useFill="1" fillColor="0xFEEFCD">
+				<text>Click to add text.</text>
+			</tf>
+		</entry>
+</graphicOrganizer>
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+</root>

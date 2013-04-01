@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title><![CDATA[Descriptive Sketch Rubric]]></title>
+<instructionsInteractive><![CDATA[Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.]]></instructionsInteractive>
+<instructionsStatic><![CDATA[Use this 6-point rubric to plan and score a descriptive sketch.]]></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td><![CDATA[Carefully selected details make the subject memorable.]]></td>
+    <td><![CDATA[The subject is interesting. All details help the reader “see” the subject.]]></td>
+    <td><![CDATA[The subject is interesting. Most details help the reader “see” the subject.]]></td>
+    <td><![CDATA[The subject could be more interesting. Some details do not describe the subject.]]></td>
+    <td><![CDATA[The subject is not clear. The details may not belong together.]]></td>
+    <td><![CDATA[The writing lacks details to create a clear subject.]]></td>
+  </tr>
+  <tr> <!--Organization-->
+    <td><![CDATA[The organization of the writing gives the reader a clear and memorable descriptive sketch.]]></td>
+    <td><![CDATA[The sketch includes a strong introduction, a detailed body, and a strong conclusion.]]></td>
+    <td><![CDATA[The sketch is organized. The introduction or the conclusion could be stronger.]]></td>
+    <td><![CDATA[The introduction or the conclusion are incomplete or missing.]]></td>
+    <td><![CDATA[The sketch is not organized into separate parts.]]></td>
+    <td><![CDATA[The writing lacks any organization. It is just a collection of random thoughts.]]></td>
+  </tr>
+  <tr> <!--Voice-->
+    <td><![CDATA[The writer clearly knows the subject and helps the reader know it, too.]]></td>
+    <td><![CDATA[The writer likes the subject and wants the reader to know the subject, too.]]></td>
+    <td><![CDATA[The writer’s voice sounds enthusiastic most of the time. The reader can easily know the subject.]]></td>
+    <td><![CDATA[The writer’s voice comes and goes. The reader must work hard to know the subject]]></td>
+    <td><![CDATA[The writer’s voice seems uninterested in the subject.]]></td>
+    <td><![CDATA[The voice is very weak and uninterested. The reader cannot learn about the subject]]></td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td><![CDATA[Describing words are strong and clear. They help the reader “see” the topic.]]></td>
+    <td><![CDATA[Describing words bring the subject to life. The sketch is fun to read.]]></td>
+    <td><![CDATA[Most words help the reader “see” the subject. The reader can figure out the picture.]]></td>
+    <td><![CDATA[A few words describe the subject. The reader cannot form a clear picture.]]></td>
+    <td><![CDATA[The words tell about a subject. The words do not describe the subject with accuracy.]]></td>
+    <td><![CDATA[The word choice feels random or accidental. The words do not describe.]]></td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td><![CDATA[The right number of contractions make the sentences smooth, natural, and easy to read.]]></td>
+    <td><![CDATA[One or two more contractions would make the sentences flow better.]]></td>
+    <td><![CDATA[A few errors with contractions interrupt the flow of the sentences.]]></td>
+    <td><![CDATA[Too many contractions confuse the reader and make the sentences choppy.]]></td>
+    <td><![CDATA[No contractions are used. Many sentences do not flow.]]></td>
+    <td><![CDATA[Some sentences are incomplete. Sentences do not flow.]]></td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td><![CDATA[Apostrophes are used correctly to create understanding.]]></td>
+    <td><![CDATA[A few errors with apostrophes can be easily corrected.]]></td>
+    <td><![CDATA[Some errors with apostrophes confuse the reader.]]></td>
+    <td><![CDATA[Many errors with apostrophes make the reader struggle to understand.]]></td>
+    <td><![CDATA[Numerous errors with apostrophes get in the way of understanding.]]></td>
+    <td><![CDATA[Serious, frequent errors with apostrophes make the writing hard to understand.]]></td>
+  </tr>
+</table>
+</content>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Contractions]]></title>
+<lesson>LEVEL B LESSON 46</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which contraction correctly replaces the underlined words? Choose your answer below.]]></instruction>
+    <question><![CDATA[<u>I have</u> written three poems.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[I've]]></answer>
+      <answer><![CDATA[I'm]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>I am</u> going to share them with you.]]></question>
+    <answers>
+      <answer><![CDATA[I'd]]></answer>
+      <answer correct="true"><![CDATA[I'm]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Did not</u> you write a poem about butterflies?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Didn't]]></answer>
+      <answer><![CDATA[Don't]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My poem <u>is not</u> about butterflies.]]></question>
+    <answers>
+      <answer><![CDATA[wasn't]]></answer>
+      <answer correct="true"><![CDATA[isn't]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>What is</u> your poem about?]]></question>
+    <answers>
+      <answer><![CDATA[Wasn't]]></answer>
+      <answer correct="true"><![CDATA[What's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Do not</u> tell me!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Don't]]></answer>
+      <answer><![CDATA[Doesn't]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[That way <u>I will</u> be surprised when I read it.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[I'll]]></answer>
+      <answer><![CDATA[I've]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Cannot</u> we read the poems aloud?]]></question>
+    <answers>
+      <answer><![CDATA[Cann't]]></answer>
+      <answer correct="true"><![CDATA[Can't]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>I would</u> like to read mine aloud.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[I'd]]></answer>
+      <answer><![CDATA[I've]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I <u>do not</u> want to read mine aloud.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[don't]]></answer>
+      <answer><![CDATA[do'nt]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Let us</u> take a vote.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Let's]]></answer>
+      <answer><![CDATA[L'ts]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[That <u>would not</u> work. There would be a tie.]]></question>
+    <answers>
+      <answer><![CDATA[w'ldnt]]></answer>
+      <answer correct="true"><![CDATA[wouldn't]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>We are</u> running out of time!]]></question>
+    <answers>
+      <answer><![CDATA[W'are]]></answer>
+      <answer correct="true"><![CDATA[We're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Who is</u> going to read their poem first?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Who's]]></answer>
+      <answer><![CDATA[Wh'se]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>I will</u> read mine first!]]></question>
+    <answers>
+      <answer><![CDATA[I'd]]></answer>
+      <answer correct="true"><![CDATA[I'll]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

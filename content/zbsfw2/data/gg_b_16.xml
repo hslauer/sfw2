@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Verbs that Tell about the Past]]></title>
+<lesson>LEVEL B LESSON 16</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which underlined word is a verb that tells about the past? Choose your answer below.]]></instruction>
+    <question><![CDATA[Pirates <u>lived</u> on the <u>seas</u> long ago.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[lived]]></answer>
+      <answer><![CDATA[seas]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many sea <u>travelers</u> <u>feared</u> pirates.]]></question>
+    <answers>
+      <answer><![CDATA[travelers]]></answer>
+      <answer correct="true"><![CDATA[feared]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Pirates <u>liked</u> to take valuable <u>things</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[liked]]></answer>
+      <answer><![CDATA[things]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They <u>jumped</u> aboard many <u>ships</u> in the sea.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[jumped]]></answer>
+      <answer><![CDATA[ships]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[On these ships, they <u>looked</u> for <u>gold</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[looked]]></answer>
+      <answer><![CDATA[gold]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some <u>pirates</u> even <u>tried</u> to steal ships!]]></question>
+    <answers>
+      <answer><![CDATA[pirates]]></answer>
+      <answer correct="true"><![CDATA[tried]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[People <u>battled</u> pirates for <u>years</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[battled]]></answer>
+      <answer><![CDATA[years]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Governments</u> <u>wanted</u> to stop pirates.]]></question>
+    <answers>
+      <answer><![CDATA[Governments]]></answer>
+      <answer correct="true"><![CDATA[wanted]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some people <u>hired</u> <u>experts</u> to catch pirates.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[hired]]></answer>
+      <answer><![CDATA[experts]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[These experts <u>hunted</u> <u>pirates</u> on the seas.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[hunted]]></answer>
+      <answer><![CDATA[pirates]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They <u>often</u> <u>tricked</u> pirates in order to catch them.]]></question>
+    <answers>
+      <answer><![CDATA[often]]></answer>
+      <answer correct="true"><![CDATA[tricked]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[People <u>created</u> stories and <u>legends</u> about pirates.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[created]]></answer>
+      <answer><![CDATA[legends]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Hollywood <u>filmed</u> <u>movies</u> about them.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[filmed]]></answer>
+      <answer><![CDATA[movies]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some famous pirates <u>lived</u> a real <u>life</u>, such as Blackbeard.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[lived]]></answer>
+      <answer><![CDATA[life]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Imagination <u>produced</u> other <u>famous</u> pirates, such as Long John Silver.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[produced]]></answer>
+      <answer><![CDATA[famous]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

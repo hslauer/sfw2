@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Frequently Confused Words: <I>Its</I> and <I>It’s</I>]]></title>
+<lesson>LEVEL B LESSON 21</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Does <I>its</I> or <I>it’s</I> best complete each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[A public library has many books on _____ shelves.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[its]]></answer>
+      <answer><![CDATA[it's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ easy to get lost in all of the stacks!]]></question>
+    <answers>
+      <answer><![CDATA[Its]]></answer>
+      <answer correct="true"><![CDATA[It's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sometimes _____ a good idea to ask for help.]]></question>
+    <answers>
+      <answer><![CDATA[its]]></answer>
+      <answer correct="true"><![CDATA[it's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You can explore a library and uncover _____ treasures.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[its]]></answer>
+      <answer><![CDATA[it's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Librarians guide you through a library. They know _____ secrets.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[its]]></answer>
+      <answer><![CDATA[it's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sometimes _____ easy to find a book.]]></question>
+    <answers>
+      <answer><![CDATA[its]]></answer>
+      <answer correct="true"><![CDATA[it's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You can locate a book by _____ special number.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[its]]></answer>
+      <answer><![CDATA[it's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[This number is part of the Dewey Decimal System. _____ used in libraries to keep track of books.]]></question>
+    <answers>
+      <answer><![CDATA[Its]]></answer>
+      <answer correct="true"><![CDATA[It's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Look up a book on the library computer. The computer will tell you _____ location.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[its]]></answer>
+      <answer><![CDATA[it's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You can learn about anything at the library. _____ full of information.]]></question>
+    <answers>
+      <answer><![CDATA[Its]]></answer>
+      <answer correct="true"><![CDATA[It's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[There is another cool thing about the public library. _____ free!]]></question>
+    <answers>
+      <answer><![CDATA[Its]]></answer>
+      <answer correct="true"><![CDATA[It's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Everyone has the chance to use _____ books.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[its]]></answer>
+      <answer><![CDATA[it's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[A library has more than books within _____ walls.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[its]]></answer>
+      <answer><![CDATA[it's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[In addition to _____ books, a library might have magazines, newspapers, movies, and music CDs.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[its]]></answer>
+      <answer><![CDATA[it's]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ fun to spend a whole day at the library.]]></question>
+    <answers>
+      <answer><![CDATA[Its]]></answer>
+      <answer correct="true"><![CDATA[It's]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

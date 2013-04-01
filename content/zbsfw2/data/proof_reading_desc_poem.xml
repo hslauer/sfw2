@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+  <type>Proofreading</type>
+  <title>Descriptive | Poem</title>
+  <instructions>Drag the proofreading marks to identify the errors. Type misspelled or missing words.</instructions>
+  <text><![CDATA[<b>Mary's Lamb</b>
+By Sarah Josepha {u}hale
+Mary had a little {l}Lamb.<br>Its fleece was white {+|as} snow.<br>And everywhere that Mary went,<br>The lamb was sure to go.
+He followed her to school one day,<br>Which was against the {-|the} rule.<br>{u}it made the children laugh and play<br>To see a lamb at school.]]></text>
+
+  
+</content>

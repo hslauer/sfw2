@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+  <type>proof_reading</type>
+  <title>Descriptive | Descriptive Sketch</title>
+  <instructions>Drag the proofreading marks to identify the errors. Type misspelled or missing words.</instructions>
+  <text><![CDATA[<p align="center"><b>The Creek</b></p>	A little {l}Creek runs through the park. I like to see the sun sparkling on its ripples. The creek is home {-|two} to many plants and animals.
+	The rocks under the water are covered with moss that’s slippery if you step on it. Cattails stand at the edge of the water{.} Big willow trees bend over the creek.
+	In the spring you can find tadpoles in the shallow water. Sometimes you can hear big frogs croaking. {u}little minnows swim in the deeper parts. Snails slide over the rocks{.} Dragonflies buzz above the water.
+	Birds like the creek, too. They hop along the edge to get {+|a} drink, and some of them take a bath in it.]]></text>
+
+  
+</content>

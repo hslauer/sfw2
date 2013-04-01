@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[What Is a Sentence?]]></title>
+<lesson>LEVEL B LESSON 1</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Decide whether each group of words is a complete sentence. Choose your answer below.]]></instruction>
+    <question><![CDATA[Rock and Roll Hall of Fame.]]></question>
+    <answers>
+      <answer><![CDATA[sentence]]></answer>
+      <answer correct="true"><![CDATA[not a sentence]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[It is in Cleveland, Ohio.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[sentence]]></answer>
+      <answer><![CDATA[not a sentence]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Opened in September of 1995.]]></question>
+    <answers>
+      <answer><![CDATA[sentence]]></answer>
+      <answer correct="true"><![CDATA[not a sentence]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Elvis Presley.]]></question>
+    <answers>
+      <answer><![CDATA[sentence]]></answer>
+      <answer correct="true"><![CDATA[not a sentence]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Bob Dylan is in the Rock and Roll Hall of Fame, too.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[sentence]]></answer>
+      <answer><![CDATA[not a sentence]]></answer>
+    </answers>
+  </item>
+  <item>
+    <instruction><![CDATA[Choose the phrase that best makes each item a complete sentence. If the item is already a complete sentence as it is, choose <i>complete</i>.]]></instruction>
+    <question><![CDATA[Tracy and James _____.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[play in the band]]></answer>
+      <answer><![CDATA[our friends]]></answer>
+      <answer><![CDATA[<I>complete</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ plays the flute.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Tracy]]></answer>
+      <answer><![CDATA[very well]]></answer>
+      <answer><![CDATA[<I>complete</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Tracy’s brother Benjamin ____.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[is a drummer]]></answer>
+      <answer><![CDATA[in the band, too]]></answer>
+      <answer><![CDATA[<I>complete</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ James plays the tuba.]]></question>
+    <answers>
+      <answer><![CDATA[Always]]></answer>
+      <answer><![CDATA[Yesterday]]></answer>
+      <answer correct="true"><![CDATA[<I>complete</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Mr.Wynn _____.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[is the band leader]]></answer>
+      <answer><![CDATA[my neighbor]]></answer>
+      <answer><![CDATA[<I>complete</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He asked me _____.]]></question>
+    <answers>
+      <answer><![CDATA[joining]]></answer>
+      <answer><![CDATA[sometimes]]></answer>
+      <answer correct="true"><![CDATA[<I>complete</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ like playing the clarinet.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[I]]></answer>
+      <answer><![CDATA[Really]]></answer>
+      <answer><![CDATA[<I>complete</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[____ forty students in the band.]]></question>
+    <answers>
+      <answer><![CDATA[Teaching]]></answer>
+      <answer correct="true"><![CDATA[There are]]></answer>
+      <answer><![CDATA[<I>complete</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ will teach us how to march.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Mr. Wynn]]></answer>
+      <answer><![CDATA[Together]]></answer>
+      <answer><![CDATA[<I>complete</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Mr. Morelli, the principal, ____.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[watched our concert]]></answer>
+      <answer><![CDATA[in his office]]></answer>
+      <answer><![CDATA[<I>complete</I>]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

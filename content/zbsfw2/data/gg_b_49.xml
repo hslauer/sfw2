@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Punctuation: Quotation Marks]]></title>
+<lesson>LEVEL B LESSON 49</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Is each quotation punctuated correctly or incorrectly in each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Ms. Seabest said, “Let’s talk about plants.”]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[“Are plants living things? she asked.”]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Jillian said “yes they are.”]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[“Do plants breathe?” Ms. Seabest asked.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[She laughed and said, “Plants do breathe.]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[“But not like we do,” she added.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[“They do not have lungs like ours,” she explained.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[She went on, “they take a kind of air into their leaves.]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[“Then they send another kind of air out,” she said.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Does anyone know what else is important to the sun? she asked.]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Joshua and Kayla “raised their hands at the same time.”]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Joshua said, “Sunlight!”]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Kayla said “water”!]]></question>
+    <answers>
+      <answer><![CDATA[correct]]></answer>
+      <answer correct="true"><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Ms. Seabest said, “You are both correct!”]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[“Sunlight and water help plants grow,” she explained.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[correct]]></answer>
+      <answer><![CDATA[incorrect]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

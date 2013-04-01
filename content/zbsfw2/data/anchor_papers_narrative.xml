@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>anchor_paper</type>
+<title>Narrative</title>
+<rubric>rubric_page520</rubric>
+<papers>
+
+  <paper level="1">
+    <text><![CDATA[	{i}{o}{v}{sf}I go on a bus {c}wit{/c} my mom we went downtown.{/sf} I play {c}basebal{/c} with my frends. We play in a feeld. The feeld is {wc}buy{/wc} {wc}are{/wc} park. There are swing and slid. I have a mit. {sf}I cach and thro{/sf} We play after scool. We play in the sumer. I swim at the park. There is a swiming pool. I am beter at basebal than soccur. I do not like soccur at all. {/i}{/o}{/v}
+]]></text>
+  </paper>
+  
+  <paper level="2">
+    <text><![CDATA[	{sf}{v}{i}{o}My mom and I {c}tuk{/c} the bus. {/o}{c}we{/c} went downtown. {o}So{/o} mom gave mony to the drivir. there were other kids on the bus. they were going to a game. They wore {wc}some hats{/wc} One Boy had a mit.{/i} I play baseball with my frends. We play in a {wc}big feeld.{/wc} The feeld is at the park. I cach and thro the ball. I have a blue mit. We play after scool. We also play after lunch. I am beter at baseball than soccer. I do not like soccer a lot.{/v}{/sf}
+ ]]></text>
+  </paper>
+  
+  <paper level="3">
+    <text><![CDATA[	{sf}{v}{i}{o}On {c}sunday,{/c}{/o} my mom and I took the bus downtown. My mom gave {c}mony{/c} to the drivir. There were other kids on the bus. they were going to a game. They wore {wc}cool shirts{/wc} One boy had a mit.{/sf} My mom and I got off the bus. we went to a shoe store. I got {wc}some shoes.{/wc} {o}We took the bus to the post offise. She live in Alaska. My mom mailed a presant to her sister.{/o} We took the bus to the grocery store We bought some food. We got back on the bus. We went home.{/i}{/v} 
+]]></text>
+  </paper>
+
+  <paper level="4">
+    <text><![CDATA[	{sf}{v}{i}{o}On Sunday, my mom and I took the bus to the {c}stor.{/i}{/c}{/o} My mom paid money. We got in our seats. {i}There were other kids on the bus{c} {/c}They were going to a game.{/sf} {sf}They wore {wc}blue shirts{/wc}, and one boy had a {c}mit.{/sf}{/c} The bus was crowded.{/i} My mom and I got off the bus. it was at the cornir. We walked to the grocery store. We bought some food. We bought apples and fruit. {i}I like bananas.{/i} {o}So{/o} we got back on the bus and went home.{/v} 
+]]></text>
+  </paper>
+  
+  <paper level="5">
+    <text><![CDATA[	{sf}{v}{i}{o}On Sunday,{/o} my mom and I rode the bus to the grocery store.{/i}{o} First,{/o} my mom paid the fare. We got in our seats. {i}There were a lot of other kids on the bus{c} {/c}They were going to a {wc}baseball game.{/wc}{/sf} {sf}They wore {wc}colorful blue shirts, and one boy had a baseball {c}mit.{/wc}{/sf}{/c} The bus was crowded.{/i} {o}Then{/o} my mom and I got off the bus. It was at the corner. We walked to the grocery store. We bought some food. We bought {wc}apples and bananas{/wc}. {i}I like bananas.{/i} We got back on the bus and went home. It was a busy day.{/v}
+]]></text>
+  </paper>  
+  
+  <paper level="6">
+    <text><![CDATA[	{sf}{v}{i}{o}On Sunday,{/o} my mom and I rode the bus to her favorite grocery store.{/i} {o}First,{/o} my mom paid the fare. {o}Next,{/o} we sat down in our seats. {i}There were a lot of other kids on the bus.{/sf} They were going to a {wc}baseball game.{/wc} {sf}They wore {wc}colorful red and blue shirts, and one boy had a black baseball mitt.{/wc}{/sf} The bus was really crowded.{/i} {o}Then,{/o} my mom and I got off the bus at the corner. We walked to the grocery store and bought some food. We bought {wc}apples, bananas, and plums.{/wc} {i}Bananas are my favorite.{/i} {o}Finally,{/o} we got back on the bus and went home. It was a great day.{/v}
+]]></text>
+  </paper>    
+  
+  
+  </papers>
+</content>

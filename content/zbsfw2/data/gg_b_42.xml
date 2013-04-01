@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Punctuation: Periods and Question Marks]]></title>
+<lesson>LEVEL B LESSON 42</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Should a period or a question mark end each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Who is your favorite artist_____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Is a photographer a kind of artist_____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Photographers are definitely artists_____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Then my favorite artist is Ansel Adams_____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Did he take photographs_____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He took many photographs of nature_____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many of his photographs are taken of mountains and streams_____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Have you ever seen a photograph taken by Ansel Adams_____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Pablo Picasso is my favorite painter_____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some of his paintings seem very strange_____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Did he always paint that way_____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He could paint very tiny details, too_____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He painted pictures of people called portraits_____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some of his portraits look like photographs____]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What is your favorite Picasso painting_____]]></question>
+    <answers>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

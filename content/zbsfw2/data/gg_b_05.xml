@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Sentence Fragments]]></title>
+<lesson>LEVEL B LESSON 5</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Is each group of words a complete sentence or a fragment? Choose your answer below.]]></instruction>
+    <question><![CDATA[Many different kinds of mammals.]]></question>
+    <answers>
+      <answer><![CDATA[complete sentence]]></answer>
+      <answer correct="true"><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Is an example of a mammal.]]></question>
+    <answers>
+      <answer><![CDATA[complete sentence]]></answer>
+      <answer correct="true"><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You are another example of a mammal.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[complete sentence]]></answer>
+      <answer><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[In order to be considered a mammal.]]></question>
+    <answers>
+      <answer><![CDATA[complete sentence]]></answer>
+      <answer correct="true"><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Animals with body hair or fur.]]></question>
+    <answers>
+      <answer><![CDATA[complete sentence]]></answer>
+      <answer correct="true"><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Mammals give birth to live young.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[complete sentence]]></answer>
+      <answer><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Other kinds of animals have eggs.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[complete sentence]]></answer>
+      <answer><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Care of their babies.]]></question>
+    <answers>
+      <answer><![CDATA[complete sentence]]></answer>
+      <answer correct="true"><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some mammals live underground.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[complete sentence]]></answer>
+      <answer><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Prairie dogs, moles, and woodchucks.]]></question>
+    <answers>
+      <answer><![CDATA[complete sentence]]></answer>
+      <answer correct="true"><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Time in the sky, like bats.]]></question>
+    <answers>
+      <answer><![CDATA[complete sentence]]></answer>
+      <answer correct="true"><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Other mammals live in the ocean.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[complete sentence]]></answer>
+      <answer><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sea otters, whales, and dolphins are examples.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[complete sentence]]></answer>
+      <answer><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Your pet dog or cat.]]></question>
+    <answers>
+      <answer><![CDATA[complete sentence]]></answer>
+      <answer correct="true"><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many other examples.]]></question>
+    <answers>
+      <answer><![CDATA[complete sentence]]></answer>
+      <answer correct="true"><![CDATA[fragment]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

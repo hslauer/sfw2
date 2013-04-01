@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title><![CDATA[Poem Rubric]]></title>
+<instructionsInteractive><![CDATA[Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.]]></instructionsInteractive>
+<instructionsStatic><![CDATA[Use this 6-point rubric to plan and score a poem.]]></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td><![CDATA[The writer uses specific details to make a clear picture for the reader.]]></td>
+    <td><![CDATA[The writer uses details that create a clear picture for the reader.]]></td>
+    <td><![CDATA[Most of the details create a clear picture.]]></td>
+    <td><![CDATA[Few details create a clear picture.]]></td>
+    <td><![CDATA[Details may not belong together. They confuse the reader.]]></td>
+    <td><![CDATA[There are no useful details and the reader is confused.]]></td>
+  </tr>
+  <tr> <!--Organization-->
+    <td><![CDATA[The poem’s form or shape makes the ideas clear for the reader.]]></td>
+    <td><![CDATA[The poem’s form or shape fits the subject.]]></td>
+    <td><![CDATA[The poem’s form or shape could fit the subject better.]]></td>
+    <td><![CDATA[The poem’s form or shape does not fit the subject.]]></td>
+    <td><![CDATA[The writing is not in poem form.]]></td>
+    <td><![CDATA[The writing is a collection of random thoughts and is not a poem.]]></td>
+  </tr>
+  <tr> <!--Voice-->
+    <td><![CDATA[The voice is original and enthusiastic.]]></td>
+    <td><![CDATA[The voice is original and enthusiastic most of the time.]]></td>
+    <td><![CDATA[The voice is original and enthusiastic some of the time.]]></td>
+    <td><![CDATA[The voice sounds distant or uninterested.]]></td>
+    <td><![CDATA[The voice is not clear or is absent.]]></td>
+    <td><![CDATA[The piece lacks any voice from the writer]]></td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td><![CDATA[The words chosen for the poem are strong and clear.]]></td>
+    <td><![CDATA[Descriptive words help the reader “see” the subject.]]></td>
+    <td><![CDATA[Most words help the reader “see” the subject.]]></td>
+    <td><![CDATA[Few words help the reader “see” the subject.]]></td>
+    <td><![CDATA[The words do not describe. Some may be used incorrectly.]]></td>
+    <td><![CDATA[The word choice is random or incorrect.]]></td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td><![CDATA[The poem sounds natural and smooth. It is easy to read.]]></td>
+    <td><![CDATA[Each word or line flows into the next. The poem is fairly easy to read.]]></td>
+    <td><![CDATA[Most of the lines are smooth. A few lines are hard to read.]]></td>
+    <td><![CDATA[Some of the words or lines are choppy.]]></td>
+    <td><![CDATA[Most of the writing is choppy. The poem is hard to read.]]></td>
+    <td><![CDATA[The writing is not in poem form.]]></td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td><![CDATA[Sentences use adjectives and adverbs correctly to create meaning.]]></td>
+    <td><![CDATA[A few errors with complete adjectives and adverbs can be easily corrected.]]></td>
+    <td><![CDATA[Some errors with adjectives and adverbs confuse the reader.]]></td>
+    <td><![CDATA[Many errors with adjectives and adverbs make the reader struggle to understand.]]></td>
+    <td><![CDATA[Numerous errors with adjectives and adverbs get in the way of understanding.]]></td>
+    <td><![CDATA[Serious, frequent errors with adjectives and adverbs make the writing hard to understand.]]></td>
+  </tr>
+</table>
+</content>

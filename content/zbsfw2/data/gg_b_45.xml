@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Abbreviations]]></title>
+<lesson>LEVEL B LESSON 45</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which abbreviation is correct for each underlined word? Choose your answer below.]]></instruction>
+    <question><![CDATA[<u>Doctor</u> J is a nickname for Julius Erving.]]></question>
+    <answers>
+      <answer><![CDATA[Mr.]]></answer>
+      <answer correct="true"><![CDATA[Dr.]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Mister</u> Erving was a great basketball player.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Mr.]]></answer>
+      <answer><![CDATA[Dr.]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He was born in Hempstead, <u>New York</u>, in 1950.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[NY]]></answer>
+      <answer><![CDATA[NK]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He celebrates his birthday on <u>February</u> 22.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Feb.]]></answer>
+      <answer><![CDATA[Fer.]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He went to college at the University of <u>Massachusetts</u>.]]></question>
+    <answers>
+      <answer><![CDATA[MC]]></answer>
+      <answer correct="true"><![CDATA[MA]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He played basketball in the <u>National Basketball Association</u>.]]></question>
+    <answers>
+      <answer><![CDATA[NBB]]></answer>
+      <answer correct="true"><![CDATA[NBA]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[This group is in the <u>United States</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[U.S.]]></answer>
+      <answer><![CDATA[U.D.]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[A new member of the group is Duane Lightfoot, <u>Junior</u>.]]></question>
+    <answers>
+      <answer><![CDATA[Jn.]]></answer>
+      <answer correct="true"><![CDATA[Jr.]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He played basketball at Butler <u>University</u>.]]></question>
+    <answers>
+      <answer><![CDATA[Uy.]]></answer>
+      <answer correct="true"><![CDATA[Univ.]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[This college is located in Indianapolis, <u>Indiana</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[IN]]></answer>
+      <answer><![CDATA[INP]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You can find it at 4600 Sunset <u>Avenue</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Ave.]]></answer>
+      <answer><![CDATA[Nue.]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Lightfoot is over six <u>feet</u> tall.]]></question>
+    <answers>
+      <answer><![CDATA[fee.]]></answer>
+      <answer correct="true"><![CDATA[ft.]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[His real height is six feet and five <u>inches</u>.]]></question>
+    <answers>
+      <answer><![CDATA[ines.]]></answer>
+      <answer correct="true"><![CDATA[in.]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I wonder how tall Duane Lightfoot, <u>Senior</u> is!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Sr.]]></answer>
+      <answer><![CDATA[St.]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Do basketball games start in <u>October</u> of every year?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Oct.]]></answer>
+      <answer><![CDATA[Ober.]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

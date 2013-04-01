@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Punctuation: Periods and Exclamation Points]]></title>
+<lesson>LEVEL B LESSON 43</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Read each sentence, and look closely at the end punctuation. Decide whether each sentence is a telling sentence, a command, or an exclamation. Choose your answer below.]]></instruction>
+    <question><![CDATA[Tell me about your favorite school subject.]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer><![CDATA[exclamation]]></answer>
+      <answer correct="true"><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I love art class!]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[exclamation]]></answer>
+      <answer><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We have art class once a week.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[exclamation]]></answer>
+      <answer><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I wish we had it every day!]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[exclamation]]></answer>
+      <answer><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[This week we drew cartoons.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[exclamation]]></answer>
+      <answer><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Let me see your cartoon.]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer><![CDATA[exclamation]]></answer>
+      <answer correct="true"><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Here it is!]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[exclamation]]></answer>
+      <answer><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My cartoon has words in it, too.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[exclamation]]></answer>
+      <answer><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Your cartoon is great!]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[exclamation]]></answer>
+      <answer><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Please draw a cartoon for me.]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer><![CDATA[exclamation]]></answer>
+      <answer correct="true"><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I can draw a cartoon for you now.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[exclamation]]></answer>
+      <answer><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Here it is.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[exclamation]]></answer>
+      <answer><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[This cartoon is awesome!]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[exclamation]]></answer>
+      <answer><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Maybe you will be an artist someday.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[telling]]></answer>
+      <answer><![CDATA[exclamation]]></answer>
+      <answer><![CDATA[command]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I am already an artist!]]></question>
+    <answers>
+      <answer><![CDATA[telling]]></answer>
+      <answer correct="true"><![CDATA[exclamation]]></answer>
+      <answer><![CDATA[command]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

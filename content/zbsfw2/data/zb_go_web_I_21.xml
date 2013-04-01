@@ -1,0 +1,22 @@
+<root>
+	<graphicOrganizer name="Web 1: 3 spokes" type="block" variation="none" id="21">
+		<entry>
+			<tf x="100" y="55" width = "187" height = "103" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xBD9A2B" useFill="1" fillColor="0xFEEFCD">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="570" y="55" width = "187" height = "103" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xBD9A2B" useFill="1" fillColor="0xFEEFCD">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="310" y="181" width = "234" height = "123" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x016A76" useFill="1" fillColor="0xDEFCFE">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="333" y="384" width = "188" height = "104" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xBD9A2B" useFill="1" fillColor="0xFEEFCD">
+				<text>Click to add text.</text>
+			</tf>
+			
+		</entry>
+	
+</graphicOrganizer>
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+</root>

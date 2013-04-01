@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>anchor_paper</type>
+<title>Informative/Explanatory</title>
+<rubric>rubric_page521</rubric>
+<papers>
+
+  <paper level="1">
+    <text><![CDATA[	{i}{o}{v} {c}chose{/c} a place to {wc}go {c}outsid.{/c}{/wc} Make {wc}plans{/wc} with yor famile for a fire. {sf}This is were you latur meet. A Fire can start lots of ways do not leave candels burn Old news papirs to. Old boxes can burn fast matchs can burn.{/sf} Do not pla with them. Do not stop and take anething. Fires can burn relly hot. we lern about Fire safete at are scool. It is good to no what to do. {/i}{/o}{/v}
+]]></text>
+  </paper>
+  
+  <paper level="2">
+    <text><![CDATA[	{v}{o} {/o}{i}You {c}shuld{/c} know what to do in {c}cas{/c} a fire starts.{o} {/o}Make a plan with your famile. choose a {wc}meeting plan{/wc} to meet outside. {wc}This is were you meet later.{/wc} {sf}a fire can start lots of ways. You shuld not leave candels burning. Old news papirs can burn relly fast. Old boxs can burn relly fast. I think you shuld not play with matchs. I think you shuld not play with candels. Try not to hide if ther is a fire leave the house and do not stop. Do not take anything.{/sf} You shuld get out of the house as fast as you can. {/i}{/v}
+]]></text>
+  </paper>
+  
+  <paper level="3">
+    <text><![CDATA[	{v}{i}Fire safety is {c}importent.{/c}{/i} You {c}shuld{/c} know what to do in case a fire starts. {o}First,{/o} make an {wc}escape plan{/wc} with your family. {wc}this is what you do when you are in the house.{/wc} {sf}Make sur you know all the ways to get out of your house. go out the back door if the front door is on fire. Go out the side door to if you want {o}Find all the Doors in yor house.{/o}{/sf} Ask your famile the best way to get out of the house Use the escape plan.{/v} 
+]]></text>
+  </paper>
+
+  <paper level="4">
+    <text><![CDATA[	{sf}{v}{o}{i}Fire safety is real {c}importent.{/c}{/i}{/o} You should know how to be {c}prepard{/c} in case of a fire <br>	{i}{o}First,{/o} make an {wc}escape plan{/wc} with your family. {o}Then,{/o} choose a {wc}meeting place{/wc} to meet outside. {wc}This is where you go after you get away from the fire.{/wc}{/sf} the meeting place can be a light on the street or your neighbor’s house. Practice getting out of the house. Meet your family at the meeting place. And use the escape plan.{/i} <br>	{o}You should be prepared. Now you are ready!{/v}{/o}
+ ]]></text>
+  </paper>
+  
+  <paper level="5">
+    <text><![CDATA[	{sf}{v}{i}{o}Fire safety is very {c}importent.{/i}{/o}{/c} {o}Do you know how to be prepared in case of a fire{c}.{/c} <br>	{i}{o}First,{/o} make an {wc}escape plan{/wc} with your family to get out of the house. {o}Then,{/o} choose a {wc}meeting place{/wc} outside. {wc}This is where you go after you get out of the house.{/wc}{/sf} The meeting place can be a street light or your neighbor’s house. {o}Next,{/o} practice getting out of your house. {sf}Use the escape plan, and meet your family at the meeting place.{/i}{/o}{/sf} <br>	It is important to be prepared. Now you are ready!{/v} 
+]]></text>
+  </paper>  
+  
+  <paper level="6">
+    <text><![CDATA[	{sf}{v}{o}{i}{wc}Fire safety{/wc} is very important.{/i}{/o} Do you know how to be prepared in case of a fire? <br>	{i}{o}First,{/o} make an {wc}escape plan{/wc} with your family to get out of the house quickly. {o}Then,{/o} choose a {wc}meeting place{/wc} outside your home. {wc}This is a place where you can meet your family after you get out of the house.{/wc}{/sf} The meeting place can be a street light or your neighbor’s house. {o}Next,{/o} practice getting out of the house. {sf}Use the escape plan, and meet your family at the meeting place.{/i}{/sf} <br>	{o}Now you are ready. It is important to be prepared!{/o}{/v}  
+]]></text>
+  </paper>    
+  
+  
+  </papers>
+</content>

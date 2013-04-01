@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>anchor_paper</type>
+<title>Descriptive</title>
+<rubric>rubric_page523</rubric>
+<papers>
+
+  <paper level="1">
+    <text><![CDATA[	{i}{o}{v}I {c}peted{/c} a horse and other {c}animels.{/c} My favorit was chomper. {sf}I saw a bucket with.{/sf} {sf}Filled with food chomper was eating it we went to a {wc}petter{/wc} zoo.{/sf} chomper was {wc}ating{/wc} his food and a zoo keeper walked chomper out on a leesh. Ther was a bel on him. I rely want to pet chomper. I had a good time with my sistir. I want a goat like chomper.  {/i}{/o}{/v}
+]]></text>
+  </paper>
+  
+  <paper level="2">
+    <text><![CDATA[	{v}{i}My sister {c}tuk{/c} me to pet some {c}animels.{/c}{/i} I peted a horse and other animels. My favorite animel was chomper.{/v}<br>	{sf}{wc}{o}{i}I walked into his pen. I saw a buket filled with food {/sf}We went to the peting zoo last sumer. chomper was eating his food. A zoo keeper walked chomper out on a leesh. he was wearing a bell. I realy want to pet chomper next time. I had a good time with my sister at the peting zoo{/i}{/o}{/wc}
+]]></text>
+  </paper>
+  
+  <paper level="3">
+    <text><![CDATA[	{v}{i}{o}So{/o} my sister {c}tuk{/c} me to pet {wc}some animals.{/i}{/wc} I {c}peted{/c} a horse and other animals. {o}Now,{/o} my favorite animal was a goat. The goats name was chomper.<br>	{sf}{i}I petted his fur. His fur felt {wc}nice.{/wc} His fur was {wc}light.{/wc} He had a pink nose, to He had horns. I walked into his pen. I saw a buket filled with food. We went to the peting zoo last summer. chomper was a small goat last year. This year he got a lot bigger. he had a bell around his collar. I realy want to pet chomper next time.{/i}{/v}{/sf}
+]]></text>
+  </paper>
+
+  <paper level="4">
+    <text><![CDATA[	{v}{i}{o}On {c}sunday,{/c}{/o} my sister took me to pet animals.{/i} I {c}peted{/c} a {wc}horse and other animals.{/wc} {o}However,{/o} my favorite animal was a {wc}goat named Chomper.{/wc}<br>	{sf}{o}{i}I petted his fur. His fur felt {wc}soft.{/wc} Chomper was my favorit because he was so interesting. His fur was {wc}white and gray.{/wc} he had a {wc}pink nose and teeth.{/wc} His horns came out of the top of his head. I walked into his pen. I saw a buket filled with food. He wore a bell around his neck The bell was on a collar. He bent down to get a drink of water in his bol.{/o}{/sf}<br>	I really want to pet Chomper next time.{/v}
+]]></text>
+  </paper>
+  
+  <paper level="5">
+    <text><![CDATA[	{v}{i}{o}On Sunday,{/o} my sister took me to a {c}peting{/c} zoo.{/i} I petted a {wc}horse and sheep{/wc}. {o}However,{/o} my favorite animal was a {wc}goat named Chomper.{/wc}<br>	{sf}{i} Chomper was my favorite because he was so interesting{c} {/c}{o}When I petted him,{/o} his fur felt {wc}fluffy.{/wc} His fur was {wc}white and gray.{/wc} He had a {wc}black face and big eyes.{/wc} His horns curled out of the top of his head like smoke.{/i} I walked into his pen and I could smell the {wc}hay and mud.{/wc} He {o}also{/o} wore a bell around his neck. {wc}The bell clanked as he bent down to drink the water in his bowl.{/wc}{/sf}<br>	I really want to pet Chomper next time.{/v}
+]]></text>
+  </paper>  
+  
+  <paper level="6">
+    <text><![CDATA[	{v}{i}{o}On Sunday,{/o} my sister took me to a petting zoo.{/i} I petted a {wc}horse, cow, and sheep.{/wc} {o}However,{/o} my favorite animal was a {wc}goat named Chomper. {/wc}{/v}<br>	{v}{sf}{i}Chomper was my favorite because he was so interesting. His fur was {wc}white and dark gray{/wc}. {o}When I petted him,{/o} his fur felt {wc}thick and fluffy{/wc}. He had a {wc}black face and silver eyes.{/wc} {i}His horns curled out of the top of his head like smoke coming out of a chimney.{/i} {sf}I walked into his pen and I could smell the {wc}old hay and mud.{/wc}{/sf} He {o}also{/o} wore a bell around his neck. {wc}The bell clanked as he bent down to drink the cold water in his bowl.{/wc}{/sf} {/v}<br>	{v}I look forward to petting Chomper next time. {/v}
+
+]]></text>
+  </paper>    
+  
+  
+  </papers>
+</content>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title><![CDATA[Opinion Speech Rubric]]></title>
+<instructionsInteractive><![CDATA[Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.]]></instructionsInteractive>
+<instructionsStatic><![CDATA[Use this 6-point rubric to plan and score an opinion speech.]]></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td><![CDATA[The writer’s opinion is strong and clear. Facts convince the reader.]]></td>
+    <td><![CDATA[The writer’s opinion is clear. The speech has facts.]]></td>
+    <td><![CDATA[The writer states an opinion. Some facts are weak.]]></td>
+    <td><![CDATA[The writer’s opinion is unclear. Not all the facts support the opinion.]]></td>
+    <td><![CDATA[The writer’s opinion is not clear. Some facts are wrong.]]></td>
+    <td><![CDATA[The paper does not give an opinion.]]></td>
+  </tr>
+  <tr> <!--Organization-->
+    <td><![CDATA[Each paragraph supports one reason. The conclusion wraps up the writing.]]></td>
+    <td><![CDATA[One paragraph supports more than one reason. There is a conclusion.]]></td>
+    <td><![CDATA[Two paragraphs support more than one reason. There is a conclusion.]]></td>
+    <td><![CDATA[The same reason is explained in two paragraphs. The conclusion is weak.]]></td>
+    <td><![CDATA[The paragraphs are not clear. There is no conclusion.]]></td>
+    <td><![CDATA[The speech is not organized into paragraphs.]]></td>
+  </tr>
+  <tr> <!--Voice-->
+    <td><![CDATA[The writer uses <i>we</i> to include and convince the reader.]]></td>
+    <td><![CDATA[The writer includes the reader most of the time.]]></td>
+    <td><![CDATA[The writer starts out using <i>we</i> but does not continue to the end. ]]></td>
+    <td><![CDATA[The writer’s use of <i>we</i> goes back and forth.]]></td>
+    <td><![CDATA[The writer does not include the reader.]]></td>
+    <td><![CDATA[The writer does not sound prepared.]]></td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td><![CDATA[Well-chosen adjectives describe the topic perfectly.]]></td>
+    <td><![CDATA[Adjectives describe the topic well.]]></td>
+    <td><![CDATA[Adjectives are used, but several could be more specific.]]></td>
+    <td><![CDATA[Too few or too many adjectives are used.]]></td>
+    <td><![CDATA[Many adjectives are repeated or vague. The writer’s meaning is not clear.]]></td>
+    <td><![CDATA[The word choice is too general to be meaningful. The writer’s meaning is not clear.]]></td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td><![CDATA[Each sentence makes a point. Similar sentences emphasize a point.]]></td>
+    <td><![CDATA[Most of the sentences are clear and make a point.]]></td>
+    <td><![CDATA[Some sentences are clear and make a point.]]></td>
+    <td><![CDATA[Too many sentences are similar, which makes the writing confusing.]]></td>
+    <td><![CDATA[Many sentences do not have a point and are not clear.]]></td>
+    <td><![CDATA[Sentences are incomplete.]]></td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td><![CDATA[Irregular verbs are used and spelled correctly.]]></td>
+    <td><![CDATA[A few errors with irregular verbs can be easily corrected.]]></td>
+    <td><![CDATA[Some errors with irregular verbs confuse the reader.]]></td>
+    <td><![CDATA[Many errors with irregular verbs make the reader struggle to understand.]]></td>
+    <td><![CDATA[Numerous errors with irregular verbs confuse the reader.]]></td>
+    <td><![CDATA[Serious, frequent errors make the writing hard to understand.]]></td>
+  </tr>
+</table>
+</content>

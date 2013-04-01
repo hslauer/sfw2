@@ -1,0 +1,24 @@
+﻿<root>
+	<graphicOrganizer name="Main Idea Chart" type="block" variation="none" id="11">
+		<entry>
+			<tf x="243" y="20" width="540" height="37" useTemp="0" ZB_Block="1" bold="1" useFrame="1" strokeW="4" fColor="0x4DC7C7" useFill="0">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="36" y="155" width = "166" height = "358" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="241" y="155" width = "166" height = "358" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="446" y="155" width = "166" height = "358" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="652" y="155" width = "166" height = "358" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+		</entry>
+			
+</graphicOrganizer>
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+</root>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Frequently Confused Words: <I>Their, There,</I> and <I>They’re</I>]]></title>
+<lesson>LEVEL B LESSON 26</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Does <I>their</I>, <I>there</I>, or <I>they’re</I> best complete each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[_____ are so many things to do at the zoo!]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer><![CDATA[They're]]></answer>
+      <answer correct="true"><![CDATA[There]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You can watch the gibbons swing around _____ cage.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+      <answer><![CDATA[there]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ similar to little monkeys.]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer correct="true"><![CDATA[They're]]></answer>
+      <answer><![CDATA[There]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The gorillas are fun to watch. People stand _____ for hours!]]></question>
+    <answers>
+      <answer><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+      <answer correct="true"><![CDATA[there]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The zoo has an aquarium ____.]]></question>
+    <answers>
+      <answer><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+      <answer correct="true"><![CDATA[there]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I saw seahorses. _____ so tiny!]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer correct="true"><![CDATA[They're]]></answer>
+      <answer><![CDATA[There]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Zoo workers tell about the animals. _____ very helpful.]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer correct="true"><![CDATA[They're]]></answer>
+      <answer><![CDATA[There]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[If you go _____, make sure you visit the otters.]]></question>
+    <answers>
+      <answer><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+      <answer correct="true"><![CDATA[there]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ so cute and fun to watch!]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer correct="true"><![CDATA[They're]]></answer>
+      <answer><![CDATA[There]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They spend _____ day swimming in the pond.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+      <answer><![CDATA[there]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sometimes they swim with _____ bellies up!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+      <answer><![CDATA[there]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ my favorite animals at the zoo.]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer correct="true"><![CDATA[They're]]></answer>
+      <answer><![CDATA[There]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ are walruses at the zoo, too.]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer><![CDATA[They're]]></answer>
+      <answer correct="true"><![CDATA[There]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ my second favorite animals at the zoo.]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer correct="true"><![CDATA[They're]]></answer>
+      <answer><![CDATA[There]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I guess I like a lot of animals _____!]]></question>
+    <answers>
+      <answer><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+      <answer correct="true"><![CDATA[there]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

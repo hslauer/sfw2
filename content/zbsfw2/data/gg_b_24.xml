@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Frequently Confused Words: <I>Their </I>and <I>They’re</I>]]></title>
+<lesson>LEVEL B LESSON 24</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Does <I>their</I> or <I>they’re</I> best complete each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Jodi and Mark are my siblings. _____ both older than I am.]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer correct="true"><![CDATA[They're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I like to sneak into _____ bedrooms.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I do this when _____ not home.]]></question>
+    <answers>
+      <answer><![CDATA[their]]></answer>
+      <answer correct="true"><![CDATA[they're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ always mad when I do that!]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer correct="true"><![CDATA[They're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I like to look at _____ books and CDs.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They let me in when _____ home.]]></question>
+    <answers>
+      <answer><![CDATA[their]]></answer>
+      <answer correct="true"><![CDATA[they're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Together we listen to _____ music.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ bedrooms are next to each other.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Their]]></answer>
+      <answer><![CDATA[They're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ not the biggest rooms in the house.]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer correct="true"><![CDATA[They're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My room is even smaller than _____ rooms.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My parents have a television in _____ bedroom.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ always watching movies before bed!]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer correct="true"><![CDATA[They're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I love to watch movies in _____ room!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We all pile onto _____ bed.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[their]]></answer>
+      <answer><![CDATA[they're]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ the best parents ever!]]></question>
+    <answers>
+      <answer><![CDATA[Their]]></answer>
+      <answer correct="true"><![CDATA[They're]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

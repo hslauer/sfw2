@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title><![CDATA[Research Report Rubric]]></title>
+<instructionsInteractive><![CDATA[Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.]]></instructionsInteractive>
+<instructionsStatic><![CDATA[Use this 6-point rubric to plan and score a research report.]]></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td><![CDATA[The report uses facts to develop an interesting topic and answers all questions completely.]]></td>
+    <td><![CDATA[Facts develop the topic. The report answers questions about the topic.]]></td>
+    <td><![CDATA[A few facts develop the topic. The report answers only one question about the topic.]]></td>
+    <td><![CDATA[Facts are weak or incorrect. The report does not answer questions about the topic.]]></td>
+    <td><![CDATA[The report is confusing and the reader struggles to understand.]]></td>
+    <td><![CDATA[The topic of the report is not clear.]]></td>
+  </tr>
+  <tr> <!--Organization-->
+    <td><![CDATA[The writer presents facts in perfect order. The conclusion wraps up the writing.]]></td>
+    <td><![CDATA[The details are in order. There is a conclusion.]]></td>
+    <td><![CDATA[Most details are in order. There is a conclusion.]]></td>
+    <td><![CDATA[The details are confusing. There is no conclusion.]]></td>
+    <td><![CDATA[The details are incomplete. Some may be missing.]]></td>
+    <td><![CDATA[The details do not help explain a topic.]]></td>
+  </tr>
+  <tr> <!--Voice-->
+    <td><![CDATA[The writer uses a clear voice and sounds like an expert on the topic.]]></td>
+    <td><![CDATA[The writer usually sounds like an expert on the topic.]]></td>
+    <td><![CDATA[The writer sounds like an expert most of the time.]]></td>
+    <td><![CDATA[The writer sounds like an expert some of the time.]]></td>
+    <td><![CDATA[The writer sounds like an expert in the beginning.]]></td>
+    <td><![CDATA[The writer does not sound like an expert.]]></td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td><![CDATA[The word choice is precise and clear. The writer defines content-specific words.]]></td>
+    <td><![CDATA[Words are used correctly. Specific words are explained for the reader.]]></td>
+    <td><![CDATA[Words are used correctly most of the time. A few may need explanations.]]></td>
+    <td><![CDATA[Some words are used incorrectly. No specific words are explained.]]></td>
+    <td><![CDATA[Many words are repeated or used incorrectly. The reader may be confused.]]></td>
+    <td><![CDATA[The word choice seems random or accidental. The reader is confused.]]></td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td><![CDATA[All sentences are smooth. They are easy to read and follow.]]></td>
+    <td><![CDATA[A couple of sentences begin the same way, but the writing is smooth.]]></td>
+    <td><![CDATA[A few sentences flow smoothly. Some sentences begin the same way.]]></td>
+    <td><![CDATA[Many sentences begin the same way. The reader may lose interest.]]></td>
+    <td><![CDATA[Many sentences are repetitive and choppy. The reader could be confused and uninterested.]]></td>
+    <td><![CDATA[Sentences are incomplete. The sentences do not explain a topic.]]></td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td><![CDATA[Sentences use pronouns correctly to create understanding.]]></td>
+    <td><![CDATA[A few errors with pronouns can be easily corrected.]]></td>
+    <td><![CDATA[Some errors with pronouns confuse the reader.]]></td>
+    <td><![CDATA[Many errors with pronouns make the reader struggle to understand.]]></td>
+    <td><![CDATA[Numerous errors with pronouns prevent understanding.]]></td>
+    <td><![CDATA[Serious, frequent errors with pronouns make the writing hard to understand.]]></td>
+  </tr>
+</table>
+</content>

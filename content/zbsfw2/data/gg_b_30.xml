@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Verb <I>Give</I>]]></title>
+<lesson>LEVEL B LESSON 30</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which word best completes each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Yesterday, I _____ a presentation in class.]]></question>
+    <answers>
+      <answer><![CDATA[give]]></answer>
+      <answer correct="true"><![CDATA[gave]]></answer>
+      <answer><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I had never _____ an oral report before.]]></question>
+    <answers>
+      <answer><![CDATA[give]]></answer>
+      <answer><![CDATA[gave]]></answer>
+      <answer correct="true"><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Last night, I _____ my presentation to my family.]]></question>
+    <answers>
+      <answer><![CDATA[give]]></answer>
+      <answer correct="true"><![CDATA[gave]]></answer>
+      <answer><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Afterward, everyone _____ me some advice.]]></question>
+    <answers>
+      <answer><![CDATA[give]]></answer>
+      <answer correct="true"><![CDATA[gave]]></answer>
+      <answer><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My mom has _____ many presentations at work.]]></question>
+    <answers>
+      <answer><![CDATA[give]]></answer>
+      <answer><![CDATA[gave]]></answer>
+      <answer correct="true"><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My parents like to _____ each other advice all the time.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[give]]></answer>
+      <answer><![CDATA[gave]]></answer>
+      <answer><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Both of them have to _____ a lot of speeches.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[give]]></answer>
+      <answer><![CDATA[gave]]></answer>
+      <answer><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My older brother has _____ presentations in school before.]]></question>
+    <answers>
+      <answer><![CDATA[give]]></answer>
+      <answer><![CDATA[gave]]></answer>
+      <answer correct="true"><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They all _____ me some good advice that day.]]></question>
+    <answers>
+      <answer><![CDATA[give]]></answer>
+      <answer correct="true"><![CDATA[gave]]></answer>
+      <answer><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[When I _____ my presentation, I was nervous.]]></question>
+    <answers>
+      <answer><![CDATA[give]]></answer>
+      <answer correct="true"><![CDATA[gave]]></answer>
+      <answer><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My teacher _____ me time to set everything up.]]></question>
+    <answers>
+      <answer><![CDATA[give]]></answer>
+      <answer correct="true"><![CDATA[gave]]></answer>
+      <answer><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[After I had ____ my presentation, everyone smiled.]]></question>
+    <answers>
+      <answer><![CDATA[give]]></answer>
+      <answer><![CDATA[gave]]></answer>
+      <answer correct="true"><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My teacher _____ the class a chance to ask questions.]]></question>
+    <answers>
+      <answer><![CDATA[give]]></answer>
+      <answer correct="true"><![CDATA[gave]]></answer>
+      <answer><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I _____ good answers to all of the questions I was asked.]]></question>
+    <answers>
+      <answer><![CDATA[give]]></answer>
+      <answer correct="true"><![CDATA[gave]]></answer>
+      <answer><![CDATA[given]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I will not be nervous when I _____ my next presentation.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[give]]></answer>
+      <answer><![CDATA[gave]]></answer>
+      <answer><![CDATA[given]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

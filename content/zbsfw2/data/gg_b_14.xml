@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Singular and Plural Nouns]]></title>
+<lesson>LEVEL B LESSON 14</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Is the underlined noun singular or plural? Choose your answer below.]]></instruction>
+    <question><![CDATA[Do you like to play <u>games</u> with cards?]]></question>
+    <answers>
+      <answer><![CDATA[singular]]></answer>
+      <answer correct="true"><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My favorite card <u>game</u> is solitaire.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[singular]]></answer>
+      <answer><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sometimes I play cards with my <u>brother</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[singular]]></answer>
+      <answer><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Do you have any <u>brothers</u>?]]></question>
+    <answers>
+      <answer><![CDATA[singular]]></answer>
+      <answer correct="true"><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[On weekends, my <u>parents</u> play games with us.]]></question>
+    <answers>
+      <answer><![CDATA[singular]]></answer>
+      <answer correct="true"><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My <u>friends</u> and I play the game Operation a lot.]]></question>
+    <answers>
+      <answer><![CDATA[singular]]></answer>
+      <answer correct="true"><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I am learning how to play <u>chess</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[singular]]></answer>
+      <answer><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My <u>grandfather</u> is teaching me.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[singular]]></answer>
+      <answer><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Chess has many <u>rules</u> to follow.]]></question>
+    <answers>
+      <answer><![CDATA[singular]]></answer>
+      <answer correct="true"><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You have to remember how each <u>piece</u> moves.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[singular]]></answer>
+      <answer><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You can use the same game <u>board</u> for checkers.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[singular]]></answer>
+      <answer><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Checkers often uses red and black <u>pieces</u>.]]></question>
+    <answers>
+      <answer><![CDATA[singular]]></answer>
+      <answer correct="true"><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Another classic game is <u>backgammon</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[singular]]></answer>
+      <answer><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Players roll two <u>dice</u> in this game.]]></question>
+    <answers>
+      <answer><![CDATA[singular]]></answer>
+      <answer correct="true"><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What is the main <u>goal</u> of backgammon?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[singular]]></answer>
+      <answer><![CDATA[plural]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title><![CDATA[Friendly Letter Rubric]]></title>
+<instructionsInteractive><![CDATA[Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.]]></instructionsInteractive>
+<instructionsStatic><![CDATA[Use this 6-point rubric to plan and score a friendly letter.]]></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td><![CDATA[The letter has a main topic. Interesting details describe the topic.]]></td>
+    <td><![CDATA[The letter has a main topic. Most of the details are interesting.]]></td>
+    <td><![CDATA[The letter has more than one topic. Some of the details are confusing.]]></td>
+    <td><![CDATA[The letter has more than one topic with few details.]]></td>
+    <td><![CDATA[The topic of the letter is unclear. Details are missing or unrelated.]]></td>
+    <td><![CDATA[The writing does not have a topic. Sentences are unrelated and random.]]></td>
+  </tr>
+  <tr> <!--Organization-->
+    <td><![CDATA[The letter is organized in five parts. Time-order words show the order of events.]]></td>
+    <td><![CDATA[The letter is almost organized. Time-order words show the order of most events.]]></td>
+    <td><![CDATA[The letter is missing one or more parts. Some time-order words are incorrect.]]></td>
+    <td><![CDATA[The letter is missing several parts. More or better time-order words are needed.]]></td>
+    <td><![CDATA[The writing is not organized like a letter. No time-order words are used.]]></td>
+    <td><![CDATA[The writing is a collection of random thoughts with no organization.]]></td>
+  </tr>
+  <tr> <!--Voice-->
+    <td><![CDATA[The writer’s voice is natural and polite.]]></td>
+    <td><![CDATA[The writer’s voice usually sounds natural and polite.]]></td>
+    <td><![CDATA[The writer’s voice sounds natural and polite most of the time.]]></td>
+    <td><![CDATA[The writer’s voice sounds natural and polite some of the time.]]></td>
+    <td><![CDATA[The writer’s voice sounds far away some of the time.]]></td>
+    <td><![CDATA[The writer’s voice sounds awkward or flat.]]></td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td><![CDATA[The words used are clear and exact.]]></td>
+    <td><![CDATA[Many words are clear and exact.]]></td>
+    <td><![CDATA[One or two more exact words are needed.]]></td>
+    <td><![CDATA[Some of the words are too general.]]></td>
+    <td><![CDATA[Many words are repeated. Some are used incorrectly.]]></td>
+    <td><![CDATA[The words chosen are confusing, vague, or misused.]]></td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td><![CDATA[Sentences of different lengths make the letter easy and fun to read.]]></td>
+    <td><![CDATA[Most of the sentences are varied and the piece is easy to read.]]></td>
+    <td><![CDATA[Some sentences are the same length. The writing is choppy.]]></td>
+    <td><![CDATA[Many sentences are the same length and make the letter choppy to read.]]></td>
+    <td><![CDATA[Sentences are usually the same length. The reader must work to read the piece.]]></td>
+    <td><![CDATA[Sentences are too long, lack variety, or are incomplete. The writing is hard to follow.]]></td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td><![CDATA[The letter has all five parts. Commas are correct in the date and address.]]></td>
+    <td><![CDATA[The letter has all five parts. Most commas are correct in the date and address.]]></td>
+    <td><![CDATA[The letter has a few errors, but the meaning is clear.]]></td>
+    <td><![CDATA[Some errors confuse the reader.]]></td>
+    <td><![CDATA[Many errors stop the reader. The reader must reread to understand.]]></td>
+    <td><![CDATA[Serious, frequent errors make the letter hard to read and understand.]]></td>
+  </tr>
+</table>
+</content>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Nouns]]></title>
+<lesson>LEVEL B LESSON 11</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which underlined word is a noun? Choose your answer below.]]></instruction>
+    <question><![CDATA[How many stars <u>are</u> <u>in</u> the <u>sky</u>?]]></question>
+    <answers>
+      <answer><![CDATA[are]]></answer>
+      <answer><![CDATA[in]]></answer>
+      <answer correct="true"><![CDATA[sky]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Scientists <u>talk</u> <u>about</u> billions of <u>stars</u>.]]></question>
+    <answers>
+      <answer><![CDATA[talk]]></answer>
+      <answer><![CDATA[about]]></answer>
+      <answer correct="true"><![CDATA[stars]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Two thousand stars can <u>be</u> seen <u>with</u> our <u>eyes</u>.]]></question>
+    <answers>
+      <answer><![CDATA[be]]></answer>
+      <answer><![CDATA[with]]></answer>
+      <answer correct="true"><![CDATA[eyes]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[A <u>telescope</u> can <u>help</u> us <u>see</u> more stars.]]></question>
+    <answers>
+      <answer><![CDATA[help]]></answer>
+      <answer correct="true"><![CDATA[telescope]]></answer>
+      <answer><![CDATA[see]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Our</u> <u>sun</u> is <u>actually</u> a star.]]></question>
+    <answers>
+      <answer><![CDATA[Our]]></answer>
+      <answer correct="true"><![CDATA[sun]]></answer>
+      <answer><![CDATA[actually]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Astronauts <u>have</u> landed on <u>the</u> <u>moon</u>.]]></question>
+    <answers>
+      <answer><![CDATA[have]]></answer>
+      <answer><![CDATA[the]]></answer>
+      <answer correct="true"><![CDATA[moon]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>But</u> no <u>astronauts</u> have <u>been</u> to the sun.]]></question>
+    <answers>
+      <answer><![CDATA[But]]></answer>
+      <answer correct="true"><![CDATA[astronauts]]></answer>
+      <answer><![CDATA[been]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The sun is <u>too</u> <u>hot</u> for a <u>human</u>.]]></question>
+    <answers>
+      <answer><![CDATA[too]]></answer>
+      <answer><![CDATA[hot]]></answer>
+      <answer correct="true"><![CDATA[human]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Scientists <u>learn</u> <u>about</u> the <u>planets</u>, too.]]></question>
+    <answers>
+      <answer><![CDATA[learn]]></answer>
+      <answer><![CDATA[about]]></answer>
+      <answer correct="true"><![CDATA[planets]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We have <u>sent</u> <u>machines</u> to <u>the</u> planet Mars.]]></question>
+    <answers>
+      <answer><![CDATA[sent]]></answer>
+      <answer correct="true"><![CDATA[machines]]></answer>
+      <answer><![CDATA[the]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>These</u> machines collect <u>information</u> <u>about</u> the planet.]]></question>
+    <answers>
+      <answer><![CDATA[These]]></answer>
+      <answer correct="true"><![CDATA[information]]></answer>
+      <answer><![CDATA[about]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I <u>saw</u> a <u>picture</u> of a blue sunset <u>on</u> Mars.]]></question>
+    <answers>
+      <answer><![CDATA[saw]]></answer>
+      <answer correct="true"><![CDATA[picture]]></answer>
+      <answer><![CDATA[on]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Our <u>sunset</u> on Earth is <u>usually</u> <u>an</u> orange color.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[sunset]]></answer>
+      <answer><![CDATA[usually]]></answer>
+      <answer><![CDATA[an]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We <u>learn</u> <u>many</u> <u>things</u> about our solar system.]]></question>
+    <answers>
+      <answer><![CDATA[learn]]></answer>
+      <answer><![CDATA[many]]></answer>
+      <answer correct="true"><![CDATA[things]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Do you <u>know</u> about <u>meteors</u> <u>and</u> asteroids?]]></question>
+    <answers>
+      <answer><![CDATA[know]]></answer>
+      <answer correct="true"><![CDATA[meteors]]></answer>
+      <answer><![CDATA[and]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

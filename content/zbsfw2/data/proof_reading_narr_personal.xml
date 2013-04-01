@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+  <type>proof_reading</type>
+  <title>Narrative | Personal Narrative</title>
+  <instructions>Drag the proofreading marks to identify the errors. Type misspelled or missing words.</instructions>
+  <text><![CDATA[<p align="center"><b>Swimming Lessons</b></p>	My grandma said that if I want to go to the pool, I have to learn to swim. So, I signed up for lessons. I am in the beginner’s class. I go on Monday and {u}wednesday mornings. Last week we learned how to float. It {+|is} fun to rest on the water and look at the sky. You have to be careful not to wiggle. 
+	{u}yesterday we learned to tread water. You don’t go anywhere. You just keep your head above water. Tomorrow I will learn my first swimming stroke. It is called the crawl{.}
+	After my swimming lessons, I get to stay at the pool until {l}Lunch. I can practice my swimming. I can also play with my friends in the {-|the} shallow water. ]]></text>
+
+  
+</content>

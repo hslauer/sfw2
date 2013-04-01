@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Choosing the Correct Pronoun]]></title>
+<lesson>LEVEL B LESSON 38</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which pronoun best completes each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Today _____ have a speaker in our class.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[we]]></answer>
+      <answer><![CDATA[us]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Her name is Dr. Hunt, and _____ is a scientist.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[she]]></answer>
+      <answer><![CDATA[her]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The class welcomed _____ with applause.]]></question>
+    <answers>
+      <answer><![CDATA[she]]></answer>
+      <answer correct="true"><![CDATA[her]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Dr. Hunt told _____ about a scientist’s work.]]></question>
+    <answers>
+      <answer><![CDATA[we]]></answer>
+      <answer correct="true"><![CDATA[us]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Right now, _____ is studying bald eagles.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[she]]></answer>
+      <answer><![CDATA[her]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ are an endangered species.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[They]]></answer>
+      <answer><![CDATA[Them]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Several other scientists help _____ study a group of bald eagles.]]></question>
+    <answers>
+      <answer><![CDATA[she]]></answer>
+      <answer correct="true"><![CDATA[her]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The scientists catch the eagles and put tags on _____.]]></question>
+    <answers>
+      <answer><![CDATA[they]]></answer>
+      <answer correct="true"><![CDATA[them]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The tags are tiny, but _____ give off signals.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[they]]></answer>
+      <answer><![CDATA[them]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[_____ help the scientists keep track of the eagles.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[They]]></answer>
+      <answer><![CDATA[Them]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[After her speech, Dr. Hunt showed pictures to _____.]]></question>
+    <answers>
+      <answer><![CDATA[we]]></answer>
+      <answer correct="true"><![CDATA[us]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Then _____ asked her a few questions.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[we]]></answer>
+      <answer><![CDATA[us]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[She invited _____ to visit her lab any time.]]></question>
+    <answers>
+      <answer><![CDATA[we]]></answer>
+      <answer correct="true"><![CDATA[us]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[When Dr. Hunt was done, our teacher thanked _____ for visiting.]]></question>
+    <answers>
+      <answer><![CDATA[she]]></answer>
+      <answer correct="true"><![CDATA[her]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Then _____ asked the class to learn more about eagles.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[he]]></answer>
+      <answer><![CDATA[him]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

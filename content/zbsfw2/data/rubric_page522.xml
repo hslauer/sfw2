@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title>Opinion Writing Rubric</title>
+<instructionsInteractive>Click on the plus sign in each cell to display the rubric text. Use the
+directional arrows to navigate through the rubric.</instructionsInteractive>
+<instructionsStatic>Use this 6-point rubric to plan and score opinion writing.</instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td>The writer states a clear opinion. The perfect details and facts are chosen to support the writer’s reasons.</td>
+    <td>The writer states a clear opinion. Most details and facts are well chosen to support the writer’s reasons.</td>
+    <td>The writer states an opinion. Some details and facts are well chosen to support the writer’s reasons.</td>
+    <td>The writer states an opinion, but few details are well chosen to support the writer’s reasons.</td>
+    <td>The writer’s opinion is not clear. Facts are inaccurate or unrelated to the writer’s reasons.</td>
+    <td>The writer does not state an opinion. Reasons are not provided.</td>
+  </tr>
+  <tr> <!--Organization-->
+    <td>The text is organized logically and creatively. Helpful, appropriate, even unique transitions link the writer’s opinion and reasons. A compelling conclusion clearly supports the opinion statement.</td>
+    <td>The text is organized logically. One or two more transitions are needed to link the opinion and reasons. The beginning is strong, and the conclusion supports the opinion statement.</td>
+    <td>The text is organized logically. More or better transitions are needed to link the opinion and reasons. The beginning and the conclusion are functional. The conclusion relates to the opinion statement.</td>
+    <td>The text is not organized logically. Transitions may not show how the writer’s ideas are related. Either the beginning or the conclusion is weak. The conclusion may not relate to the opinion statement.</td>
+    <td>The text is not organized logically. Transitions are not used. Ideas are hard to follow. The beginning or the conclusion is missing.</td>
+    <td>The text is not organized as an opinion. No beginning or conclusion is evident.</td>
+  </tr>
+  <tr> <!--Voice-->
+    <td>The voice is clearly convincing and totally fits the writer’s purpose. The mood and tone are appropriate and engage the audience.</td>
+    <td>The voice is convincing and fits the writer’s purpose. The mood and tone are appropriate and engaging most of the time.</td>
+    <td>The voice is somewhat convincing and fits the writer’s purpose. The mood and tone are engaging some of the time.</td>
+    <td>The voice is convincing in some places. The mood and tone are incorrect or inconsistent. They lose the audience.</td>
+    <td>The voice is flat and does not fit the writer’s purpose. The mood and tone do not engage the audience.</td>
+    <td>The voice is weak or absent. The tone is not appropriate.</td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td>Precise words and fair language convey the writer’s opinion. No biased words or phrases are used. Nouns and verbs are clear and precise, supported by a few carefully selected modifiers.</td>
+    <td>Most words are precise and fair. No biased words or phrases are used. Nouns and verbs are mostly clear and precise. Most modifiers are carefully selected.</td>
+    <td>Some words are too general. One biased word or phrase may be used. Some nouns and verbs are weak, requiring help from modifiers. Modifiers are satisfactory.</td>
+    <td>Most words are weak. A few biased words or phrases may be used. Nouns and verbs lack clarity or precision. Too many or too few modifiers are used, and many of them are weak.</td>
+    <td>Many words are overused and ineffective. Several biased words and phrases are used. Nouns and verbs are vague, unclear, or confusing. Modifiers may be missing.</td>
+    <td>Words are weak, biased, or used incorrectly.</td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td>A variety of sentence patterns adds interest and style. Great variation in sentence beginnings and lengths makes the writing flow very smoothly. The paper is effortlessly read aloud with inflection.</td>
+    <td>Most sentence patterns are varied and add interest. Variation in sentence beginnings and lengths makes the writing flow smoothly. The paper is easily read aloud with inflection.</td>
+    <td>Some sentence patterns are varied and add interest. Some variation in sentence lengths and beginnings is evident. The writing flows smoothly in some places, but not in others. The paper can be read with inflection.</td>
+    <td>Too many sentences share the same pattern. The writing does not flow smoothly due to a lack of variation in sentence lengths and/or beginnings. It is difficult to read the paper with inflection.</td>
+    <td>Almost all sentences are alike. The writing is boring and does not flow smoothly.</td>
+    <td>Sentences are poorly written or incomplete. The writing is hard to follow.</td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td>The text contains no errors. Spelling, grammar, punctuation, and capitalization are correct.</td>
+    <td>The text contains very few errors in spelling, grammar, punctuation, or capitalization. The meaning remains clear.</td>
+    <td>There are some errors in spelling, grammar, punctuation, and capitalization. One or two of these errors may cause the reader to pause momentarily, but meaning remains clear.</td>
+    <td>Many errors are present. Some errors are basic or repeated. The errors interfere with meaning in places.</td>
+    <td>Serious errors stop the reader frequently and make the writing hard to understand.</td>
+    <td>The writing has not been edited.</td>
+  </tr>
+</table>
+</content>

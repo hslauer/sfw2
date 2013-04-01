@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[More Practice in Proper Nouns]]></title>
+<lesson>LEVEL B LESSON 44</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which word best completes each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Have you ever heard of the singer named _____?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Sting]]></answer>
+      <answer><![CDATA[sting]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He used to be in a band called The _____.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Police]]></answer>
+      <answer><![CDATA[police]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[That band made many _____ in the 1980s.]]></question>
+    <answers>
+      <answer><![CDATA[Albums]]></answer>
+      <answer correct="true"><![CDATA[albums]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sting was born in _____.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[England]]></answer>
+      <answer><![CDATA[england]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sting reminds me of the singer named _____.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Bono]]></answer>
+      <answer><![CDATA[bono]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Bono was born in _____.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Ireland]]></answer>
+      <answer><![CDATA[ireland]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Bono is the _____ for the music group called U2.]]></question>
+    <answers>
+      <answer><![CDATA[Singer]]></answer>
+      <answer correct="true"><![CDATA[singer]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Bono spreads messages of peace around the _____.]]></question>
+    <answers>
+      <answer><![CDATA[World]]></answer>
+      <answer correct="true"><![CDATA[world]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Many musicians give _____ to good causes.]]></question>
+    <answers>
+      <answer><![CDATA[Money]]></answer>
+      <answer correct="true"><![CDATA[money]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My grandmother was a fan of _____.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Elvis]]></answer>
+      <answer><![CDATA[elvis]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Elvis was a singer and an _____.]]></question>
+    <answers>
+      <answer><![CDATA[Actor]]></answer>
+      <answer correct="true"><![CDATA[actor]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He lived in _____.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Memphis]]></answer>
+      <answer><![CDATA[memphis]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[It is a city in the state of _____.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Tennessee]]></answer>
+      <answer><![CDATA[tennessee]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[His house had a special _____.]]></question>
+    <answers>
+      <answer><![CDATA[Name]]></answer>
+      <answer correct="true"><![CDATA[name]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The special name of his house is _____.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Graceland]]></answer>
+      <answer><![CDATA[graceland]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

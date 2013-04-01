@@ -1,0 +1,431 @@
+﻿<root>
+<graphicOrganizer name="Cause and Effect" type="block" variation="1-row" id="0">
+		<entry x="10" y ="150" width ="250" height ="150" title="Cause" imgId="cause">
+			<tf x="12" y="46" width = "375" height = "105" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+		</entry>
+		<arrows x="411" y="200" type="0"></arrows>
+		<entry x="517" y ="150" width ="250" height ="150" title="Effect" imgId="effect">
+			<tf x="12" y="46" width = "375" height = "105" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+		</entry>
+</graphicOrganizer>
+
+
+<graphicOrganizer name="Cause and Effect" type="block" variation="2-row" id="1">
+		<entry x="10" y ="75" width ="250" height ="150" title="Cause" imgId="cause">
+			<tf x="12" y="46" width = "375" height = "105" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+		</entry>
+		<arrows x="411" y="125" type="0"></arrows>
+		<entry x="517" y ="75" width ="250" height ="150" title="Effect" imgId="effect">
+			<tf x="12" y="46" width = "375" height = "105" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+		</entry>
+		<entry x="10" y ="250" width ="250" height ="150" title="Cause" imgId="cause">
+			<tf x="12" y="46" width = "375" height = "105" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+		</entry>
+		<arrows x="411" y="300" type="0"></arrows>
+		<entry x="517" y ="250" width ="250" height ="150" title="Effect" imgId="effect">
+			<tf x="12" y="46" width = "375" height = "105" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+		</entry>
+</graphicOrganizer>
+
+
+
+<graphicOrganizer name="Cause and Effect" type="block" variation="3-row" id="2">
+		<entry x="10" y ="20" width ="250" height ="150" title="Cause" imgId="cause">
+			<tf x="12" y="46" width = "375" height = "105" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+		</entry>
+		<arrows x="411" y="70" type="0"></arrows>
+		<entry x="517" y ="20" width ="250" height ="150" title="Effect" imgId="effect">
+			<tf x="12" y="46" width = "375" height = "105" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+		</entry>
+		<entry x="10" y ="195" width ="250" height ="150" title="Cause" imgId="cause">
+			<tf x="12" y="46" width = "375" height = "105" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+		</entry>
+		<arrows x="411" y="245" type="0"></arrows>
+		<entry x="517" y ="195" width ="250" height ="150" title="Effect" imgId="effect">
+			<tf x="12" y="46" width = "375" height = "105" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+		</entry>
+		<entry x="10" y ="370" width ="250" height ="150" title="Cause" imgId="cause">
+			<tf x="12" y="46" width = "375" height = "105" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+		</entry>
+		<arrows x="411" y="420" type="0"></arrows>
+		<entry x="517" y ="370" width ="250" height ="150" title="Effect" imgId="effect">
+			<tf x="12" y="46" width = "375" height = "105" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+		</entry>
+</graphicOrganizer>
+
+
+<graphicOrganizer name="Character Descriptions" type="block" variation="3-col" id="3">
+	/*<table width="200" height="300" headerHeight="100" x="100" y="50">
+		<row>
+			<entry ZB_Block="1" isTemp="1" bold="1">Name of Character
+			</entry>
+			<entry ZB_Block="1" isTemp="1" bold="1">Name of Character
+			</entry>
+			<entry ZB_Block="1" isTemp="1" bold="1">Name of Character
+			</entry>
+		</row>
+		<row>
+			
+			<entry ZB_Block="1" isTemp="0" bold="0">Click here to enter text
+			</entry>
+			<entry ZB_Block="1" isTemp="0" bold="0">Click here to enter text
+			</entry>
+			<entry ZB_Block="1" isTemp="0" bold="0">Click here to enter text
+			</entry>
+		</row>
+	</table>*/
+	<entry x="10" y ="35" width ="250" height ="150" title="" imgId="character">
+			<tf x="35" y="8" width = "230" height = "48" useTemp="1" ZB_Block = "1" bold ="1">
+				<text>Name of Character</text>
+			</tf>
+			<tf x="15" y="59" width = "266" height = "384" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+	</entry>
+	<entry x="320" y ="35" width ="250" height ="150" title="" imgId="character">
+			<tf x="35" y="8" width = "230" height = "48" useTemp="1" ZB_Block = "1" bold ="1">
+				<text>Name of Character</text>
+			</tf>
+			<tf x="15" y="59" width = "266" height = "384" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+	</entry>
+	<entry x="630" y ="35" width ="250" height ="150" title="" imgId="character">
+			<tf x="35" y="8" width = "230" height = "48" useTemp="1" ZB_Block = "1" bold ="1">
+				<text>Name of Character</text>
+			</tf>
+			<tf x="15" y="59" width = "266" height = "384" useTemp="1" ZB_Block = "1" bold ="0">
+				<text>Click here to enter text</text>
+			</tf>
+	</entry>
+</graphicOrganizer>
+
+<graphicOrganizer name="Character Traits Chart" type="block" variation="3-traits" id="4">
+	/*<table width ="200" height="100" x="100" y="50" headerHeight="70">
+		<row>
+			<entry ZB_Block="0" isTemp="1" bold="0">Character</entry>
+			<entry ZB_Block="1" isTemp="0" bold="0"></entry>
+		</row>
+	</table>	
+	<table width="200" height="270" headerHeight="70" x="100" y="120">
+		<row>
+			<entry ZB_Block="0" isTemp="1" bold="0">Appearance
+			</entry>
+			<entry ZB_Block="0" isTemp="1" bold="0">Personality
+			</entry>
+			<entry ZB_Block="0" isTemp="1" bold="0">Actions
+			</entry>
+		</row>
+		<row>
+			
+			<entry ZB_Block="1" isTemp="0" bold="0">Click here to enter text
+			</entry>
+			<entry ZB_Block="1" isTemp="0" bold="0">Click here to enter text
+			</entry>
+			<entry ZB_Block="1" isTemp="0" bold="0">Click here to enter text
+			</entry>
+		</row>
+	</table>*/
+	<entry x="25" y="10" width ="100" height="100" title = "" imgId="char_trait">
+		<tf x="293" y="8" width = "430" height = "37" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>"insert character's name here"</text>
+		</tf>
+		<tf x="19" y="128" width = "266" height = "380" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>Click here to enter text</text>
+		</tf>
+		<tf x="308" y="128" width = "266" height = "380" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>Click here to enter text</text>
+		</tf>
+		<tf x="598" y="128" width = "266" height = "380" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>Click here to enter text</text>
+		</tf>
+		
+	</entry>
+
+</graphicOrganizer>
+
+<graphicOrganizer name="Conflict Escalator" type="block" variation="3-steps" id="5">
+	<entry x="51" y="369" width ="100" height="100" title = "" imgId="escalate">
+		<tf x="11" y="13" width = "264" height = "130" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="329" y ="198" width ="150" height ="100" title = "" imgId="escalate">
+			<tf x="11" y="13" width = "264" height = "130" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="610" y ="31" width ="150" height ="100" title = "" imgId="escalate">
+		<tf x="11" y="13" width = "264" height = "130" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+		
+</graphicOrganizer>
+
+<graphicOrganizer name="Fact and Opinion Chart" type="block" variation="fact-opinion" id="6">
+	/*<table width ="400" height="100" x="100" y="50" headerHeight="70">
+		<row>
+			<entry ZB_Block="1" isTemp="1" bold="1">Topic</entry>
+		</row>
+	</table>	
+	<table width="200" height="270" headerHeight="70" x="100" y="120">
+		<row>
+			<entry ZB_Block="0" isTemp="1" bold="0">Fact
+			</entry>
+			<entry ZB_Block="0" isTemp="1" bold="0">Opinion
+			</entry>
+
+		</row>
+		<row>
+			
+			<entry ZB_Block="1" isTemp="0" bold="0">Click here to enter text
+			</entry>
+			<entry ZB_Block="1" isTemp="0" bold="0">Click here to enter text
+			</entry>
+		</row>
+	</table>*/
+	<entry x="75" y="185" width ="100" height="100" title = "" imgId="fact">
+		<tf x="13" y="47" width = "367" height = "277" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="500" y="185" width ="100" height="100" title = "" imgId="opinion">
+		<tf x="13" y="47" width = "367" height = "277" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+		
+</graphicOrganizer>
+
+<graphicOrganizer  name="5Ws Chart" type="block" variation="none" id="7">
+	<entry x="183" y="71" width ="100" height="100" title = "What" imgId="5ws">
+	</entry>
+	<arrows x="261" y="76" type="0" width = "54" height="38"></arrows>
+	<entry x="301" y="38" width ="573" height ="87" title="" imgId="tableCell" color="0xAE8DC2">
+		<tf x="1" y="1" width = "570" height = "84" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="181" y="176" width ="100" height="100" title = "Who" imgId="5ws">
+	</entry>
+	<arrows x="261" y="178" type="0" width = "54" height="38"></arrows>
+	<entry x="301" y="140" width ="573" height ="87" title="" imgId="tableCell" color="0x87CFE1">
+		<tf x="1" y="1" width = "570" height = "84" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="181" y="280" width ="100" height="100" title = "Why" imgId="5ws">
+	</entry>
+	<arrows x="261" y="287" type="0" width = "54" height="38"></arrows>
+	<entry x="301" y="245" width ="573" height ="87" title="" imgId="tableCell" color="0xFBDE68">
+		<tf x="1" y="1" width = "570" height = "84" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="186" y="386" width ="100" height="100" title = "When" imgId="5ws">
+	</entry>
+	<arrows x="266" y="393" type="0" width = "54" height="38"></arrows>
+	<entry x="301" y="350" width ="573" height ="87" title="" imgId="tableCell" color="0x73BB53">
+		<tf x="1" y="1" width = "570" height = "84" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="186" y="490" width ="100" height="100" title = "Where" imgId="5ws">
+	</entry>
+	<arrows x="266" y="495" type="0" width = "54" height="38"></arrows>
+	<entry x="301" y="452" width ="573" height ="87" title="" imgId="tableCell" color="0xE0404F">
+		<tf x="1" y="1" width = "570" height = "84" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+		
+</graphicOrganizer>
+
+<graphicOrganizer  name="Flow Chart" type="block" variation="none" id="8">
+	<entry x="183" y="73" width ="100" height="100" title = "Step 1" imgId="flow">
+		<tf x="112" y="11" width = "583" height = "62" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<arrows x="261" y="76" type="0" width = "54" height="38"></arrows>	
+	<entry x="183" y="198" width ="100" height="100" title = "Step 2" imgId="flow">
+		<tf x="112" y="11" width = "583" height = "62" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<arrows x="261" y="178" type="0" width = "54" height="38"></arrows>
+	<entry x="183" y="324" width ="573" height ="87" title="Step 3" imgId="flow">
+		<tf x="112" y="11" width = "583" height = "62" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<arrows x="261" y="178" type="0" width = "54" height="38"></arrows>
+	<entry x="183" y="449" width ="573" height ="87" title="Step 4" imgId="flow">
+		<tf x="112" y="11" width = "583" height = "62" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	
+</graphicOrganizer>	
+
+<graphicOrganizer name="K-W-L-H Chart" type="block" variation="none" id="9">
+	
+	<entry x="135" y="69" width ="100" height="100" title="What I Know" imgId="kwlh">
+	</entry>
+	<entry x="36" y="100" width ="211" height="388" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "209" height = "386" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="361" y="100" width ="100" height="100" title = "What I Want To Learn" imgId="kwlh">
+	</entry>
+	<entry x="257" y="100" width ="211" height="388" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "209" height = "386" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="589" y="100" width ="100" height="100" title = "What I Learned" imgId="kwlh"></entry>
+	<entry x="483" y="100" width ="211" height="388" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "209" height = "386" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="800" y="100" width ="100" height="100" title = "How I Can Learn More" imgId="kwlh"></entry>
+	<entry x="709" y="100" width ="211" height="388" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "209" height = "386" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+
+</graphicOrganizer>
+
+<graphicOrganizer name="K-W-S Chart" type="block" variation="none" id="10">
+		
+	<entry x="175" y="69" width ="100" height="100" title="What I Know" imgId="kwlh"></entry>
+	<entry x="55" y="100" width ="270" height="411" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "268" height = "409" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="474" y="100" width ="100" height="100" title = "What I Want To Learn" imgId="kwlh">
+	</entry>
+	<entry x="344" y="100" width ="270" height="411" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "268" height = "409" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="759" y="100" width ="100" height="100" title = "What I Learned" imgId="kwlh"></entry>
+	<entry x="633" y="100" width ="270" height="411" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "268" height = "409" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+
+</graphicOrganizer>
+
+<graphicOrganizer name="Main Idea Table" type="block" variation="none" id="11">
+	<entry x ="30" y="30" width="100" height="200" title="Main Idea" imgId="text_field"></entry>
+	<entry x="176" y="30" width ="738" height="36" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width="736" height="34" useTemp="1" ZB_Block="1" bold="0">
+			<text>insert text here</text>
+		</tf>
+	</entry>
+	<entry x="111" y="116" width ="100" height="100" title="Supporting detail" imgId="main_idea"></entry>
+	<entry x="26" y="146" width ="171" height="359" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "169" height = "357" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="293" y="116" width ="100" height="100" title="Supporting detail" imgId="main_idea"></entry>
+	<entry x="207" y="146" width ="171" height="359" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "169" height = "357" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="474" y="116" width ="100" height="100" title="Supporting detail" imgId="main_idea"></entry>
+	<entry x="389" y="146" width ="171" height="359" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "169" height = "357" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="656" y="116" width ="100" height="100" title="Supporting detail" imgId="main_idea"></entry>
+	<entry x="570" y="146" width ="171" height="359" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "169" height = "357" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="838" y="116" width ="100" height="100" title="Supporting detail" imgId="main_idea"></entry>
+	<entry x="752" y="146" width ="171" height="359" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "169" height = "357" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+		
+</graphicOrganizer>
+
+<graphicOrganizer name="Observation Chart" type="block" variation="none" id="12">
+	<entry x ="30" y="30" width="100" height="200" title="Topic" imgId="text_field"></entry>
+	<entry x="176" y="30" width ="738" height="36" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width="736" height="34" useTemp="1" ZB_Block="1" bold="0">
+			<text>insert text here</text>
+		</tf>
+	</entry>
+	<entry x="111" y="116" width ="100" height="100" title="Sight" imgId="blue_box"></entry>
+	<entry x="26" y="146" width ="171" height="359" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "169" height = "357" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="293" y="116" width ="100" height="100" title="Sound" imgId="yellow_box"></entry>
+	<entry x="207" y="146" width ="171" height="359" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "169" height = "357" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="474" y="116" width ="100" height="100" title="Touch" imgId="green_box"></entry>
+	<entry x="389" y="146" width ="171" height="359" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "169" height = "357" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="656" y="116" width ="100" height="100" title="Taste" imgId="purple_box"></entry>
+	<entry x="570" y="146" width ="171" height="359" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "169" height = "357" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+	<entry x="838" y="116" width ="100" height="100" title="Smell" imgId="red_box"></entry>
+	<entry x="752" y="146" width ="171" height="359" title="" imgId="tableCell" color="0xAcA886">
+		<tf x="1" y="1" width = "169" height = "357" useTemp="1" ZB_Block = "1" bold ="0">
+			<text>click here to add text</text>
+		</tf>
+	</entry>
+		
+</graphicOrganizer>
+
+</root>

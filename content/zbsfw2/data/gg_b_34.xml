@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Past Tense and Present Tense Verbs]]></title>
+<lesson>LEVEL B LESSON 34</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which word best completes each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Yesterday, I _____ a museum with my class.]]></question>
+    <answers>
+      <answer><![CDATA[visit]]></answer>
+      <answer correct="true"><![CDATA[visited]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Every month, we are able to _____ a new place in town.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[visit]]></answer>
+      <answer><![CDATA[visited]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[A few months ago, we _____ a chocolate factory!]]></question>
+    <answers>
+      <answer><![CDATA[tour]]></answer>
+      <answer correct="true"><![CDATA[toured]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[On another trip, we _____ to an orchestra.]]></question>
+    <answers>
+      <answer><![CDATA[listen]]></answer>
+      <answer correct="true"><![CDATA[listened]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I like to _____ to music every day.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[listen]]></answer>
+      <answer><![CDATA[listened]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I _____ to visit Chatham Park someday.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[hope]]></answer>
+      <answer><![CDATA[hoped]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My baseball team _____ a game there last summer.]]></question>
+    <answers>
+      <answer><![CDATA[play]]></answer>
+      <answer correct="true"><![CDATA[played]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Our teachers seem to _____ our field trips, too.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[enjoy]]></answer>
+      <answer><![CDATA[enjoys]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They always try to _____ great trips for us.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[plan]]></answer>
+      <answer><![CDATA[planned]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sometimes they will _____ us for new ideas.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[ask]]></answer>
+      <answer><![CDATA[asked]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[One time we _____ a trip to Africa!]]></question>
+    <answers>
+      <answer><![CDATA[suggest]]></answer>
+      <answer correct="true"><![CDATA[suggested]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Our teachers just _____ when we said that!]]></question>
+    <answers>
+      <answer><![CDATA[laugh]]></answer>
+      <answer correct="true"><![CDATA[laughed]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Last month, we _____ to the local library.]]></question>
+    <answers>
+      <answer><![CDATA[walk]]></answer>
+      <answer correct="true"><![CDATA[walked]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Do you _____ the library?]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[like]]></answer>
+      <answer><![CDATA[liked]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Each student _____ one book that day.]]></question>
+    <answers>
+      <answer><![CDATA[borrow]]></answer>
+      <answer correct="true"><![CDATA[borrowed]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

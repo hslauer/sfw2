@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Verb <I>Go</I>]]></title>
+<lesson>LEVEL B LESSON 27</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which word best completes each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[Have you ever _____ to Florida?]]></question>
+    <answers>
+      <answer><![CDATA[go]]></answer>
+      <answer correct="true"><![CDATA[gone]]></answer>
+      <answer><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Last month, my family _____ to Walt Disney World.]]></question>
+    <answers>
+      <answer><![CDATA[go]]></answer>
+      <answer><![CDATA[gone]]></answer>
+      <answer correct="true"><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We like to _____ on vacation once a year.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[go]]></answer>
+      <answer><![CDATA[gone]]></answer>
+      <answer><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Sometimes we just like to _____ camping for our vacation.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[go]]></answer>
+      <answer><![CDATA[gone]]></answer>
+      <answer><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We have also _____ to amusement parks.]]></question>
+    <answers>
+      <answer><![CDATA[go]]></answer>
+      <answer correct="true"><![CDATA[gone]]></answer>
+      <answer><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[When we _____ to Florida, we had a blast!]]></question>
+    <answers>
+      <answer><![CDATA[go]]></answer>
+      <answer><![CDATA[gone]]></answer>
+      <answer correct="true"><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[In addition to Disney World, we also _____ to the beach.]]></question>
+    <answers>
+      <answer><![CDATA[go]]></answer>
+      <answer><![CDATA[gone]]></answer>
+      <answer correct="true"><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I had never _____ swimming in the ocean before.]]></question>
+    <answers>
+      <answer><![CDATA[go]]></answer>
+      <answer correct="true"><![CDATA[gone]]></answer>
+      <answer><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I like to _____ swimming in pools.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[go]]></answer>
+      <answer><![CDATA[gone]]></answer>
+      <answer><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[So when I got there, I _____ into the ocean right away.]]></question>
+    <answers>
+      <answer><![CDATA[go]]></answer>
+      <answer><![CDATA[gone]]></answer>
+      <answer correct="true"><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[One day, we _____ to Kennedy Space Center.]]></question>
+    <answers>
+      <answer><![CDATA[go]]></answer>
+      <answer><![CDATA[gone]]></answer>
+      <answer correct="true"><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I heard about NASA when I _____ to the library.]]></question>
+    <answers>
+      <answer><![CDATA[go]]></answer>
+      <answer><![CDATA[gone]]></answer>
+      <answer correct="true"><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Have you ever _____ to Kennedy Space Center?]]></question>
+    <answers>
+      <answer><![CDATA[go]]></answer>
+      <answer correct="true"><![CDATA[gone]]></answer>
+      <answer><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[If you ever _____ to Florida, visit the Space Center.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[go]]></answer>
+      <answer><![CDATA[gone]]></answer>
+      <answer><![CDATA[went]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We had so much fun that we _____ two days in a row!]]></question>
+    <answers>
+      <answer><![CDATA[go]]></answer>
+      <answer><![CDATA[gone]]></answer>
+      <answer correct="true"><![CDATA[went]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

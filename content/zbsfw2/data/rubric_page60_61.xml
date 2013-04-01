@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title><![CDATA[Fable Rubric]]></title>
+<instructionsInteractive><![CDATA[Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.]]></instructionsInteractive>
+<instructionsStatic><![CDATA[Use this 6-point rubric to plan and score a fable.]]></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td><![CDATA[The plot and characters are clear and interesting.]]></td>
+    <td><![CDATA[The plot and characters are clear.]]></td>
+    <td><![CDATA[Some plot events are not clear.]]></td>
+    <td><![CDATA[The plot is not clear. Some details about the characters are confusing.]]></td>
+    <td><![CDATA[The story lacks a plot. The characters are not developed.]]></td>
+    <td><![CDATA[The writer’s ideas are not clear.]]></td>
+  </tr>
+  <tr> <!--Organization-->
+    <td><![CDATA[The beginning, middle, and end are in order and complete.]]></td>
+    <td><![CDATA[The beginning, middle, and end are mostly in order and complete.]]></td>
+    <td><![CDATA[Some events are out of order. The ending is somewhat complete.]]></td>
+    <td><![CDATA[Many events are out of order. The ending leaves the reader with questions.]]></td>
+    <td><![CDATA[Events are out of order. The writing doesn’t have an ending.]]></td>
+    <td><![CDATA[The writing is hard to understand because it is not organized.]]></td>
+  </tr>
+  <tr> <!--Voice-->
+    <td><![CDATA[The dialogue makes the characters act and talk like unique, real people.]]></td>
+    <td><![CDATA[Most of the dialogue makes the characters act and talk like real people.]]></td>
+    <td><![CDATA[Usually the characters talk like real people. Their personalities are recognizable.]]></td>
+    <td><![CDATA[Some of the characters sound the same. It is hard to tell who is speaking.]]></td>
+    <td><![CDATA[Only the narrator speaks. The characters do not talk.]]></td>
+    <td><![CDATA[There is no recognizable voice in the piece with the characters or the narrator.]]></td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td><![CDATA[Well-chosen adjectives make the writing very clear.]]></td>
+    <td><![CDATA[Adjectives are used in an appropriate way.]]></td>
+    <td><![CDATA[Most adjectives are used appropriately.]]></td>
+    <td><![CDATA[Only very general adjectives are used. They do not make the writing clear.]]></td>
+    <td><![CDATA[Some adjectives are wrong for the writing.]]></td>
+    <td><![CDATA[No adjectives are used.]]></td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td><![CDATA[Sentences of different lengths make the story easy and fun to read.]]></td>
+    <td><![CDATA[Most of the sentences are varied and the piece is easy to read.]]></td>
+    <td><![CDATA[Some sentences are the same length. The writing is choppy.]]></td>
+    <td><![CDATA[Many sentences are the same length and make the story choppy to read.]]></td>
+    <td><![CDATA[Sentences are usually the same length. The reader must work to read the piece.]]></td>
+    <td><![CDATA[Sentences are too long, lack variety, or are incomplete. The writing is hard to follow.]]></td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td><![CDATA[Adjectives are well chosen. Quotation marks are used correctly.]]></td>
+    <td><![CDATA[Adjectives are well chosen. There are one or two errors with quotation marks.]]></td>
+    <td><![CDATA[Adjectives are used. Some errors with quotation marks confuse the reader.]]></td>
+    <td><![CDATA[Better adjectives are needed. Many errors with quotation marks confuse the reader.]]></td>
+    <td><![CDATA[No adjectives are used. Errors with quotations make the writing hard to understand.]]></td>
+    <td><![CDATA[Many serious errors make the writing very hard to understand.]]></td>
+  </tr>
+</table>
+</content>

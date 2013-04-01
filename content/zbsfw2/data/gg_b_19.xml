@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Other Adjectives]]></title>
+<lesson>LEVEL B LESSON 19</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which underlined word is an adjective? If neither word is an adjective, choose <I>neither</I>. Choose your answer below.]]></instruction>
+    <question><![CDATA[Have <u>you</u> ever <u>visited</u> Central Park in New York City?]]></question>
+    <answers>
+      <answer><![CDATA[you]]></answer>
+      <answer><![CDATA[visited]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[It is a <u>gigantic</u> <u>park</u>!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[gigantic]]></answer>
+      <answer><![CDATA[park]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Central Park <u>offers</u> many <u>fun</u> activities.]]></question>
+    <answers>
+      <answer><![CDATA[offers]]></answer>
+      <answer correct="true"><![CDATA[fun]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>There</u> is a <u>small</u> Children’s Zoo.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[small]]></answer>
+      <answer><![CDATA[There]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Some <u>cute</u> seals live in a <u>pond</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[cute]]></answer>
+      <answer><![CDATA[pond]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[There <u>are</u> also some large, <u>furry</u> polar bears.]]></question>
+    <answers>
+      <answer><![CDATA[area]]></answer>
+      <answer correct="true"><![CDATA[furry]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[There are other <u>bodies</u> of <u>water</u> in Central Park.]]></question>
+    <answers>
+      <answer><![CDATA[bodies]]></answer>
+      <answer><![CDATA[water]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The Reservoir is a <u>huge</u> <u>body</u> of water.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[huge]]></answer>
+      <answer><![CDATA[body]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Many</u> people sail model <u>boats</u> on Conservatory Water.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Many]]></answer>
+      <answer><![CDATA[boats]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[There are big <u>gray</u> <u>rocks</u> throughout the park.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[gray]]></answer>
+      <answer><![CDATA[rocks]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You <u>must</u> be a <u>brave</u> person to climb some of them!]]></question>
+    <answers>
+      <answer><![CDATA[must]]></answer>
+      <answer correct="true"><![CDATA[brave]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The <u>playgrounds</u> are <u>busy</u> places in the summer.]]></question>
+    <answers>
+      <answer><![CDATA[playgrounds]]></answer>
+      <answer correct="true"><![CDATA[busy]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My <u>favorite</u> thing in the park is a <u>statue</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[favorite]]></answer>
+      <answer><![CDATA[statue]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[This statue shows a <u>heroic</u> dog named <u>Balto</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[heroic]]></answer>
+      <answer><![CDATA[Balto]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[There are many <u>wonderful</u> things to <u>see</u> in Central Park!]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[wonderful]]></answer>
+      <answer><![CDATA[see]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

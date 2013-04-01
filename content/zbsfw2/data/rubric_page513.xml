@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title>Informative/Explanatory Writing Rubric</title>
+<instructionsInteractive>Click on the plus sign in each cell to display the rubric text. Use the
+directional arrows to navigate through the rubric.</instructionsInteractive>
+<instructionsStatic>Use this 4-point rubric to plan and score informative/explanatory writing.</instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td>The topic is introduced clearly. Information and examples develop the main idea(s). Carefully selected ideas completely answer the reader’s main questions.</td>
+    <td>A topic is introduced. Most of the information and examples develop the main idea(s). The ideas chosen by the author frequently answer the reader’s main questions.</td>
+    <td>A topic is introduced, but little of the information or examples develops the main idea(s). Some of the reader’s questions are answered.</td>
+    <td>A topic is not introduced. Information and examples are incomplete or unrelated to the topic.</td>
+  </tr>
+  <tr> <!--Organization-->
+    <td>Information is organized into a strong and thoughtful introduction, a body, and a satisfying conclusion. Varied and appropriate transitions connect the ideas.</td>
+    <td>Information is organized into an introduction, a body, and a conclusion. More or better transitions are needed.</td>
+    <td>Information is not well organized. The introduction, body, and conclusion may be poorly developed. Transitions are confusing or not helpful.</td>
+    <td>The writing is not organized. Introduction and conclusion may both be missing. Transitions are not used.</td>
+  </tr>
+  <tr> <!--Voice-->
+    <td>The voice sounds interested and informative. It fully connects with the audience and conveys the writer’s purpose well.</td>
+    <td>The voice sounds informative and mostly connects with the audience. It conveys the purpose some of the time.</td>
+    <td>The voice sounds informative in places. It conveys the purpose, but often fades out.</td>
+    <td>Voice is weak or absent. It does not connect with the audience or convey the writer’s purpose.</td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td>Precise language and domain-specific vocabulary are used. Definitions are complete and helpful. Nouns and verbs are clear and precise, supported by a few carefully selected modifiers.</td>
+    <td>Some precise language, domain-specific vocabulary, and definitions are used. Some nouns and verbs are weak, requiring help from modifiers. Modifiers are satisfactory.</td>
+    <td>Little precise language and domain-specific vocabulary is used. Definitions are missing or incorrect. Nouns and verbs lack clarity or precision. Too many or too few modifiers are used, and many of them are weak.</td>
+    <td>Precise language and domain-specific vocabulary are not used.</td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td>Clear, concise sentences make the text flow smoothly. Sentence beginnings, lengths, and patterns are varied for effect. The paper is effortlessly read aloud with inflection.</td>
+    <td>One or two sections of the writing do not flow smoothly. In these sections, several sentences may have the same beginnings, lengths, or patterns. The paper can be read with inflection.</td>
+    <td>In many places, the writing does not flow smoothly due to repetitive sentence beginnings, lengths, and patterns. It is difficult to read the paper with inflection.</td>
+    <td>Sentences are incomplete or incorrect.</td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td>The text contains no errors. Spelling, grammar, punctuation, and capitalization are correct.</td>
+    <td>The text contains some errors in spelling, grammar, punctuation, and capitalization. One or two errors may cause the reader to pause momentarily, but meaning remains clear.</td>
+    <td>Many errors are present. Some errors are basic or repeated. The errors interfere with meaning in places.</td>
+    <td>The writing has not been edited. Serious errors make the writing hard to understand.</td>
+  </tr>
+</table>
+</content>

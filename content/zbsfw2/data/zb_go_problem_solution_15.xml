@@ -1,0 +1,33 @@
+<root>
+	<graphicOrganizer name="Problem-Solution Frame" type="block" variation="none" id="15">
+		<entry>
+			<tf x="260" y="25" width = "455" height = "37" useTemp="0" ZB_Block = "1" bold ="1" useFrame="1" strokeW="4" fColor="0x4DC7C7" useFill="0">
+				<text>Click to add text.</text>
+			</tf>
+			
+			<tf x="55" y="137" width = "345" height = "179" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="485" y="137" width = "345" height = "179" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x36C918" useFill="1" fillColor="0xD7EFCB">
+				<text>Click to add text.</text>
+			</tf>
+			
+			<tf x="18" y="377" width = "193" height = "129" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xFCCC1E" useFill="1" fillColor="0xFEEFCD">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="228" y="377" width = "193" height = "129" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x00C7EC" useFill="1" fillColor="0xDEFCFE">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="457" y="377" width = "193" height = "129" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xFCCC1E" useFill="1" fillColor="0xFEEFCD">
+				<text>Click to add text.</text>
+			</tf>
+			<tf x="667" y="377" width = "193" height = "129" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x00C7EC" useFill="1" fillColor="0xDEFCFE">
+				<text>Click to add text.</text>
+			</tf>
+			
+		</entry>
+	
+</graphicOrganizer>
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+</root>

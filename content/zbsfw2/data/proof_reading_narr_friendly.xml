@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+  <type>proof_reading</type>
+  <title>Narrative | Friendly Letter</title>
+  <instructions>Drag the proofreading marks to identify the errors. Type misspelled or missing words.</instructions>
+  <text><![CDATA[				   490 West Peach Drive<br>				   Atlanta, GA 30340<br>				   June 7, 20__
+Dear Alyssa,
+	Mom told me you are going to stay with us for a week this summer. Be sure to bring your {l}Bike so we can ride to the park on Main Street. There is a new pool at the park, so we can go swimming.
+	Our last day of school was Friday{.} I will be in third grade next fall, and I hope I get {u}ms. Santoz for my teacher. In third grade we get to take {+|a} field trip to the state capital. That will be a lot of fun{.}
+	I’m marking off the days on the {-|the} calendar until you get here!
+				Your cousin,
+				Kayla]]></text>
+
+  
+</content>

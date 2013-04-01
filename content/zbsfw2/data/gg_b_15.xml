@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Action Verbs]]></title>
+<lesson>LEVEL B LESSON 15</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which underlined word is an action verb? If neither word is an action verb, choose <I>neither</I>. Choose your answer below.]]></instruction>
+    <question><![CDATA[Hockey players <u>skate</u> quickly <u>across</u> the ice.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[skate]]></answer>
+      <answer><![CDATA[across]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They <u>speed</u> toward the <u>goal</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[speed]]></answer>
+      <answer><![CDATA[goal]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They <u>balance</u> themselves on their <u>skates</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[balance]]></answer>
+      <answer><![CDATA[skates]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Sometimes</u> they <u>pass</u> the puck.]]></question>
+    <answers>
+      <answer><![CDATA[Sometimes]]></answer>
+      <answer correct="true"><![CDATA[pass]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My <u>sister</u> and I <u>watch</u> hockey on television.]]></question>
+    <answers>
+      <answer><![CDATA[sister]]></answer>
+      <answer correct="true"><![CDATA[watch]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Players often <u>smash</u> into <u>one</u> another.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[smash]]></answer>
+      <answer><![CDATA[one]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Smashing is <u>part</u> of the <u>game</u>.]]></question>
+    <answers>
+      <answer><![CDATA[part]]></answer>
+      <answer><![CDATA[game]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Hockey</u> players <u>move</u> throughout the game.]]></question>
+    <answers>
+      <answer><![CDATA[Hockey]]></answer>
+      <answer correct="true"><![CDATA[move]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They do not take <u>breaks</u> very <u>often</u>.]]></question>
+    <answers>
+      <answer><![CDATA[breaks]]></answer>
+      <answer><![CDATA[often]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Hockey players <u>sometimes</u> <u>hurt</u> one another.]]></question>
+    <answers>
+      <answer><![CDATA[sometimes]]></answer>
+      <answer correct="true"><![CDATA[hurt]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[They wear <u>many</u> <u>pads</u> to protect themselves.]]></question>
+    <answers>
+      <answer><![CDATA[many]]></answer>
+      <answer><![CDATA[pads]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The <u>goalie</u> <u>protects</u> his team’s goal.]]></question>
+    <answers>
+      <answer><![CDATA[goalie]]></answer>
+      <answer correct="true"><![CDATA[protects]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[He or she <u>stops</u> pucks <u>before</u> the net.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[stops]]></answer>
+      <answer><![CDATA[before]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Teams <u>score</u> only a few <u>points</u> in a game.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[score]]></answer>
+      <answer><![CDATA[points]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Hockey fans <u>really</u> <u>enjoy</u> the sport!]]></question>
+    <answers>
+      <answer><![CDATA[really]]></answer>
+      <answer correct="true"><![CDATA[enjoy]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

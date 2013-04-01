@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Proper Nouns]]></title>
+<lesson>LEVEL B LESSON 12</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which underlined word is a proper noun? If neither word is a proper noun, choose <I>neither</I>. Choose your answer below.]]></instruction>
+    <question><![CDATA[The <u>capital</u> of Texas is not <u>Dallas</u>.]]></question>
+    <answers>
+      <answer><![CDATA[capital]]></answer>
+      <answer correct="true"><![CDATA[Dallas]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>Houston</u> is not the capital of the <u>state</u> either.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[Houston]]></answer>
+      <answer><![CDATA[state]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[These are two big, popular <u>cities</u> in <u>Texas</u>.]]></question>
+    <answers>
+      <answer><![CDATA[cities]]></answer>
+      <answer correct="true"><![CDATA[Texas]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The <u>capital</u> of <u>Texas</u> is Austin.]]></question>
+    <answers>
+      <answer><![CDATA[capital]]></answer>
+      <answer correct="true"><![CDATA[Texas]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I visited Austin in <u>April</u> with my <u>family</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[April]]></answer>
+      <answer><![CDATA[family]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>We</u> stayed in a hotel <u>downtown</u>.]]></question>
+    <answers>
+      <answer><![CDATA[We]]></answer>
+      <answer><![CDATA[downtown]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[On a hot <u>day</u>, we went to <u>Barton Springs</u>.]]></question>
+    <answers>
+      <answer><![CDATA[day]]></answer>
+      <answer correct="true"><![CDATA[Barton Springs]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>It</u> is a place for <u>swimming</u>.]]></question>
+    <answers>
+      <answer><![CDATA[It]]></answer>
+      <answer><![CDATA[swimming]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The swimming <u>area</u> is located in <u>Zilker Park</u>.]]></question>
+    <answers>
+      <answer><![CDATA[area]]></answer>
+      <answer correct="true"><![CDATA[Zilker Park]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[We also visited <u>San Antonio</u>, Texas, on that <u>vacation</u>.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[San Antonio]]></answer>
+      <answer><![CDATA[vacation]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[My <u>family</u> spent a day at the <u>Alamo</u>.]]></question>
+    <answers>
+      <answer><![CDATA[family]]></answer>
+      <answer correct="true"><![CDATA[Alamo]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[At <u>night</u> we went to the <u>River Walk</u>.]]></question>
+    <answers>
+      <answer><![CDATA[night]]></answer>
+      <answer correct="true"><![CDATA[River Walk]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[There are many <u>restaurants</u> and <u>shops</u> there.]]></question>
+    <answers>
+      <answer><![CDATA[restaurant]]></answer>
+      <answer><![CDATA[shops]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[The River Walk has a <u>name</u> in <u>Spanish</u>.]]></question>
+    <answers>
+      <answer><![CDATA[name]]></answer>
+      <answer correct="true"><![CDATA[Spanish]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>It</u> is called Paseo del Rio in that <u>language</u>.]]></question>
+    <answers>
+      <answer><![CDATA[It]]></answer>
+      <answer><![CDATA[language]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

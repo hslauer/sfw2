@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Capitalization and Punctuation]]></title>
+<lesson>LEVEL B LESSON 47</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which item should be added to each sentence? Choose your answer below.]]></instruction>
+    <question><![CDATA[What are you doing]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+      <answer><![CDATA[period]]></answer>
+      <answer><![CDATA[capital letter]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I am cutting out pictures from a magazine]]></question>
+    <answers>
+      <answer><![CDATA[question mark]]></answer>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[capital letter]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Why are you doing that]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+      <answer><![CDATA[period]]></answer>
+      <answer><![CDATA[capital letter]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I need some pictures for school tomorrow]]></question>
+    <answers>
+      <answer><![CDATA[question mark]]></answer>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[capital letter]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[we are making a collage in art class.]]></question>
+    <answers>
+      <answer><![CDATA[question mark]]></answer>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[capital letter]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What is a collage]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+      <answer><![CDATA[period]]></answer>
+      <answer><![CDATA[exclamation point]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[it is a collection of items glued together.]]></question>
+    <answers>
+      <answer><![CDATA[question mark]]></answer>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[capital letter]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[That is so cool]]></question>
+    <answers>
+      <answer><![CDATA[question mark]]></answer>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[exclamation point]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Tell me more about your project]]></question>
+    <answers>
+      <answer><![CDATA[question mark]]></answer>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[exclamation point]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What will your collage look like]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+      <answer><![CDATA[period]]></answer>
+      <answer><![CDATA[capital letter]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I am creating a sports collage]]></question>
+    <answers>
+      <answer><![CDATA[question mark]]></answer>
+      <answer correct="true"><![CDATA[period]]></answer>
+      <answer><![CDATA[exclamation point]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[it will have pictures of sports.]]></question>
+    <answers>
+      <answer><![CDATA[question mark]]></answer>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[capital letter]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What is your favorite sport]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+      <answer><![CDATA[period]]></answer>
+      <answer><![CDATA[exclamation point]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I love basketball]]></question>
+    <answers>
+      <answer><![CDATA[question mark]]></answer>
+      <answer><![CDATA[period]]></answer>
+      <answer correct="true"><![CDATA[exclamation point]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[What other sports will you put on your collage]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[question mark]]></answer>
+      <answer><![CDATA[period]]></answer>
+      <answer><![CDATA[capital letter]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

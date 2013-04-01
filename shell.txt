@@ -1,0 +1,5 @@
+appId=com.vpg.zbi.vlesson.StrategiesForWritersGrade2
+&appVersion=0.4.0
+&contentUrl=content
+&configFile=zbsfw2/config.xml
+&dpdRestUrl=/dpd/dpdrest

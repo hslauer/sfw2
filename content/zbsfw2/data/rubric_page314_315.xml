@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>rubric</type>
+<title><![CDATA[Descriptive Paper Rubric]]></title>
+<instructionsInteractive><![CDATA[Click on the plus sign in each cell to display the rubric text. Use the directional arrows to navigate through the rubric.]]></instructionsInteractive>
+<instructionsStatic><![CDATA[Use this 6-point rubric to plan and score a descriptive paper.]]></instructionsStatic>
+<table>
+  <tr> <!--Ideas-->
+    <td><![CDATA[The topic is clear and interesting with memorable details about all five senses.]]></td>
+    <td><![CDATA[The topic is interesting. The writer uses all five senses.]]></td>
+    <td><![CDATA[The topic is interesting. The writer uses two or three of the five senses.]]></td>
+    <td><![CDATA[The topic could be more interesting. The writer uses one or two of the five senses.]]></td>
+    <td><![CDATA[The topic is confusing. Sensory details are sketchy.]]></td>
+    <td><![CDATA[The topic is not clear. Sensory information is missing.]]></td>
+  </tr>
+  <tr> <!--Organization-->
+    <td><![CDATA[The writer uses the five senses to organize the details. The writing is organized well.]]></td>
+    <td><![CDATA[Most of the details follow the five senses. The writing makes sense.]]></td>
+    <td><![CDATA[The writing generally makes sense. Details are not always organized with the senses.]]></td>
+    <td><![CDATA[Many of the details are out of order or unrelated to the topic.]]></td>
+    <td><![CDATA[The organization is confusing and does not help the reader understand the topic.]]></td>
+    <td><![CDATA[The writing is not organized and is a collection of random thoughts.]]></td>
+  </tr>
+  <tr> <!--Voice-->
+    <td><![CDATA[The writer uses a personal “you” voice. The voice clearly belongs to this writer.]]></td>
+    <td><![CDATA[The writer generally uses a personal “you” voice and speaks to the reader.]]></td>
+    <td><![CDATA[The writer speaks to the reader some of the time.]]></td>
+    <td><![CDATA[The writer’s voice speaks to the reader and then fades.]]></td>
+    <td><![CDATA[The writer does not speak directly to the reader. The writer’s voice is faint.]]></td>
+    <td><![CDATA[The writing lacks voice.]]></td>
+  </tr>
+  <tr> <!--Word Choice-->
+    <td><![CDATA[Describing words and sensory information paint a clear picture.]]></td>
+    <td><![CDATA[Describing words help the reader use the five senses to picture the topic.]]></td>
+    <td><![CDATA[Most of the words help the reader use the five senses. The image is clear most of the time.]]></td>
+    <td><![CDATA[Some of the words help the reader use the fives senses.]]></td>
+    <td><![CDATA[Words are vague or do not use the five senses to describe.]]></td>
+    <td><![CDATA[The word choice feels random and does not describe.]]></td>
+  </tr>
+  <tr> <!--Sentence Fluency-->
+    <td><![CDATA[The writing is smooth and natural. The sentences are easy to read and understand.]]></td>
+    <td><![CDATA[Most sentences are smooth and sound natural.]]></td>
+    <td><![CDATA[Some sentences are smooth and sound natural.]]></td>
+    <td><![CDATA[Some of the writing is difficult to understand.]]></td>
+    <td><![CDATA[A few sentences are confusing. The meaning is not clear.]]></td>
+    <td><![CDATA[Many sentences are choppy or too long. The piece is difficult to read.]]></td>
+  </tr>
+  <tr> <!--Conventions-->
+    <td><![CDATA[The writer uses nouns and verbs correctly.]]></td>
+    <td><![CDATA[The writing contains minimal errors with nouns and verbs.]]></td>
+    <td><![CDATA[A few errors with nouns and verbs can be easily corrected.]]></td>
+    <td><![CDATA[Errors with nouns and verbs confuse the reader.]]></td>
+    <td><![CDATA[Many errors with nouns and verbs stop the reader from understanding.]]></td>
+    <td><![CDATA[Serious, frequent errors make the writing very hard to understand.]]></td>
+  </tr>
+</table>
+</content>

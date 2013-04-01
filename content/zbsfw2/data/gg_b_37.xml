@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+<type>multiple_choice</type>
+<title><![CDATA[Object Pronouns]]></title>
+<lesson>LEVEL B LESSON 37</lesson>
+<items>
+  <item>
+    <instruction><![CDATA[Which underlined word is an object pronoun? If neither of the underlined words is an object pronoun, choose <I>neither</I>. Choose your answer below.]]></instruction>
+    <question><![CDATA[Please help <u>me</u> carry <u>these</u> books.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[me]]></answer>
+      <answer><![CDATA[these]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>We</u> will carry <u>them</u> over there.]]></question>
+    <answers>
+      <answer><![CDATA[We]]></answer>
+      <answer correct="true"><![CDATA[them]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>I</u> must return the books to <u>him</u>.]]></question>
+    <answers>
+      <answer><![CDATA[I]]></answer>
+      <answer correct="true"><![CDATA[him]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>This</u> book tells <u>about</u> police officers.]]></question>
+    <answers>
+      <answer><![CDATA[This]]></answer>
+      <answer><![CDATA[about]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>I</u> admire <u>them</u> very much.]]></question>
+    <answers>
+      <answer><![CDATA[I]]></answer>
+      <answer correct="true"><![CDATA[them]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[You gave a book to <u>me</u> for <u>my</u> birthday.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[me]]></answer>
+      <answer><![CDATA[my]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>I</u> read <u>it</u> over and over!]]></question>
+    <answers>
+      <answer><![CDATA[I]]></answer>
+      <answer correct="true"><![CDATA[it]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>It</u> told about the <u>jobs</u> of firefighters.]]></question>
+    <answers>
+      <answer><![CDATA[It]]></answer>
+      <answer><![CDATA[jobs]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[I want to be <u>one</u> of <u>them</u> someday.]]></question>
+    <answers>
+      <answer><![CDATA[one]]></answer>
+      <answer correct="true"><![CDATA[them]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>It</u> would be great to help people like <u>you</u>.]]></question>
+    <answers>
+      <answer><![CDATA[It]]></answer>
+      <answer correct="true"><![CDATA[you]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>My</u> dad told <u>me</u> how dangerous firefighting is.]]></question>
+    <answers>
+      <answer><![CDATA[My]]></answer>
+      <answer correct="true"><![CDATA[me]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>I</u> will lend the book to <u>you</u>.]]></question>
+    <answers>
+      <answer><![CDATA[I]]></answer>
+      <answer correct="true"><![CDATA[you]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[<u>You</u> can see for <u>yourself</u>!]]></question>
+    <answers>
+      <answer><![CDATA[You]]></answer>
+      <answer><![CDATA[yourself]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Maybe I will give <u>you</u> a book on <u>your</u> birthday.]]></question>
+    <answers>
+      <answer correct="true"><![CDATA[you]]></answer>
+      <answer><![CDATA[your]]></answer>
+      <answer><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+  <item>
+    <question><![CDATA[Then <u>you</u> and <u>I</u> will be even!]]></question>
+    <answers>
+      <answer><![CDATA[you]]></answer>
+      <answer><![CDATA[I]]></answer>
+      <answer correct="true"><![CDATA[<I>neither</I>]]></answer>
+    </answers>
+  </item>
+</items>
+</content>

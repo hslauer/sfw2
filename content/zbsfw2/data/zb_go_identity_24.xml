@@ -1,0 +1,30 @@
+<root>
+<graphicOrganizer name="Identity Petals" type="block" variation="none" id="24">
+	<entry>
+		<tf x="250" y="54" width = "133" height = "98" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x9F7A24" useFill="1" fillColor="0xFEEFCD">
+			<text>Click to add text.</text>
+		</tf>
+		<tf x="461" y="54" width = "133" height = "98" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x9F7A24" useFill="1" fillColor="0xFEEFCD">
+			<text>Click to add text.</text>
+		</tf>
+		<tf x="162" y="216" width = "136" height = "97" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x9F7A24" useFill="1" fillColor="0xFEEFCD">
+			<text>Click to add text.</text>
+		</tf>
+		<tf x="352" y="197" width = "141" height = "123" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0xBF6002" useFill="1" fillColor="0xFFE6CC">
+			<text>Click to add text.</text>
+		</tf>
+		<tf x="547" y="216" width = "135" height = "97" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x9F7A24" useFill="1" fillColor="0xFEEFCD">
+			<text>Click to add text.</text>
+		</tf>
+		<tf x="253" y="367" width = "133" height = "96" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x9F7A24" useFill="1" fillColor="0xFEEFCD">
+			<text>Click to add text.</text>
+		</tf>
+		<tf x="457" y="367" width = "132" height = "97" useTemp="0" ZB_Block = "1" bold ="0" useFrame="1" strokeW="4" fColor="0x9F7A24" useFill="1" fillColor="0xFEEFCD">
+			<text>Click to add text.</text>
+		</tf>
+	</entry>
+
+</graphicOrganizer>
+<help title="Graphic Organizer Help">To add text, click on the text boxes. Use the on-screen keyboard or your computer's keyboard to type. If a box is full, it will not allow you to add any more text. Text can be deleted, if desired.
+	</help>
+</root>
